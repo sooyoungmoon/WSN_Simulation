@@ -1,0 +1,54 @@
+(old key: 905 new key: 570), (old key: 531 new key: 121), recipents: {2,  } 
+cluster Info. : 23
+(old key: 905 new key: 570), (old key: 531 new key: 121), recipents: {3,  } 
+(old key: 905 new key: 570), (old key: 531 new key: 121), recipents: {9,  } 
+(old key: 905 new key: 570), (old key: 531 new key: 121), recipents: {23,  } 
+cluster Info. : 23
+lower assoc. nodes: {5, 8, 10, 15,  } 
+(old key: 905 new key: 570), (old key: 531 new key: 121), recipents: {26,  } 
+cluster Info. : 23
+(old key: 28 new key: 432), (old key: 531 new key: 121), recipents: {7,  } 
+cluster Info. : 7
+lower assoc. nodes: {6,  } 
+(old key: 28 new key: 432), (old key: 531 new key: 121), recipents: {8,  } 
+cluster Info. : 7
+upper assoc. nodes: {23,  } 
+(old key: 28 new key: 432), (old key: 531 new key: 121), recipents: {13,  } 
+cluster Info. : 7
+(old key: 28 new key: 432), (old key: 531 new key: 121), recipents: {16,  } 
+cluster Info. : 7
+(old key: 28 new key: 432), (old key: 531 new key: 121), recipents: {17,  } 
+cluster Info. : 7
+(old key: 28 new key: 432), (old key: 531 new key: 121), recipents: {25,  } 
+cluster Info. : 7
+(old key: 686 new key: 596), (old key: 531 new key: 121), recipents: {0,  } 
+(old key: 686 new key: 596), (old key: 531 new key: 121), recipents: {4,  } 
+(old key: 686 new key: 596), (old key: 531 new key: 121), recipents: {5,  } 
+cluster Info. : 20
+upper assoc. nodes: {1, 23,  } 
+(old key: 686 new key: 596), (old key: 531 new key: 121), recipents: {11,  } 
+cluster Info. : 20
+(old key: 686 new key: 596), (old key: 531 new key: 121), recipents: {18,  } 
+(old key: 686 new key: 596), (old key: 531 new key: 121), recipents: {20,  } 
+cluster Info. : 20
+(old key: 288 new key: 963), (old key: 531 new key: 121), recipents: {1,  } 
+cluster Info. : 1
+lower assoc. nodes: {5,  } 
+(old key: 288 new key: 963), (old key: 531 new key: 121), recipents: {10,  } 
+cluster Info. : 1
+upper assoc. nodes: {23,  } 
+(old key: 288 new key: 963), (old key: 531 new key: 121), recipents: {19,  } 
+cluster Info. : 1
+(old key: 288 new key: 963), (old key: 531 new key: 121), recipents: {22,  } 
+cluster Info. : 1
+(old key: 848 new key: 14), (old key: 531 new key: 121), recipents: {6,  } 
+cluster Info. : 24
+upper assoc. nodes: {7,  } 
+(old key: 848 new key: 14), (old key: 531 new key: 121), recipents: {12,  } 
+(old key: 848 new key: 14), (old key: 531 new key: 121), recipents: {14,  } 
+(old key: 848 new key: 14), (old key: 531 new key: 121), recipents: {15,  } 
+cluster Info. : 24
+upper assoc. nodes: {23,  } 
+(old key: 848 new key: 14), (old key: 531 new key: 121), recipents: {21,  } 
+(old key: 848 new key: 14), (old key: 531 new key: 121), recipents: {24,  } 
+cluster Info. : 24

@@ -1,0 +1,23 @@
+groupKey (399, 109), recipents: {12, 13, 23, 24, 30, 36,  }
+groupKey (399, 109), recipents: {14, 18, 27, 29, 34, 37,  }
+groupKey (399, 109), recipents: {15, 16, 21, 22, 31,  }
+groupKey (399, 109), recipents: {17, 19, 20, 28, 38,  }
+groupKey (399, 109), recipents: {25, 26, 32, 33, 35,  }
+groupKey (418, 744), recipents: {14,  }
+groupKey (418, 744), recipents: {18,  }
+groupKey (418, 744), recipents: {27,  }
+groupKey (418, 744), recipents: {29,  }
+groupKey (418, 744), recipents: {34,  }
+groupKey (418, 744), recipents: {37,  }
+groupKey (153, 295), recipents: {12, 13, 23, 24, 30,  }
+groupKey (153, 295), recipents: {36,  }
+groupKey (292, 90), recipents: {25,  }
+groupKey (292, 90), recipents: {26,  }
+groupKey (292, 90), recipents: {32,  }
+groupKey (292, 90), recipents: {33,  }
+groupKey (292, 90), recipents: {35,  }
+groupKey (563, 1009), recipents: {17,  }
+groupKey (563, 1009), recipents: {19,  }
+groupKey (563, 1009), recipents: {20,  }
+groupKey (563, 1009), recipents: {28,  }
+groupKey (563, 1009), recipents: {38,  }

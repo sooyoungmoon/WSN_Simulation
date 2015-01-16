@@ -1,0 +1,1018 @@
+node ID: 216cell ID: 60
+	 (  44, 297) , distance: 256
+compromised 
+node ID: 217cell ID: 27
+	 (  152, 141) , distance: 217
+compromised 
+node ID: 218cell ID: 46
+	 (  518, 171) , distance: 253
+compromised 
+node ID: 219cell ID: 85
+	 (  70, 351) , distance: 235
+compromised 
+node ID: 220cell ID: 80
+	 (  446, 329) , distance: 148
+compromised 
+node ID: 221cell ID: 111
+	 (  188, 495) , distance: 224
+node ID: 222cell ID: 82
+	 (  542, 327) , distance: 243
+node ID: 223cell ID: 121
+	 (  84, 535) , distance: 319
+compromised 
+node ID: 224cell ID: 116
+	 (  420, 453) , distance: 194
+compromised 
+node ID: 225cell ID: 115
+	 (  396, 477) , distance: 201
+compromised 
+node ID: 226cell ID: 118
+	 (  504, 493) , distance: 280
+compromised 
+node ID: 227cell ID: 29
+	 (  284, 119) , distance: 181
+compromised 
+node ID: 228cell ID: 136
+	 (  220, 597) , distance: 307
+compromised 
+node ID: 229cell ID: 103
+	 (  366, 443) , distance: 157
+compromised 
+node ID: 230cell ID: 26
+	 (  136, 139) , distance: 229
+compromised 
+node ID: 231cell ID: 81
+	 (  492, 311) , distance: 192
+compromised 
+node ID: 232cell ID: 124
+	 (  226, 541) , distance: 252
+compromised 
+node ID: 233cell ID: 27
+	 (  198, 117) , distance: 209
+compromised 
+node ID: 234cell ID: 14
+	 (  124, 83) , distance: 279
+compromised 
+node ID: 235cell ID: 85
+	 (  92, 361) , distance: 216
+compromised 
+node ID: 236cell ID: 112
+	 (  234, 471) , distance: 183
+compromised 
+node ID: 237cell ID: 15
+	 (  158, 97) , distance: 247
+compromised 
+node ID: 238cell ID: 98
+	 (  120, 417) , distance: 214
+node ID: 239cell ID: 89
+	 (  292, 391) , distance: 91
+compromised 
+node ID: 240cell ID: 4
+	 (  232, 23) , distance: 285
+compromised 
+node ID: 241cell ID: 3
+	 (  180, 45) , distance: 281
+compromised 
+node ID: 242cell ID: 38
+	 (  136, 167) , distance: 211
+compromised 
+node ID: 243cell ID: 125
+	 (  278, 513) , distance: 214
+compromised 
+node ID: 244cell ID: 24
+	 (  0, 145) , distance: 337
+node ID: 245cell ID: 23
+	 (  586, 85) , distance: 357
+node ID: 246cell ID: 10
+	 (  516, 17) , distance: 356
+compromised 
+node ID: 247cell ID: 33
+	 (  496, 109) , distance: 273
+node ID: 248cell ID: 140
+	 (  400, 565) , distance: 283
+compromised 
+node ID: 249cell ID: 59
+	 (  564, 217) , distance: 276
+compromised 
+node ID: 250cell ID: 94
+	 (  504, 361) , distance: 212
+node ID: 251cell ID: 133
+	 (  98, 565) , distance: 333
+node ID: 252cell ID: 0
+	 (  24, 3) , distance: 405
+compromised 
+node ID: 253cell ID: 95
+	 (  586, 397) , distance: 302
+compromised 
+node ID: 254cell ID: 2
+	 (  132, 39) , distance: 310
+compromised 
+node ID: 255cell ID: 89
+	 (  288, 375) , distance: 75
+node ID: 256cell ID: 116
+	 (  410, 451) , distance: 186
+compromised 
+node ID: 257cell ID: 99
+	 (  154, 431) , distance: 196
+compromised 
+node ID: 258cell ID: 38
+	 (  112, 151) , distance: 239
+compromised 
+node ID: 259cell ID: 93
+	 (  462, 387) , distance: 183
+node ID: 260cell ID: 104
+	 (  404, 409) , distance: 150
+compromised 
+node ID: 261cell ID: 55
+	 (  390, 225) , distance: 117
+compromised 
+node ID: 262cell ID: 122
+	 (  100, 513) , distance: 292
+compromised 
+node ID: 263cell ID: 113
+	 (  284, 457) , distance: 157
+compromised 
+node ID: 264cell ID: 28
+	 (  244, 119) , distance: 189
+node ID: 265cell ID: 123
+	 (  180, 515) , distance: 246
+node ID: 266cell ID: 62
+	 (  106, 283) , distance: 194
+compromised 
+node ID: 267cell ID: 101
+	 (  274, 419) , distance: 121
+compromised 
+node ID: 268cell ID: 112
+	 (  200, 471) , distance: 198
+node ID: 269cell ID: 31
+	 (  370, 147) , distance: 168
+compromised 
+node ID: 270cell ID: 50
+	 (  148, 221) , distance: 171
+compromised 
+node ID: 271cell ID: 121
+	 (  98, 535) , distance: 309
+compromised 
+node ID: 272cell ID: 132
+	 (  12, 587) , distance: 406
+compromised 
+node ID: 273cell ID: 35
+	 (  552, 143) , distance: 296
+node ID: 274cell ID: 22
+	 (  516, 89) , distance: 301
+compromised 
+node ID: 275cell ID: 29
+	 (  286, 147) , distance: 153
+compromised 
+node ID: 276cell ID: 120
+	 (  32, 501) , distance: 335
+node ID: 277cell ID: 23
+	 (  550, 89) , distance: 327
+node ID: 278cell ID: 74
+	 (  142, 303) , distance: 158
+node ID: 279cell ID: 113
+	 (  270, 489) , distance: 191
+compromised 
+node ID: 280cell ID: 60
+	 (  48, 255) , distance: 255
+compromised 
+node ID: 281cell ID: 91
+	 (  366, 397) , distance: 117
+node ID: 282cell ID: 126
+	 (  302, 515) , distance: 215
+node ID: 283cell ID: 101
+	 (  262, 431) , distance: 136
+compromised 
+node ID: 284cell ID: 112
+	 (  226, 475) , distance: 190
+compromised 
+node ID: 285cell ID: 63
+	 (  150, 279) , distance: 151
+compromised 
+node ID: 286cell ID: 18
+	 (  304, 93) , distance: 207
+compromised 
+node ID: 287cell ID: 25
+	 (  60, 127) , distance: 295
+compromised 
+node ID: 288cell ID: 52
+	 (  224, 249) , distance: 91
+node ID: 289cell ID: 51
+	 (  178, 213) , distance: 149
+compromised 
+node ID: 290cell ID: 6
+	 (  326, 17) , distance: 284
+compromised 
+node ID: 291cell ID: 61
+	 (  90, 255) , distance: 214
+compromised 
+node ID: 292cell ID: 120
+	 (  2, 519) , distance: 369
+compromised 
+node ID: 293cell ID: 39
+	 (  160, 163) , distance: 195
+compromised 
+node ID: 294cell ID: 26
+	 (  146, 149) , distance: 215
+compromised 
+node ID: 295cell ID: 97
+	 (  72, 431) , distance: 262
+compromised 
+node ID: 296cell ID: 12
+	 (  42, 97) , distance: 328
+compromised 
+node ID: 297cell ID: 123
+	 (  178, 535) , distance: 264
+compromised 
+node ID: 298cell ID: 94
+	 (  528, 369) , distance: 238
+node ID: 299cell ID: 37
+	 (  68, 169) , distance: 266
+node ID: 300cell ID: 64
+	 (  230, 285) , distance: 71
+compromised 
+node ID: 301cell ID: 95
+	 (  584, 351) , distance: 288
+node ID: 302cell ID: 114
+	 (  308, 455) , distance: 155
+compromised 
+node ID: 303cell ID: 89
+	 (  278, 361) , distance: 64
+node ID: 304cell ID: 100
+	 (  202, 415) , distance: 151
+compromised 
+node ID: 305cell ID: 99
+	 (  180, 443) , distance: 186
+node ID: 306cell ID: 86
+	 (  118, 359) , distance: 191
+node ID: 307cell ID: 61
+	 (  86, 275) , distance: 215
+compromised 
+node ID: 308cell ID: 8
+	 (  400, 7) , distance: 309
+node ID: 309cell ID: 55
+	 (  356, 225) , distance: 93
+compromised 
+node ID: 310cell ID: 26
+	 (  146, 111) , distance: 243
+compromised 
+node ID: 311cell ID: 113
+	 (  262, 467) , distance: 171
+node ID: 312cell ID: 140
+	 (  402, 583) , distance: 300
+compromised 
+node ID: 313cell ID: 139
+	 (  396, 579) , distance: 295
+compromised 
+node ID: 314cell ID: 126
+	 (  302, 533) , distance: 233
+compromised 
+node ID: 315cell ID: 53
+	 (  250, 249) , distance: 71
+node ID: 316cell ID: 64
+	 (  208, 291) , distance: 92
+node ID: 317cell ID: 111
+	 (  180, 497) , distance: 230
+compromised 
+node ID: 318cell ID: 130
+	 (  538, 513) , distance: 319
+node ID: 319cell ID: 105
+	 (  498, 439) , distance: 241
+node ID: 320cell ID: 132
+	 (  10, 577) , distance: 401
+node ID: 321cell ID: 115
+	 (  380, 475) , distance: 192
+compromised 
+node ID: 322cell ID: 86
+	 (  112, 385) , distance: 206
+compromised 
+node ID: 323cell ID: 77
+	 (  280, 319) , distance: 27
+compromised 
+node ID: 324cell ID: 56
+	 (  434, 233) , distance: 149
+node ID: 325cell ID: 87
+	 (  154, 367) , distance: 160
+compromised 
+node ID: 326cell ID: 10
+	 (  538, 31) , distance: 359
+compromised 
+node ID: 327cell ID: 33
+	 (  478, 127) , distance: 248
+compromised 
+node ID: 328cell ID: 44
+	 (  444, 157) , distance: 202
+compromised 
+node ID: 329cell ID: 27
+	 (  194, 149) , distance: 184
+node ID: 330cell ID: 126
+	 (  344, 545) , distance: 248
+node ID: 331cell ID: 133
+	 (  72, 577) , distance: 358
+compromised 
+node ID: 332cell ID: 32
+	 (  436, 129) , distance: 218
+node ID: 333cell ID: 143
+	 (  564, 577) , distance: 382
+compromised 
+node ID: 334cell ID: 34
+	 (  548, 147) , distance: 291
+compromised 
+node ID: 335cell ID: 41
+	 (  294, 179) , distance: 121
+compromised 
+node ID: 336cell ID: 52
+	 (  248, 245) , distance: 75
+compromised 
+node ID: 337cell ID: 83
+	 (  594, 317) , distance: 294
+compromised 
+node ID: 338cell ID: 70
+	 (  526, 299) , distance: 226
+compromised 
+node ID: 339cell ID: 141
+	 (  496, 559) , distance: 324
+compromised 
+node ID: 340cell ID: 120
+	 (  42, 527) , distance: 343
+node ID: 341cell ID: 55
+	 (  354, 215) , distance: 100
+node ID: 342cell ID: 74
+	 (  102, 341) , distance: 202
+node ID: 343cell ID: 1
+	 (  62, 3) , distance: 380
+compromised 
+node ID: 344cell ID: 60
+	 (  42, 289) , distance: 258
+compromised 
+node ID: 345cell ID: 107
+	 (  566, 447) , distance: 303
+node ID: 346cell ID: 30
+	 (  318, 127) , distance: 173
+compromised 
+node ID: 347cell ID: 117
+	 (  462, 477) , distance: 239
+compromised 
+node ID: 348cell ID: 16
+	 (  242, 71) , distance: 236
+compromised 
+node ID: 349cell ID: 15
+	 (  154, 81) , distance: 263
+node ID: 350cell ID: 114
+	 (  346, 493) , distance: 198
+compromised 
+node ID: 351cell ID: 105
+	 (  474, 433) , distance: 219
+compromised 
+node ID: 352cell ID: 20
+	 (  428, 85) , distance: 250
+compromised 
+node ID: 353cell ID: 35
+	 (  554, 109) , distance: 317
+compromised 
+node ID: 354cell ID: 70
+	 (  522, 289) , distance: 222
+compromised 
+node ID: 355cell ID: 61
+	 (  64, 257) , distance: 239
+compromised 
+node ID: 356cell ID: 24
+	 (  18, 127) , distance: 330
+node ID: 357cell ID: 119
+	 (  582, 475) , distance: 331
+compromised 
+node ID: 358cell ID: 74
+	 (  118, 313) , distance: 182
+compromised 
+node ID: 359cell ID: 97
+	 (  60, 425) , distance: 270
+node ID: 360cell ID: 28
+	 (  248, 105) , distance: 201
+node ID: 361cell ID: 11
+	 (  596, 45) , distance: 390
+compromised 
+node ID: 362cell ID: 142
+	 (  532, 593) , distance: 373
+node ID: 363cell ID: 5
+	 (  250, 13) , distance: 291
+node ID: 364cell ID: 128
+	 (  400, 535) , distance: 255
+compromised 
+node ID: 365cell ID: 111
+	 (  198, 471) , distance: 199
+node ID: 366cell ID: 34
+	 (  532, 115) , distance: 296
+compromised 
+node ID: 367cell ID: 105
+	 (  474, 419) , distance: 210
+compromised 
+node ID: 368cell ID: 4
+	 (  236, 35) , distance: 272
+compromised 
+node ID: 369cell ID: 3
+	 (  194, 15) , distance: 304
+compromised 
+node ID: 370cell ID: 22
+	 (  506, 93) , distance: 292
+node ID: 371cell ID: 93
+	 (  470, 385) , distance: 190
+compromised 
+node ID: 372cell ID: 136
+	 (  232, 599) , distance: 306
+compromised 
+node ID: 373cell ID: 87
+	 (  156, 367) , distance: 158
+compromised 
+node ID: 374cell ID: 58
+	 (  508, 205) , distance: 228
+compromised 
+node ID: 375cell ID: 81
+	 (  480, 339) , distance: 184
+compromised 
+node ID: 376cell ID: 108
+	 (  26, 499) , distance: 338
+node ID: 377cell ID: 91
+	 (  354, 351) , distance: 74
+compromised 
+node ID: 378cell ID: 62
+	 (  142, 299) , distance: 158
+compromised 
+node ID: 379cell ID: 37
+	 (  80, 159) , distance: 261
+compromised 
+node ID: 380cell ID: 64
+	 (  228, 263) , distance: 80
+compromised 
+node ID: 381cell ID: 15
+	 (  174, 85) , distance: 249
+compromised 
+node ID: 382cell ID: 66
+	 (  306, 263) , distance: 37
+node ID: 383cell ID: 41
+	 (  280, 151) , distance: 150
+compromised 
+node ID: 384cell ID: 36
+	 (  20, 193) , distance: 299
+node ID: 385cell ID: 35
+	 (  568, 123) , distance: 321
+compromised 
+node ID: 386cell ID: 118
+	 (  528, 479) , distance: 289
+compromised 
+node ID: 387cell ID: 13
+	 (  56, 67) , distance: 337
+compromised 
+node ID: 388cell ID: 56
+	 (  426, 205) , distance: 157
+compromised 
+node ID: 389cell ID: 119
+	 (  574, 495) , distance: 336
+compromised 
+node ID: 390cell ID: 42
+	 (  344, 169) , distance: 138
+compromised 
+node ID: 391cell ID: 81
+	 (  492, 329) , distance: 194
+compromised 
+node ID: 392cell ID: 124
+	 (  222, 521) , distance: 234
+node ID: 393cell ID: 11
+	 (  588, 39) , distance: 388
+compromised 
+node ID: 394cell ID: 126
+	 (  348, 527) , distance: 232
+compromised 
+node ID: 395cell ID: 101
+	 (  298, 437) , distance: 137
+node ID: 396cell ID: 0
+	 (  36, 5) , distance: 395
+node ID: 397cell ID: 143
+	 (  598, 599) , distance: 422
+node ID: 398cell ID: 82
+	 (  506, 339) , distance: 209
+node ID: 399cell ID: 57
+	 (  482, 243) , distance: 190
+compromised 
+node ID: 400cell ID: 68
+	 (  414, 271) , distance: 117
+compromised 
+node ID: 401cell ID: 19
+	 (  362, 53) , distance: 254
+compromised 
+node ID: 402cell ID: 70
+	 (  536, 257) , distance: 239
+compromised 
+node ID: 403cell ID: 77
+	 (  278, 317) , distance: 27
+compromised 
+node ID: 404cell ID: 8
+	 (  410, 39) , distance: 283
+compromised 
+node ID: 405cell ID: 39
+	 (  160, 197) , distance: 173
+compromised 
+node ID: 406cell ID: 26
+	 (  144, 143) , distance: 221
+compromised 
+node ID: 407cell ID: 49
+	 (  62, 237) , distance: 246
+node ID: 408cell ID: 44
+	 (  444, 197) , distance: 177
+compromised 
+node ID: 409cell ID: 107
+	 (  574, 415) , distance: 297
+compromised 
+node ID: 410cell ID: 46
+	 (  544, 163) , distance: 279
+compromised 
+node ID: 411cell ID: 117
+	 (  464, 467) , distance: 234
+compromised 
+node ID: 412cell ID: 112
+	 (  240, 485) , distance: 194
+compromised 
+node ID: 413cell ID: 15
+	 (  166, 99) , distance: 241
+compromised 
+node ID: 414cell ID: 18
+	 (  324, 69) , distance: 232
+compromised 
+node ID: 415cell ID: 57
+	 (  486, 217) , distance: 203
+compromised 
+node ID: 416cell ID: 132
+	 (  6, 599) , distance: 419
+compromised 
+node ID: 417cell ID: 115
+	 (  356, 495) , distance: 202
+compromised 
+node ID: 418cell ID: 22
+	 (  526, 75) , distance: 318
+compromised 
+node ID: 419cell ID: 61
+	 (  94, 267) , distance: 208
+compromised 
+node ID: 420cell ID: 104
+	 (  416, 445) , distance: 185
+node ID: 421cell ID: 103
+	 (  384, 421) , distance: 147
+compromised 
+node ID: 422cell ID: 138
+	 (  314, 559) , distance: 259
+compromised 
+node ID: 423cell ID: 81
+	 (  472, 309) , distance: 172
+node ID: 424cell ID: 92
+	 (  416, 363) , distance: 132
+compromised 
+node ID: 425cell ID: 59
+	 (  586, 217) , distance: 297
+node ID: 426cell ID: 46
+	 (  522, 173) , distance: 255
+compromised 
+node ID: 427cell ID: 37
+	 (  82, 179) , distance: 249
+compromised 
+node ID: 428cell ID: 48
+	 (  36, 231) , distance: 272
+compromised 
+node ID: 429cell ID: 127
+	 (  354, 505) , distance: 211
+compromised 
+node ID: 430cell ID: 66
+	 (  344, 281) , distance: 47
+node ID: 431cell ID: 105
+	 (  452, 433) , distance: 201
+compromised 
+node ID: 432cell ID: 52
+	 (  212, 221) , distance: 118
+node ID: 433cell ID: 3
+	 (  154, 29) , distance: 307
+node ID: 434cell ID: 102
+	 (  334, 423) , distance: 127
+node ID: 435cell ID: 141
+	 (  472, 593) , distance: 339
+node ID: 436cell ID: 56
+	 (  444, 237) , distance: 157
+node ID: 437cell ID: 7
+	 (  388, 7) , distance: 305
+node ID: 438cell ID: 74
+	 (  110, 327) , distance: 191
+node ID: 439cell ID: 49
+	 (  66, 241) , distance: 241
+node ID: 440cell ID: 12
+	 (  48, 61) , distance: 347
+node ID: 441cell ID: 43
+	 (  364, 153) , distance: 160
+node ID: 442cell ID: 94
+	 (  518, 365) , distance: 227
+node ID: 443cell ID: 21
+	 (  486, 93) , distance: 278
+node ID: 444cell ID: 16
+	 (  230, 87) , distance: 224
+node ID: 445cell ID: 95
+	 (  576, 367) , distance: 284
+node ID: 446cell ID: 82
+	 (  542, 331) , distance: 243
+node ID: 447cell ID: 41
+	 (  294, 171) , distance: 129
+node ID: 448cell ID: 132
+	 (  18, 583) , distance: 399
+node ID: 449cell ID: 115
+	 (  392, 493) , distance: 213
+node ID: 450cell ID: 86
+	 (  144, 383) , distance: 176
+node ID: 451cell ID: 141
+	 (  490, 565) , distance: 326
+node ID: 452cell ID: 120
+	 (  20, 545) , distance: 372
+node ID: 453cell ID: 7
+	 (  398, 13) , distance: 303
+node ID: 454cell ID: 90
+	 (  334, 359) , distance: 68
+node ID: 455cell ID: 49
+	 (  84, 225) , distance: 228
+node ID: 456cell ID: 60
+	 (  4, 255) , distance: 299
+node ID: 457cell ID: 139
+	 (  388, 551) , distance: 265
+node ID: 458cell ID: 94
+	 (  508, 385) , distance: 224
+node ID: 459cell ID: 117
+	 (  496, 489) , distance: 272
+node ID: 460cell ID: 80
+	 (  404, 317) , distance: 105
+node ID: 461cell ID: 47
+	 (  576, 161) , distance: 309
+node ID: 462cell ID: 66
+	 (  340, 273) , distance: 48
+node ID: 463cell ID: 57
+	 (  488, 249) , distance: 194
+node ID: 464cell ID: 100
+	 (  230, 415) , distance: 134
+node ID: 465cell ID: 83
+	 (  596, 319) , distance: 296
+node ID: 466cell ID: 102
+	 (  334, 413) , distance: 118
+node ID: 467cell ID: 45
+	 (  478, 163) , distance: 224
+node ID: 468cell ID: 136
+	 (  234, 561) , distance: 269
+node ID: 469cell ID: 39
+	 (  178, 177) , distance: 173
+node ID: 470cell ID: 42
+	 (  334, 195) , distance: 110
+node ID: 471cell ID: 49
+	 (  82, 211) , distance: 235
+node ID: 472cell ID: 60
+	 (  26, 277) , distance: 274
+node ID: 473cell ID: 27
+	 (  178, 133) , distance: 206
+node ID: 474cell ID: 126
+	 (  324, 525) , distance: 226
+node ID: 475cell ID: 101
+	 (  254, 449) , distance: 155
+node ID: 476cell ID: 32
+	 (  416, 143) , distance: 195
+node ID: 477cell ID: 15
+	 (  182, 81) , distance: 248
+node ID: 478cell ID: 130
+	 (  506, 547) , distance: 321
+node ID: 479cell ID: 89
+	 (  268, 389) , distance: 94
+node ID: 480cell ID: 132
+	 (  24, 591) , distance: 401
+node ID: 481cell ID: 115
+	 (  366, 497) , distance: 207
+node ID: 482cell ID: 86
+	 (  130, 375) , distance: 185
+node ID: 483cell ID: 125
+	 (  276, 523) , distance: 224
+node ID: 484cell ID: 72
+	 (  48, 339) , distance: 255
+node ID: 485cell ID: 135
+	 (  172, 559) , distance: 288
+node ID: 486cell ID: 26
+	 (  146, 123) , distance: 234
+node ID: 487cell ID: 129
+	 (  474, 545) , distance: 300
+node ID: 488cell ID: 44
+	 (  430, 161) , distance: 190
+node ID: 489cell ID: 43
+	 (  374, 179) , distance: 141
+node ID: 490cell ID: 62
+	 (  134, 253) , distance: 172
+node ID: 491cell ID: 101
+	 (  254, 403) , distance: 112
+node ID: 492cell ID: 112
+	 (  234, 499) , distance: 209
+node ID: 493cell ID: 111
+	 (  152, 459) , distance: 217
+node ID: 494cell ID: 18
+	 (  308, 83) , distance: 217
+node ID: 495cell ID: 25
+	 (  72, 121) , distance: 289
+node ID: 496cell ID: 132
+	 (  0, 569) , distance: 402
+node ID: 497cell ID: 3
+	 (  188, 15) , distance: 306
+node ID: 498cell ID: 22
+	 (  544, 61) , distance: 341
+node ID: 499cell ID: 13
+	 (  88, 75) , distance: 309
+node ID: 500cell ID: 56
+	 (  442, 249) , distance: 150
+node ID: 501cell ID: 7
+	 (  354, 3) , distance: 301
+node ID: 502cell ID: 42
+	 (  314, 163) , distance: 137
+node ID: 503cell ID: 129
+	 (  482, 535) , distance: 297
+node ID: 504cell ID: 124
+	 (  240, 513) , distance: 221
+node ID: 505cell ID: 107
+	 (  552, 413) , distance: 276
+node ID: 506cell ID: 142
+	 (  508, 591) , distance: 357
+node ID: 507cell ID: 85
+	 (  50, 383) , distance: 263
+node ID: 508cell ID: 32
+	 (  406, 143) , distance: 189
+node ID: 509cell ID: 127
+	 (  382, 545) , distance: 258
+node ID: 510cell ID: 18
+	 (  306, 93) , distance: 207
+node ID: 511cell ID: 137
+	 (  254, 563) , distance: 266
+node ID: 512cell ID: 68
+	 (  420, 251) , distance: 129
+node ID: 513cell ID: 67
+	 (  388, 269) , distance: 93
+node ID: 514cell ID: 38
+	 (  102, 155) , distance: 245
+node ID: 515cell ID: 125
+	 (  266, 501) , distance: 203
+node ID: 516cell ID: 40
+	 (  222, 173) , distance: 149
+node ID: 517cell ID: 119
+	 (  586, 471) , distance: 333
+node ID: 518cell ID: 90
+	 (  312, 379) , distance: 79
+node ID: 519cell ID: 1
+	 (  74, 27) , distance: 354
+node ID: 520cell ID: 28
+	 (  212, 103) , distance: 215
+node ID: 521cell ID: 43
+	 (  382, 171) , distance: 152
+node ID: 522cell ID: 62
+	 (  106, 283) , distance: 194
+node ID: 523cell ID: 5
+	 (  252, 19) , distance: 285
+node ID: 524cell ID: 128
+	 (  436, 533) , distance: 269
+node ID: 525cell ID: 111
+	 (  198, 465) , distance: 193
+node ID: 526cell ID: 130
+	 (  502, 537) , distance: 311
+node ID: 527cell ID: 9
+	 (  468, 3) , distance: 341
+node ID: 528cell ID: 84
+	 (  20, 365) , distance: 287
+node ID: 529cell ID: 3
+	 (  166, 41) , distance: 291
+node ID: 530cell ID: 22
+	 (  504, 79) , distance: 300
+node ID: 531cell ID: 93
+	 (  480, 385) , distance: 199
+node ID: 532cell ID: 120
+	 (  12, 513) , distance: 358
+node ID: 533cell ID: 135
+	 (  160, 559) , distance: 294
+node ID: 534cell ID: 42
+	 (  326, 175) , distance: 127
+node ID: 535cell ID: 97
+	 (  96, 429) , distance: 241
+node ID: 536cell ID: 76
+	 (  218, 315) , distance: 83
+node ID: 537cell ID: 91
+	 (  350, 371) , distance: 86
+node ID: 538cell ID: 30
+	 (  336, 127) , distance: 176
+node ID: 539cell ID: 69
+	 (  476, 255) , distance: 181
+node ID: 540cell ID: 80
+	 (  420, 309) , distance: 120
+node ID: 541cell ID: 79
+	 (  356, 333) , distance: 65
+node ID: 542cell ID: 34
+	 (  548, 111) , distance: 311
+node ID: 543cell ID: 121
+	 (  80, 517) , distance: 309
+node ID: 544cell ID: 116
+	 (  414, 457) , distance: 194
+node ID: 545cell ID: 67
+	 (  354, 291) , distance: 54
+node ID: 546cell ID: 70
+	 (  510, 297) , distance: 210
+node ID: 547cell ID: 13
+	 (  98, 63) , distance: 311
+node ID: 548cell ID: 120
+	 (  8, 529) , distance: 371
+node ID: 549cell ID: 103
+	 (  398, 435) , distance: 166
+node ID: 550cell ID: 90
+	 (  326, 387) , distance: 90
+node ID: 551cell ID: 81
+	 (  486, 349) , distance: 192
+node ID: 552cell ID: 140
+	 (  400, 593) , distance: 309
+node ID: 553cell ID: 91
+	 (  386, 359) , distance: 104
+node ID: 554cell ID: 126
+	 (  304, 501) , distance: 201
+node ID: 555cell ID: 85
+	 (  56, 375) , distance: 255
+node ID: 556cell ID: 96
+	 (  48, 407) , distance: 273
+node ID: 557cell ID: 31
+	 (  350, 127) , distance: 180
+node ID: 558cell ID: 18
+	 (  338, 51) , distance: 251
+node ID: 559cell ID: 137
+	 (  256, 585) , distance: 288
+node ID: 560cell ID: 100
+	 (  224, 421) , distance: 142
+node ID: 561cell ID: 51
+	 (  174, 249) , distance: 135
+node ID: 562cell ID: 54
+	 (  320, 207) , distance: 95
+node ID: 563cell ID: 77
+	 (  252, 327) , distance: 55
+node ID: 564cell ID: 88
+	 (  216, 397) , distance: 128
+node ID: 565cell ID: 103
+	 (  360, 447) , distance: 158
+node ID: 566cell ID: 90
+	 (  328, 395) , distance: 99
+node ID: 567cell ID: 129
+	 (  494, 537) , distance: 306
+node ID: 568cell ID: 140
+	 (  420, 599) , distance: 322
+node ID: 569cell ID: 107
+	 (  552, 409) , distance: 274
+node ID: 570cell ID: 62
+	 (  102, 283) , distance: 198
+node ID: 571cell ID: 37
+	 (  66, 165) , distance: 270
+node ID: 572cell ID: 32
+	 (  406, 137) , distance: 194
+node ID: 573cell ID: 95
+	 (  554, 359) , distance: 260
+node ID: 574cell ID: 18
+	 (  312, 79) , distance: 221
+node ID: 575cell ID: 105
+	 (  486, 441) , distance: 233
+node ID: 576cell ID: 68
+	 (  400, 285) , distance: 101
+node ID: 577cell ID: 67
+	 (  380, 273) , distance: 84
+node ID: 578cell ID: 86
+	 (  128, 353) , distance: 179
+node ID: 579cell ID: 77
+	 (  280, 317) , distance: 26
+node ID: 580cell ID: 24
+	 (  30, 105) , distance: 333
+node ID: 581cell ID: 7
+	 (  390, 19) , distance: 295
+node ID: 582cell ID: 74
+	 (  144, 315) , distance: 156
+node ID: 583cell ID: 33
+	 (  482, 105) , distance: 266
+node ID: 584cell ID: 44
+	 (  414, 159) , distance: 181
+node ID: 585cell ID: 139
+	 (  388, 565) , distance: 279
+node ID: 586cell ID: 78
+	 (  328, 323) , distance: 36
+node ID: 587cell ID: 37
+	 (  56, 167) , distance: 277
+node ID: 588cell ID: 80
+	 (  432, 325) , distance: 134
+node ID: 589cell ID: 15
+	 (  172, 67) , distance: 265
+node ID: 590cell ID: 82
+	 (  510, 311) , distance: 210
+node ID: 591cell ID: 105
+	 (  498, 423) , distance: 233
+node ID: 592cell ID: 36
+	 (  8, 175) , distance: 317
+node ID: 593cell ID: 3
+	 (  150, 3) , distance: 332
+node ID: 594cell ID: 118
+	 (  530, 459) , distance: 279
+node ID: 595cell ID: 125
+	 (  280, 517) , distance: 217
+node ID: 596cell ID: 72
+	 (  46, 315) , distance: 254
+node ID: 597cell ID: 119
+	 (  554, 493) , distance: 319
+node ID: 598cell ID: 90
+	 (  336, 365) , distance: 74
+node ID: 599cell ID: 113
+	 (  266, 465) , distance: 168
+node ID: 600cell ID: 44
+	 (  434, 159) , distance: 194
+node ID: 601cell ID: 11
+	 (  570, 3) , distance: 401
+node ID: 602cell ID: 126
+	 (  320, 525) , distance: 225
+node ID: 603cell ID: 117
+	 (  474, 475) , distance: 246
+node ID: 604cell ID: 48
+	 (  44, 201) , distance: 274
+node ID: 605cell ID: 143
+	 (  596, 553) , distance: 389
+node ID: 606cell ID: 114
+	 (  310, 491) , distance: 191
+node ID: 607cell ID: 105
+	 (  490, 411) , distance: 220
+node ID: 608cell ID: 132
+	 (  42, 585) , distance: 384
+node ID: 609cell ID: 99
+	 (  156, 449) , distance: 207
+node ID: 610cell ID: 102
+	 (  304, 449) , distance: 149
+node ID: 611cell ID: 125
+	 (  252, 529) , distance: 233
+node ID: 612cell ID: 120
+	 (  44, 535) , distance: 347
+node ID: 613cell ID: 71
+	 (  568, 253) , distance: 272
+node ID: 614cell ID: 10
+	 (  508, 29) , distance: 341
+node ID: 615cell ID: 33
+	 (  470, 125) , distance: 243
+node ID: 616cell ID: 92
+	 (  402, 357) , distance: 116
+node ID: 617cell ID: 107
+	 (  556, 427) , distance: 285
+node ID: 618cell ID: 126
+	 (  314, 523) , distance: 223
+node ID: 619cell ID: 117
+	 (  478, 481) , distance: 253
+node ID: 620cell ID: 80
+	 (  424, 323) , distance: 126
+node ID: 621cell ID: 31
+	 (  398, 119) , distance: 205
+node ID: 622cell ID: 66
+	 (  340, 273) , distance: 48
+node ID: 623cell ID: 25
+	 (  72, 147) , distance: 274
+node ID: 624cell ID: 116
+	 (  404, 481) , distance: 208
+node ID: 625cell ID: 115
+	 (  394, 453) , distance: 179
+node ID: 626cell ID: 22
+	 (  542, 77) , distance: 329
+node ID: 627cell ID: 125
+	 (  260, 537) , distance: 240
+node ID: 628cell ID: 136
+	 (  218, 555) , distance: 267
+node ID: 629cell ID: 39
+	 (  162, 197) , distance: 172
+node ID: 630cell ID: 138
+	 (  310, 551) , distance: 251
+node ID: 631cell ID: 129
+	 (  476, 505) , distance: 270
+node ID: 632cell ID: 60
+	 (  18, 267) , distance: 283
+node ID: 633cell ID: 107
+	 (  590, 415) , distance: 311
+node ID: 634cell ID: 126
+	 (  336, 547) , distance: 249
+node ID: 635cell ID: 5
+	 (  282, 33) , distance: 267
+node ID: 636cell ID: 112
+	 (  230, 499) , distance: 210
+node ID: 637cell ID: 79
+	 (  388, 323) , distance: 90
+node ID: 638cell ID: 2
+	 (  120, 27) , distance: 327
+node ID: 639cell ID: 137
+	 (  296, 569) , distance: 269
+node ID: 640cell ID: 116
+	 (  432, 481) , distance: 224
+node ID: 641cell ID: 19
+	 (  396, 81) , distance: 239
+node ID: 642cell ID: 86
+	 (  114, 385) , distance: 204
+node ID: 643cell ID: 77
+	 (  274, 347) , distance: 53
+node ID: 644cell ID: 104
+	 (  434, 415) , distance: 176
+node ID: 645cell ID: 55
+	 (  362, 207) , distance: 111
+node ID: 646cell ID: 138
+	 (  334, 599) , distance: 300
+node ID: 647cell ID: 17
+	 (  270, 67) , distance: 234

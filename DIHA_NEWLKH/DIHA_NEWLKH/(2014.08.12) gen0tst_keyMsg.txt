@@ -1,0 +1,37 @@
+(old key: 399 new key: 109), recipents: {15, 16, 21, 31,  } 
+(old key: 418 new key: 744), (old key: 399 new key: 109), recipents: {14,  } 
+lower assoc. nodes: {1, 17,  } 
+(old key: 418 new key: 744), (old key: 399 new key: 109), recipents: {18,  } 
+(old key: 418 new key: 744), (old key: 399 new key: 109), recipents: {27,  } 
+upper assoc. nodes: {22, 38,  } 
+(old key: 418 new key: 744), (old key: 399 new key: 109), recipents: {29,  } 
+upper assoc. nodes: {13,  } 
+(old key: 418 new key: 744), (old key: 399 new key: 109), recipents: {34,  } 
+cluster Info. : 14
+(old key: 418 new key: 744), (old key: 399 new key: 109), recipents: {37,  } 
+cluster Info. : 14
+(old key: 153 new key: 295), (old key: 399 new key: 109), recipents: {12, 23, 24, 30,  } 
+(old key: 153 new key: 295), (old key: 399 new key: 109), recipents: {36,  } 
+cluster Info. : 13
+(old key: 292 new key: 90), (old key: 399 new key: 109), recipents: {25,  } 
+(old key: 292 new key: 90), (old key: 399 new key: 109), recipents: {26,  } 
+(old key: 292 new key: 90), (old key: 399 new key: 109), recipents: {32,  } 
+upper assoc. nodes: {13, 22,  } 
+(old key: 292 new key: 90), (old key: 399 new key: 109), recipents: {33,  } 
+cluster Info. : 25
+(old key: 292 new key: 90), (old key: 399 new key: 109), recipents: {35,  } 
+cluster Info. : 25
+(old key: 563 new key: 1009), (old key: 399 new key: 109), recipents: {17,  } 
+cluster Info. : 38
+upper assoc. nodes: {13, 22,  } 
+(old key: 563 new key: 1009), (old key: 399 new key: 109), recipents: {19,  } 
+cluster Info. : 38
+(old key: 563 new key: 1009), (old key: 399 new key: 109), recipents: {20,  } 
+cluster Info. : 38
+(old key: 563 new key: 1009), (old key: 399 new key: 109), recipents: {28,  } 
+cluster Info. : 38
+(old key: 563 new key: 1009), (old key: 399 new key: 109), recipents: {38,  } 
+cluster Info. : 38
+lower assoc. nodes: {27,  } 
+(old key: 153 new key: 295), (old key: 399 new key: 109), recipents: {13,  } 
+(old key: 399 new key: 109), recipents: {22,  } 

@@ -1,0 +1,6 @@
+ clusters: 
+ CH's ID: 17 { 13, 16, 17, 18, 36,  } , DIST: 68.942,  parents: 
+ CH's ID: 20 { 14, 20, 30, 34,  } , DIST: 15.5242,  parents: 
+ CH's ID: 21 { 21, 38,  } , DIST: 91.4385,  parents: 
+ CH's ID: 26 { 23, 24, 26, 28, 31, 37,  } , DIST: 20.6155,  parents: 20, 
+ CH's ID: 33 { 19, 27, 33,  } , DIST: 69.3758,  parents: 20, 26, 

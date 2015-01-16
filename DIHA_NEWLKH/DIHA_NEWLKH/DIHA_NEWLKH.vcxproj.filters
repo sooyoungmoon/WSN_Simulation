@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Atk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Kmr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rtn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="params.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sec_IHA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rtn_IHA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Kmr_IHA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Atk_FRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Kmr_NEWLKH.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rtn_DIHA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sec_DIHA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="typedef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RAND.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Fuzzy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FFLLAPI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AStar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EVAL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SrchNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SrchGrph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SrchNode_KTS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sec_SEF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rtn_SEF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Atk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Kmr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Rtn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sec_IHA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Rtn_IHA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Kmr_IHA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Atk_FRA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Kmr_NEWLKH.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Rtn_DIHA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sec_DIHA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RAND.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Fuzzy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AStar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EVAL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tst_main_keyTreeTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SrchNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SrchGrph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SrchNode_KTS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sec_SEF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Rtn_SEF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

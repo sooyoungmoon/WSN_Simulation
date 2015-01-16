@@ -1,0 +1,8 @@
+level: 6, index = 7 { 766(106, 333) 558(104, 349) 219(156, 313) 363(150, 313) 902(136, 407)  } , COG: ( 130.4, 343), avg_dist: 38.5921, std_deviation: 13.7727
+CH ID = 766
+,  numNodesWithinArea: 2
+level: 9, index = 766 {  } 
+level: 9, index = 558 {  } 
+level: 9, index = 219 {  } 
+level: 9, index = 363 {  } 
+level: 9, index = 902 {  } 

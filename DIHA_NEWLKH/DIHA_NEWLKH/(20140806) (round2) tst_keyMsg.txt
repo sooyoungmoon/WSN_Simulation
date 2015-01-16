@@ -1,0 +1,32 @@
+(old key: 297 new key: 490), (old key: 1013 new key: 729), recipents: {13,  } 
+lower assoc. nodes: {7, 12, 17,  } 
+(old key: 297 new key: 490), (old key: 1013 new key: 729), recipents: {18,  } 
+(old key: 297 new key: 490), (old key: 1013 new key: 729), recipents: {25,  } 
+(old key: 297 new key: 490), (old key: 1013 new key: 729), recipents: {29,  } 
+(old key: 297 new key: 490), (old key: 1013 new key: 729), recipents: {35,  } 
+cluster Info. : 13
+(old key: 828 new key: 1016), (old key: 1013 new key: 729), recipents: {17,  } 
+upper assoc. nodes: {13, 31,  } 
+(old key: 828 new key: 1016), (old key: 1013 new key: 729), recipents: {20,  } 
+(old key: 828 new key: 1016), (old key: 1013 new key: 729), recipents: {23,  } 
+(old key: 828 new key: 1016), (old key: 1013 new key: 729), recipents: {26,  } 
+(old key: 828 new key: 1016), (old key: 1013 new key: 729), recipents: {37,  } 
+cluster Info. : 26
+(old key: 828 new key: 1016), (old key: 1013 new key: 729), recipents: {38,  } 
+cluster Info. : 26
+(old key: 1013 new key: 729), recipents: {12, 15, 16, 21, 30,  } 
+(old key: 122 new key: 544), (old key: 1013 new key: 729), recipents: {19,  } 
+(old key: 122 new key: 544), (old key: 1013 new key: 729), recipents: {22,  } 
+(old key: 122 new key: 544), (old key: 1013 new key: 729), recipents: {27,  } 
+(old key: 122 new key: 544), (old key: 1013 new key: 729), recipents: {32,  } 
+(old key: 122 new key: 544), (old key: 1013 new key: 729), recipents: {33,  } 
+cluster Info. : 19
+(old key: 80 new key: 453), (old key: 1013 new key: 729), recipents: {14,  } 
+(old key: 80 new key: 453), (old key: 1013 new key: 729), recipents: {24,  } 
+(old key: 80 new key: 453), (old key: 1013 new key: 729), recipents: {28,  } 
+(old key: 80 new key: 453), (old key: 1013 new key: 729), recipents: {31,  } 
+lower assoc. nodes: {7, 15, 17, 18,  } 
+(old key: 80 new key: 453), (old key: 1013 new key: 729), recipents: {34,  } 
+cluster Info. : 31
+(old key: 80 new key: 453), (old key: 1013 new key: 729), recipents: {36,  } 
+cluster Info. : 31

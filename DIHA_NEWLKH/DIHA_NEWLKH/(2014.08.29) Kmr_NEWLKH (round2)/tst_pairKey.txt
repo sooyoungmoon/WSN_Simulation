@@ -1,0 +1,2453 @@
+ CH's ID: 219
+node: 219
+nID1: 72, nID2: 219, key value: 291
+nID1: 219, nID2: 270, key value: 489
+nID1: 219, nID2: 288, key value: 507
+nID1: 219, nID2: 300, key value: 519
+nID1: 219, nID2: 288, key value: 507
+nID1: 6, nID2: 219, key value: 225
+nID1: 173, nID2: 219, key value: 392
+nID1: 118, nID2: 219, key value: 337
+nID1: 219, nID2: 419, key value: 638
+nID1: 72, nID2: 219, key value: 291
+nID1: 219, nID2: 270, key value: 489
+nID1: 219, nID2: 300, key value: 519
+nID1: 138, nID2: 219, key value: 357
+nID1: 219, nID2: 373, key value: 592
+nID1: 169, nID2: 219, key value: 388
+nID1: 219, nID2: 358, key value: 577
+nID1: 143, nID2: 219, key value: 362
+nID1: 219, nID2: 342, key value: 561
+nID1: 219, nID2: 306, key value: 525
+nID1: 219, nID2: 450, key value: 669
+nID1: 219, nID2: 482, key value: 701
+
+node: 561
+nID1: 306, nID2: 561, key value: 867
+nID1: 342, nID2: 561, key value: 903
+
+node: 578
+
+
+
+ CH's ID: 224
+node: 224
+nID1: 224, nID2: 339, key value: 563
+nID1: 134, nID2: 224, key value: 358
+nID1: 224, nID2: 226, key value: 450
+nID1: 224, nID2: 260, key value: 484
+nID1: 92, nID2: 224, key value: 316
+nID1: 224, nID2: 347, key value: 571
+nID1: 151, nID2: 224, key value: 375
+nID1: 224, nID2: 248, key value: 472
+nID1: 224, nID2: 319, key value: 543
+nID1: 224, nID2: 281, key value: 505
+nID1: 145, nID2: 224, key value: 369
+nID1: 182, nID2: 224, key value: 406
+nID1: 224, nID2: 424, key value: 648
+nID1: 142, nID2: 224, key value: 366
+nID1: 224, nID2: 457, key value: 681
+nID1: 224, nID2: 549, key value: 773
+nID1: 224, nID2: 449, key value: 673
+nID1: 130, nID2: 224, key value: 354
+nID1: 210, nID2: 224, key value: 434
+nID1: 224, nID2: 487, key value: 711
+nID1: 224, nID2: 537, key value: 761
+nID1: 224, nID2: 239, key value: 463
+nID1: 224, nID2: 255, key value: 479
+nID1: 224, nID2: 459, key value: 683
+nID1: 224, nID2: 389, key value: 613
+nID1: 224, nID2: 631, key value: 855
+nID1: 224, nID2: 553, key value: 777
+nID1: 224, nID2: 568, key value: 792
+nID1: 224, nID2: 586, key value: 810
+nID1: 224, nID2: 255, key value: 479
+nID1: 224, nID2: 586, key value: 810
+nID1: 224, nID2: 620, key value: 844
+nID1: 224, nID2: 594, key value: 818
+nID1: 224, nID2: 256, key value: 480
+nID1: 224, nID2: 255, key value: 479
+
+node: 481
+nID1: 256, nID2: 481, key value: 737
+nID1: 281, nID2: 481, key value: 762
+nID1: 424, nID2: 481, key value: 905
+nID1: 481, nID2: 537, key value: 1018
+nID1: 260, nID2: 481, key value: 741
+nID1: 481, nID2: 549, key value: 1030
+
+node: 550
+nID1: 281, nID2: 550, key value: 831
+nID1: 424, nID2: 550, key value: 974
+nID1: 537, nID2: 550, key value: 1087
+nID1: 550, nID2: 553, key value: 1103
+
+node: 610
+nID1: 255, nID2: 610, key value: 865
+nID1: 586, nID2: 610, key value: 1196
+
+
+
+ CH's ID: 230
+node: 230
+nID1: 169, nID2: 230, key value: 399
+nID1: 230, nID2: 300, key value: 530
+nID1: 173, nID2: 230, key value: 403
+nID1: 17, nID2: 230, key value: 247
+nID1: 230, nID2: 270, key value: 500
+nID1: 230, nID2: 300, key value: 530
+nID1: 82, nID2: 230, key value: 312
+nID1: 230, nID2: 242, key value: 472
+nID1: 230, nID2: 294, key value: 524
+nID1: 169, nID2: 230, key value: 399
+nID1: 230, nID2: 329, key value: 559
+nID1: 230, nID2: 288, key value: 518
+nID1: 230, nID2: 447, key value: 677
+nID1: 230, nID2: 536, key value: 766
+nID1: 230, nID2: 316, key value: 546
+nID1: 230, nID2: 360, key value: 590
+nID1: 166, nID2: 230, key value: 396
+nID1: 230, nID2: 413, key value: 643
+nID1: 230, nID2: 490, key value: 720
+nID1: 230, nID2: 300, key value: 530
+nID1: 230, nID2: 316, key value: 546
+nID1: 230, nID2: 447, key value: 677
+nID1: 230, nID2: 536, key value: 766
+nID1: 230, nID2: 629, key value: 859
+nID1: 211, nID2: 230, key value: 441
+nID1: 230, nID2: 234, key value: 464
+nID1: 230, nID2: 258, key value: 488
+nID1: 230, nID2: 477, key value: 707
+nID1: 230, nID2: 405, key value: 635
+
+node: 427
+nID1: 17, nID2: 427, key value: 444
+nID1: 82, nID2: 427, key value: 509
+nID1: 242, nID2: 427, key value: 669
+nID1: 294, nID2: 427, key value: 721
+nID1: 329, nID2: 427, key value: 756
+nID1: 405, nID2: 427, key value: 832
+
+
+
+ CH's ID: 234
+node: 234
+nID1: 234, nID2: 258, key value: 492
+nID1: 234, nID2: 329, key value: 563
+nID1: 234, nID2: 477, key value: 711
+nID1: 234, nID2: 264, key value: 498
+nID1: 234, nID2: 346, key value: 580
+nID1: 173, nID2: 234, key value: 407
+nID1: 234, nID2: 490, key value: 724
+nID1: 234, nID2: 270, key value: 504
+nID1: 173, nID2: 234, key value: 407
+nID1: 234, nID2: 490, key value: 724
+nID1: 234, nID2: 383, key value: 617
+nID1: 234, nID2: 413, key value: 647
+nID1: 234, nID2: 346, key value: 580
+nID1: 234, nID2: 383, key value: 617
+nID1: 234, nID2: 471, key value: 705
+nID1: 234, nID2: 242, key value: 476
+nID1: 234, nID2: 294, key value: 528
+nID1: 230, nID2: 234, key value: 464
+nID1: 234, nID2: 405, key value: 639
+
+
+
+ CH's ID: 239
+node: 239
+nID1: 239, nID2: 371, key value: 610
+nID1: 34, nID2: 239, key value: 273
+nID1: 92, nID2: 239, key value: 331
+nID1: 239, nID2: 347, key value: 586
+nID1: 44, nID2: 239, key value: 283
+nID1: 106, nID2: 239, key value: 345
+nID1: 239, nID2: 303, key value: 542
+nID1: 38, nID2: 239, key value: 277
+nID1: 72, nID2: 239, key value: 311
+nID1: 239, nID2: 323, key value: 562
+nID1: 11, nID2: 239, key value: 250
+nID1: 132, nID2: 239, key value: 371
+nID1: 239, nID2: 281, key value: 520
+nID1: 239, nID2: 283, key value: 522
+nID1: 1, nID2: 239, key value: 240
+nID1: 94, nID2: 239, key value: 333
+nID1: 145, nID2: 239, key value: 384
+nID1: 239, nID2: 260, key value: 499
+nID1: 92, nID2: 239, key value: 331
+nID1: 239, nID2: 347, key value: 586
+nID1: 239, nID2: 371, key value: 610
+nID1: 239, nID2: 255, key value: 494
+nID1: 182, nID2: 239, key value: 421
+nID1: 239, nID2: 403, key value: 642
+nID1: 239, nID2: 454, key value: 693
+nID1: 125, nID2: 239, key value: 364
+nID1: 239, nID2: 518, key value: 757
+nID1: 239, nID2: 537, key value: 776
+nID1: 224, nID2: 239, key value: 463
+nID1: 239, nID2: 347, key value: 586
+nID1: 239, nID2: 347, key value: 586
+nID1: 183, nID2: 239, key value: 422
+nID1: 239, nID2: 545, key value: 784
+nID1: 239, nID2: 549, key value: 788
+nID1: 239, nID2: 606, key value: 845
+nID1: 239, nID2: 586, key value: 825
+nID1: 239, nID2: 591, key value: 830
+nID1: 239, nID2: 577, key value: 816
+nID1: 239, nID2: 256, key value: 495
+nID1: 239, nID2: 424, key value: 663
+nID1: 183, nID2: 239, key value: 422
+nID1: 239, nID2: 377, key value: 616
+
+node: 540
+nID1: 255, nID2: 540, key value: 795
+nID1: 377, nID2: 540, key value: 917
+nID1: 454, nID2: 540, key value: 994
+nID1: 518, nID2: 540, key value: 1058
+nID1: 537, nID2: 540, key value: 1077
+
+node: 566
+nID1: 403, nID2: 566, key value: 969
+nID1: 545, nID2: 566, key value: 1111
+nID1: 566, nID2: 586, key value: 1152
+
+
+
+ CH's ID: 242
+node: 242
+nID1: 242, nID2: 300, key value: 542
+nID1: 242, nID2: 427, key value: 669
+nID1: 173, nID2: 242, key value: 415
+nID1: 17, nID2: 242, key value: 259
+nID1: 242, nID2: 270, key value: 512
+nID1: 242, nID2: 300, key value: 542
+nID1: 82, nID2: 242, key value: 324
+nID1: 230, nID2: 242, key value: 472
+nID1: 242, nID2: 294, key value: 536
+nID1: 242, nID2: 329, key value: 571
+nID1: 242, nID2: 288, key value: 530
+nID1: 242, nID2: 447, key value: 689
+nID1: 242, nID2: 536, key value: 778
+nID1: 242, nID2: 444, key value: 686
+nID1: 166, nID2: 242, key value: 408
+nID1: 242, nID2: 490, key value: 732
+nID1: 242, nID2: 439, key value: 681
+nID1: 242, nID2: 447, key value: 689
+nID1: 242, nID2: 300, key value: 542
+nID1: 242, nID2: 536, key value: 778
+nID1: 242, nID2: 413, key value: 655
+nID1: 242, nID2: 629, key value: 871
+nID1: 242, nID2: 571, key value: 813
+nID1: 242, nID2: 258, key value: 500
+nID1: 242, nID2: 471, key value: 713
+nID1: 234, nID2: 242, key value: 476
+nID1: 242, nID2: 355, key value: 597
+nID1: 242, nID2: 477, key value: 719
+nID1: 211, nID2: 242, key value: 453
+nID1: 242, nID2: 405, key value: 647
+
+
+
+ CH's ID: 246
+node: 246
+nID1: 246, nID2: 626, key value: 872
+nID1: 246, nID2: 334, key value: 580
+nID1: 246, nID2: 583, key value: 829
+nID1: 246, nID2: 353, key value: 599
+
+node: 418
+nID1: 418, nID2: 626, key value: 1044
+
+
+
+ CH's ID: 250
+node: 250
+nID1: 250, nID2: 371, key value: 621
+nID1: 250, nID2: 260, key value: 510
+nID1: 183, nID2: 250, key value: 433
+nID1: 250, nID2: 324, key value: 574
+nID1: 250, nID2: 424, key value: 674
+nID1: 213, nID2: 250, key value: 463
+nID1: 250, nID2: 460, key value: 710
+nID1: 117, nID2: 250, key value: 367
+nID1: 250, nID2: 537, key value: 787
+nID1: 125, nID2: 250, key value: 375
+nID1: 117, nID2: 250, key value: 367
+nID1: 213, nID2: 250, key value: 463
+nID1: 250, nID2: 377, key value: 627
+nID1: 250, nID2: 537, key value: 787
+nID1: 250, nID2: 338, key value: 588
+nID1: 250, nID2: 377, key value: 627
+
+node: 625
+
+node: 640
+
+
+
+ CH's ID: 255
+node: 255
+nID1: 34, nID2: 255, key value: 289
+nID1: 44, nID2: 255, key value: 299
+nID1: 106, nID2: 255, key value: 361
+nID1: 255, nID2: 303, key value: 558
+nID1: 38, nID2: 255, key value: 293
+nID1: 72, nID2: 255, key value: 327
+nID1: 255, nID2: 323, key value: 578
+nID1: 11, nID2: 255, key value: 266
+nID1: 132, nID2: 255, key value: 387
+nID1: 182, nID2: 255, key value: 437
+nID1: 239, nID2: 255, key value: 494
+nID1: 255, nID2: 283, key value: 538
+nID1: 1, nID2: 255, key value: 256
+nID1: 94, nID2: 255, key value: 349
+nID1: 255, nID2: 281, key value: 536
+nID1: 255, nID2: 256, key value: 511
+nID1: 255, nID2: 403, key value: 658
+nID1: 255, nID2: 454, key value: 709
+nID1: 255, nID2: 260, key value: 515
+nID1: 255, nID2: 479, key value: 734
+nID1: 224, nID2: 255, key value: 479
+nID1: 183, nID2: 255, key value: 438
+nID1: 255, nID2: 545, key value: 800
+nID1: 255, nID2: 553, key value: 808
+nID1: 255, nID2: 637, key value: 892
+nID1: 255, nID2: 606, key value: 861
+nID1: 255, nID2: 586, key value: 841
+nID1: 224, nID2: 255, key value: 479
+nID1: 255, nID2: 610, key value: 865
+nID1: 255, nID2: 540, key value: 795
+nID1: 255, nID2: 377, key value: 632
+nID1: 255, nID2: 518, key value: 773
+nID1: 255, nID2: 537, key value: 792
+nID1: 255, nID2: 260, key value: 515
+nID1: 255, nID2: 424, key value: 679
+nID1: 183, nID2: 255, key value: 438
+nID1: 224, nID2: 255, key value: 479
+
+
+
+ CH's ID: 256
+node: 256
+nID1: 255, nID2: 256, key value: 511
+nID1: 182, nID2: 256, key value: 438
+nID1: 256, nID2: 424, key value: 680
+nID1: 256, nID2: 260, key value: 516
+nID1: 142, nID2: 256, key value: 398
+nID1: 256, nID2: 457, key value: 713
+nID1: 256, nID2: 403, key value: 659
+nID1: 256, nID2: 549, key value: 805
+nID1: 256, nID2: 454, key value: 710
+nID1: 256, nID2: 518, key value: 774
+nID1: 256, nID2: 537, key value: 793
+nID1: 125, nID2: 256, key value: 381
+nID1: 164, nID2: 256, key value: 420
+nID1: 256, nID2: 459, key value: 715
+nID1: 226, nID2: 256, key value: 482
+nID1: 256, nID2: 389, key value: 645
+nID1: 256, nID2: 545, key value: 801
+nID1: 256, nID2: 631, key value: 887
+nID1: 256, nID2: 553, key value: 809
+nID1: 256, nID2: 568, key value: 824
+nID1: 256, nID2: 586, key value: 842
+nID1: 256, nID2: 481, key value: 737
+nID1: 256, nID2: 403, key value: 659
+nID1: 256, nID2: 545, key value: 801
+nID1: 256, nID2: 586, key value: 842
+nID1: 256, nID2: 620, key value: 876
+nID1: 256, nID2: 594, key value: 850
+nID1: 224, nID2: 256, key value: 480
+nID1: 256, nID2: 347, key value: 603
+nID1: 256, nID2: 449, key value: 705
+nID1: 130, nID2: 256, key value: 386
+nID1: 151, nID2: 256, key value: 407
+nID1: 210, nID2: 256, key value: 466
+nID1: 256, nID2: 319, key value: 575
+nID1: 256, nID2: 487, key value: 743
+nID1: 256, nID2: 281, key value: 537
+nID1: 239, nID2: 256, key value: 495
+nID1: 256, nID2: 377, key value: 633
+
+node: 616
+nID1: 260, nID2: 616, key value: 876
+nID1: 281, nID2: 616, key value: 897
+nID1: 549, nID2: 616, key value: 1165
+
+
+
+ CH's ID: 258
+node: 258
+nID1: 234, nID2: 258, key value: 492
+nID1: 258, nID2: 329, key value: 587
+nID1: 258, nID2: 536, key value: 794
+nID1: 258, nID2: 316, key value: 574
+nID1: 258, nID2: 300, key value: 558
+nID1: 258, nID2: 316, key value: 574
+nID1: 258, nID2: 536, key value: 794
+nID1: 258, nID2: 477, key value: 735
+nID1: 258, nID2: 413, key value: 671
+nID1: 173, nID2: 258, key value: 431
+nID1: 258, nID2: 490, key value: 748
+nID1: 258, nID2: 270, key value: 528
+nID1: 258, nID2: 444, key value: 702
+nID1: 258, nID2: 300, key value: 558
+nID1: 258, nID2: 471, key value: 729
+nID1: 242, nID2: 258, key value: 500
+nID1: 258, nID2: 294, key value: 552
+nID1: 230, nID2: 258, key value: 488
+nID1: 258, nID2: 405, key value: 663
+
+node: 629
+nID1: 230, nID2: 629, key value: 859
+nID1: 242, nID2: 629, key value: 871
+nID1: 294, nID2: 629, key value: 923
+
+
+
+ CH's ID: 260
+node: 260
+nID1: 260, nID2: 364, key value: 624
+nID1: 260, nID2: 323, key value: 583
+nID1: 248, nID2: 260, key value: 508
+nID1: 164, nID2: 260, key value: 424
+nID1: 226, nID2: 260, key value: 486
+nID1: 196, nID2: 260, key value: 456
+nID1: 38, nID2: 260, key value: 298
+nID1: 145, nID2: 260, key value: 405
+nID1: 224, nID2: 260, key value: 484
+nID1: 260, nID2: 371, key value: 631
+nID1: 92, nID2: 260, key value: 352
+nID1: 250, nID2: 260, key value: 510
+nID1: 260, nID2: 319, key value: 579
+nID1: 260, nID2: 347, key value: 607
+nID1: 260, nID2: 350, key value: 610
+nID1: 260, nID2: 417, key value: 677
+nID1: 260, nID2: 429, key value: 689
+nID1: 248, nID2: 260, key value: 508
+nID1: 260, nID2: 323, key value: 583
+nID1: 260, nID2: 281, key value: 541
+nID1: 239, nID2: 260, key value: 499
+nID1: 182, nID2: 260, key value: 442
+nID1: 260, nID2: 303, key value: 563
+nID1: 260, nID2: 424, key value: 684
+nID1: 260, nID2: 449, key value: 709
+nID1: 260, nID2: 487, key value: 747
+nID1: 256, nID2: 260, key value: 516
+nID1: 260, nID2: 487, key value: 747
+nID1: 260, nID2: 637, key value: 897
+nID1: 260, nID2: 403, key value: 663
+nID1: 260, nID2: 549, key value: 809
+nID1: 260, nID2: 460, key value: 720
+nID1: 260, nID2: 454, key value: 714
+nID1: 125, nID2: 260, key value: 385
+nID1: 260, nID2: 518, key value: 778
+nID1: 260, nID2: 537, key value: 797
+nID1: 151, nID2: 260, key value: 411
+nID1: 255, nID2: 260, key value: 515
+nID1: 260, nID2: 531, key value: 791
+nID1: 260, nID2: 553, key value: 813
+nID1: 260, nID2: 585, key value: 845
+nID1: 260, nID2: 403, key value: 663
+nID1: 260, nID2: 565, key value: 825
+nID1: 260, nID2: 586, key value: 846
+nID1: 260, nID2: 481, key value: 741
+nID1: 260, nID2: 616, key value: 876
+nID1: 260, nID2: 377, key value: 637
+nID1: 255, nID2: 260, key value: 515
+
+node: 351
+nID1: 281, nID2: 351, key value: 632
+nID1: 351, nID2: 424, key value: 775
+nID1: 351, nID2: 537, key value: 888
+nID1: 351, nID2: 553, key value: 904
+
+node: 606
+nID1: 239, nID2: 606, key value: 845
+nID1: 255, nID2: 606, key value: 861
+nID1: 377, nID2: 606, key value: 983
+nID1: 454, nID2: 606, key value: 1060
+nID1: 460, nID2: 606, key value: 1066
+nID1: 518, nID2: 606, key value: 1124
+nID1: 586, nID2: 606, key value: 1192
+nID1: 606, nID2: 637, key value: 1243
+
+
+
+ CH's ID: 264
+node: 264
+nID1: 264, nID2: 477, key value: 741
+nID1: 234, nID2: 264, key value: 498
+nID1: 264, nID2: 329, key value: 593
+nID1: 264, nID2: 269, key value: 533
+nID1: 264, nID2: 346, key value: 610
+nID1: 264, nID2: 383, key value: 647
+nID1: 264, nID2: 390, key value: 654
+nID1: 264, nID2: 360, key value: 624
+
+node: 473
+nID1: 329, nID2: 473, key value: 802
+nID1: 346, nID2: 473, key value: 819
+nID1: 383, nID2: 473, key value: 856
+
+
+
+ CH's ID: 265
+node: 265
+nID1: 265, nID2: 504, key value: 769
+nID1: 265, nID2: 525, key value: 790
+nID1: 265, nID2: 564, key value: 829
+nID1: 265, nID2: 493, key value: 758
+nID1: 265, nID2: 515, key value: 780
+nID1: 265, nID2: 412, key value: 677
+
+
+
+ CH's ID: 269
+node: 269
+nID1: 125, nID2: 269, key value: 394
+nID1: 269, nID2: 315, key value: 584
+nID1: 269, nID2: 323, key value: 592
+nID1: 171, nID2: 269, key value: 440
+nID1: 213, nID2: 269, key value: 482
+nID1: 117, nID2: 269, key value: 386
+nID1: 269, nID2: 315, key value: 584
+nID1: 125, nID2: 269, key value: 394
+nID1: 269, nID2: 390, key value: 659
+nID1: 27, nID2: 269, key value: 296
+nID1: 98, nID2: 269, key value: 367
+nID1: 50, nID2: 269, key value: 319
+nID1: 269, nID2: 323, key value: 592
+nID1: 22, nID2: 269, key value: 291
+nID1: 191, nID2: 269, key value: 460
+nID1: 269, nID2: 335, key value: 604
+nID1: 269, nID2: 341, key value: 610
+nID1: 269, nID2: 447, key value: 716
+nID1: 269, nID2: 510, key value: 779
+nID1: 269, nID2: 346, key value: 615
+nID1: 269, nID2: 488, key value: 757
+nID1: 269, nID2: 538, key value: 807
+nID1: 269, nID2: 513, key value: 782
+nID1: 269, nID2: 441, key value: 710
+nID1: 269, nID2: 637, key value: 906
+nID1: 269, nID2: 584, key value: 853
+nID1: 264, nID2: 269, key value: 533
+nID1: 269, nID2: 574, key value: 843
+nID1: 269, nID2: 477, key value: 746
+nID1: 269, nID2: 470, key value: 739
+nID1: 269, nID2: 637, key value: 906
+nID1: 125, nID2: 269, key value: 394
+nID1: 269, nID2: 328, key value: 597
+nID1: 269, nID2: 477, key value: 746
+nID1: 269, nID2: 486, key value: 755
+nID1: 269, nID2: 510, key value: 779
+nID1: 269, nID2: 521, key value: 790
+nID1: 189, nID2: 269, key value: 458
+
+node: 500
+nID1: 213, nID2: 500, key value: 713
+nID1: 341, nID2: 500, key value: 841
+nID1: 390, nID2: 500, key value: 890
+nID1: 470, nID2: 500, key value: 970
+nID1: 500, nID2: 521, key value: 1021
+
+
+
+ CH's ID: 281
+node: 281
+nID1: 281, nID2: 364, key value: 645
+nID1: 248, nID2: 281, key value: 529
+nID1: 151, nID2: 281, key value: 432
+nID1: 72, nID2: 281, key value: 353
+nID1: 196, nID2: 281, key value: 477
+nID1: 106, nID2: 281, key value: 387
+nID1: 281, nID2: 303, key value: 584
+nID1: 38, nID2: 281, key value: 319
+nID1: 72, nID2: 281, key value: 353
+nID1: 281, nID2: 323, key value: 604
+nID1: 145, nID2: 281, key value: 426
+nID1: 260, nID2: 281, key value: 541
+nID1: 92, nID2: 281, key value: 373
+nID1: 224, nID2: 281, key value: 505
+nID1: 281, nID2: 347, key value: 628
+nID1: 281, nID2: 350, key value: 631
+nID1: 281, nID2: 371, key value: 652
+nID1: 281, nID2: 417, key value: 698
+nID1: 281, nID2: 429, key value: 710
+nID1: 151, nID2: 281, key value: 432
+nID1: 248, nID2: 281, key value: 529
+nID1: 239, nID2: 281, key value: 520
+nID1: 255, nID2: 281, key value: 536
+nID1: 182, nID2: 281, key value: 463
+nID1: 281, nID2: 487, key value: 768
+nID1: 281, nID2: 351, key value: 632
+nID1: 281, nID2: 637, key value: 918
+nID1: 281, nID2: 403, key value: 684
+nID1: 281, nID2: 454, key value: 735
+nID1: 125, nID2: 281, key value: 406
+nID1: 281, nID2: 518, key value: 799
+nID1: 281, nID2: 537, key value: 818
+nID1: 281, nID2: 481, key value: 762
+nID1: 281, nID2: 531, key value: 812
+nID1: 151, nID2: 281, key value: 432
+nID1: 130, nID2: 281, key value: 411
+nID1: 210, nID2: 281, key value: 491
+nID1: 281, nID2: 545, key value: 826
+nID1: 281, nID2: 553, key value: 834
+nID1: 281, nID2: 549, key value: 830
+nID1: 281, nID2: 631, key value: 912
+nID1: 281, nID2: 585, key value: 866
+nID1: 281, nID2: 565, key value: 846
+nID1: 281, nID2: 586, key value: 867
+nID1: 281, nID2: 550, key value: 831
+nID1: 281, nID2: 616, key value: 897
+nID1: 281, nID2: 631, key value: 912
+nID1: 256, nID2: 281, key value: 537
+nID1: 281, nID2: 424, key value: 705
+nID1: 183, nID2: 281, key value: 464
+nID1: 281, nID2: 449, key value: 730
+nID1: 130, nID2: 281, key value: 411
+nID1: 210, nID2: 281, key value: 491
+nID1: 281, nID2: 487, key value: 768
+nID1: 281, nID2: 377, key value: 658
+
+node: 577
+nID1: 239, nID2: 577, key value: 816
+nID1: 377, nID2: 577, key value: 954
+nID1: 454, nID2: 577, key value: 1031
+nID1: 518, nID2: 577, key value: 1095
+nID1: 537, nID2: 577, key value: 1114
+nID1: 553, nID2: 577, key value: 1130
+
+
+
+ CH's ID: 290
+node: 290
+nID1: 290, nID2: 383, key value: 673
+nID1: 290, nID2: 538, key value: 828
+nID1: 290, nID2: 574, key value: 864
+nID1: 290, nID2: 346, key value: 636
+nID1: 290, nID2: 390, key value: 680
+nID1: 290, nID2: 521, key value: 811
+nID1: 290, nID2: 390, key value: 680
+nID1: 290, nID2: 521, key value: 811
+
+
+
+ CH's ID: 294
+node: 294
+nID1: 169, nID2: 294, key value: 463
+nID1: 294, nID2: 300, key value: 594
+nID1: 294, nID2: 427, key value: 721
+nID1: 173, nID2: 294, key value: 467
+nID1: 17, nID2: 294, key value: 311
+nID1: 270, nID2: 294, key value: 564
+nID1: 294, nID2: 300, key value: 594
+nID1: 82, nID2: 294, key value: 376
+nID1: 242, nID2: 294, key value: 536
+nID1: 230, nID2: 294, key value: 524
+nID1: 169, nID2: 294, key value: 463
+nID1: 294, nID2: 329, key value: 623
+nID1: 288, nID2: 294, key value: 582
+nID1: 294, nID2: 536, key value: 830
+nID1: 294, nID2: 316, key value: 610
+nID1: 294, nID2: 444, key value: 738
+nID1: 166, nID2: 294, key value: 460
+nID1: 294, nID2: 490, key value: 784
+nID1: 294, nID2: 316, key value: 610
+nID1: 294, nID2: 300, key value: 594
+nID1: 294, nID2: 536, key value: 830
+nID1: 294, nID2: 413, key value: 707
+nID1: 294, nID2: 629, key value: 923
+nID1: 258, nID2: 294, key value: 552
+nID1: 234, nID2: 294, key value: 528
+nID1: 294, nID2: 477, key value: 771
+nID1: 211, nID2: 294, key value: 505
+nID1: 294, nID2: 405, key value: 699
+
+node: 571
+nID1: 242, nID2: 571, key value: 813
+nID1: 329, nID2: 571, key value: 900
+
+node: 623
+
+
+
+ CH's ID: 295
+node: 295
+nID1: 295, nID2: 525, key value: 820
+nID1: 295, nID2: 306, key value: 601
+nID1: 295, nID2: 493, key value: 788
+nID1: 295, nID2: 535, key value: 830
+nID1: 295, nID2: 450, key value: 745
+nID1: 295, nID2: 482, key value: 777
+
+node: 322
+nID1: 322, nID2: 482, key value: 804
+nID1: 322, nID2: 493, key value: 815
+nID1: 322, nID2: 450, key value: 772
+nID1: 322, nID2: 535, key value: 857
+
+node: 359
+nID1: 359, nID2: 450, key value: 809
+nID1: 306, nID2: 359, key value: 665
+nID1: 359, nID2: 493, key value: 852
+
+
+
+ CH's ID: 300
+node: 300
+nID1: 219, nID2: 300, key value: 519
+nID1: 300, nID2: 390, key value: 690
+nID1: 300, nID2: 390, key value: 690
+nID1: 242, nID2: 300, key value: 542
+nID1: 294, nID2: 300, key value: 594
+nID1: 230, nID2: 300, key value: 530
+nID1: 143, nID2: 300, key value: 443
+nID1: 99, nID2: 300, key value: 399
+nID1: 171, nID2: 300, key value: 471
+nID1: 300, nID2: 315, key value: 615
+nID1: 72, nID2: 300, key value: 372
+nID1: 27, nID2: 300, key value: 327
+nID1: 169, nID2: 300, key value: 469
+nID1: 173, nID2: 300, key value: 473
+nID1: 203, nID2: 300, key value: 503
+nID1: 288, nID2: 300, key value: 588
+nID1: 6, nID2: 300, key value: 306
+nID1: 17, nID2: 300, key value: 317
+nID1: 22, nID2: 300, key value: 322
+nID1: 82, nID2: 300, key value: 382
+nID1: 138, nID2: 300, key value: 438
+nID1: 191, nID2: 300, key value: 491
+nID1: 270, nID2: 300, key value: 570
+nID1: 300, nID2: 335, key value: 635
+nID1: 300, nID2: 358, key value: 658
+nID1: 300, nID2: 373, key value: 673
+nID1: 300, nID2: 383, key value: 683
+nID1: 300, nID2: 419, key value: 719
+nID1: 99, nID2: 300, key value: 399
+nID1: 143, nID2: 300, key value: 443
+nID1: 219, nID2: 300, key value: 519
+nID1: 230, nID2: 300, key value: 530
+nID1: 242, nID2: 300, key value: 542
+nID1: 294, nID2: 300, key value: 594
+nID1: 300, nID2: 390, key value: 690
+nID1: 300, nID2: 323, key value: 623
+nID1: 211, nID2: 300, key value: 511
+nID1: 258, nID2: 300, key value: 558
+nID1: 300, nID2: 346, key value: 646
+nID1: 300, nID2: 510, key value: 810
+nID1: 300, nID2: 403, key value: 703
+nID1: 300, nID2: 355, key value: 655
+nID1: 300, nID2: 471, key value: 771
+nID1: 242, nID2: 300, key value: 542
+nID1: 294, nID2: 300, key value: 594
+nID1: 230, nID2: 300, key value: 530
+nID1: 300, nID2: 538, key value: 838
+nID1: 300, nID2: 380, key value: 680
+nID1: 300, nID2: 316, key value: 616
+nID1: 300, nID2: 536, key value: 836
+nID1: 132, nID2: 300, key value: 432
+nID1: 300, nID2: 405, key value: 705
+nID1: 300, nID2: 447, key value: 747
+nID1: 300, nID2: 490, key value: 790
+nID1: 258, nID2: 300, key value: 558
+nID1: 300, nID2: 346, key value: 646
+nID1: 300, nID2: 355, key value: 655
+nID1: 300, nID2: 471, key value: 771
+nID1: 300, nID2: 510, key value: 810
+nID1: 300, nID2: 538, key value: 838
+
+node: 336
+nID1: 27, nID2: 336, key value: 363
+nID1: 336, nID2: 403, key value: 739
+
+node: 579
+
+node: 643
+
+
+
+ CH's ID: 306
+node: 306
+nID1: 219, nID2: 306, key value: 525
+nID1: 306, nID2: 342, key value: 648
+nID1: 306, nID2: 535, key value: 841
+nID1: 295, nID2: 306, key value: 601
+nID1: 306, nID2: 359, key value: 665
+nID1: 306, nID2: 570, key value: 876
+nID1: 306, nID2: 555, key value: 861
+nID1: 306, nID2: 561, key value: 867
+
+
+
+ CH's ID: 316
+node: 316
+nID1: 316, nID2: 536, key value: 852
+nID1: 173, nID2: 316, key value: 489
+nID1: 270, nID2: 316, key value: 586
+nID1: 316, nID2: 405, key value: 721
+nID1: 316, nID2: 490, key value: 806
+nID1: 230, nID2: 316, key value: 546
+nID1: 258, nID2: 316, key value: 574
+nID1: 294, nID2: 316, key value: 610
+nID1: 258, nID2: 316, key value: 574
+nID1: 316, nID2: 403, key value: 719
+nID1: 294, nID2: 316, key value: 610
+nID1: 230, nID2: 316, key value: 546
+nID1: 316, nID2: 380, key value: 696
+nID1: 300, nID2: 316, key value: 616
+
+
+
+ CH's ID: 319
+node: 226
+nID1: 145, nID2: 226, key value: 371
+nID1: 224, nID2: 226, key value: 450
+nID1: 226, nID2: 260, key value: 486
+nID1: 226, nID2: 256, key value: 482
+nID1: 226, nID2: 449, key value: 675
+nID1: 226, nID2: 347, key value: 573
+
+node: 319
+nID1: 319, nID2: 371, key value: 690
+nID1: 260, nID2: 319, key value: 579
+nID1: 224, nID2: 319, key value: 543
+nID1: 319, nID2: 347, key value: 666
+nID1: 145, nID2: 319, key value: 464
+nID1: 319, nID2: 449, key value: 768
+nID1: 319, nID2: 350, key value: 669
+nID1: 318, nID2: 319, key value: 637
+nID1: 319, nID2: 357, key value: 676
+nID1: 319, nID2: 631, key value: 950
+nID1: 319, nID2: 487, key value: 806
+nID1: 319, nID2: 568, key value: 887
+nID1: 256, nID2: 319, key value: 575
+nID1: 130, nID2: 319, key value: 449
+nID1: 210, nID2: 319, key value: 529
+nID1: 151, nID2: 319, key value: 470
+nID1: 319, nID2: 350, key value: 669
+
+node: 620
+nID1: 224, nID2: 620, key value: 844
+nID1: 256, nID2: 620, key value: 876
+nID1: 449, nID2: 620, key value: 1069
+
+
+
+ CH's ID: 324
+node: 324
+nID1: 324, nID2: 341, key value: 665
+nID1: 324, nID2: 513, key value: 837
+nID1: 183, nID2: 324, key value: 507
+nID1: 324, nID2: 488, key value: 812
+nID1: 250, nID2: 324, key value: 574
+nID1: 213, nID2: 324, key value: 537
+nID1: 324, nID2: 637, key value: 961
+nID1: 117, nID2: 324, key value: 441
+nID1: 324, nID2: 454, key value: 778
+nID1: 125, nID2: 324, key value: 449
+nID1: 324, nID2: 470, key value: 794
+nID1: 324, nID2: 454, key value: 778
+nID1: 324, nID2: 460, key value: 784
+nID1: 324, nID2: 545, key value: 869
+nID1: 324, nID2: 512, key value: 836
+nID1: 324, nID2: 537, key value: 861
+nID1: 324, nID2: 454, key value: 778
+nID1: 324, nID2: 537, key value: 861
+
+node: 551
+nID1: 512, nID2: 551, key value: 1063
+nID1: 513, nID2: 551, key value: 1064
+
+
+
+ CH's ID: 329
+node: 329
+nID1: 329, nID2: 427, key value: 756
+nID1: 329, nID2: 341, key value: 670
+nID1: 169, nID2: 329, key value: 498
+nID1: 173, nID2: 329, key value: 502
+nID1: 17, nID2: 329, key value: 346
+nID1: 169, nID2: 329, key value: 498
+nID1: 82, nID2: 329, key value: 411
+nID1: 230, nID2: 329, key value: 559
+nID1: 242, nID2: 329, key value: 571
+nID1: 294, nID2: 329, key value: 623
+nID1: 288, nID2: 329, key value: 617
+nID1: 329, nID2: 447, key value: 776
+nID1: 191, nID2: 329, key value: 520
+nID1: 234, nID2: 329, key value: 563
+nID1: 258, nID2: 329, key value: 587
+nID1: 329, nID2: 341, key value: 670
+nID1: 329, nID2: 471, key value: 800
+nID1: 329, nID2: 355, key value: 684
+nID1: 329, nID2: 536, key value: 865
+nID1: 329, nID2: 360, key value: 689
+nID1: 264, nID2: 329, key value: 593
+nID1: 329, nID2: 413, key value: 742
+nID1: 329, nID2: 383, key value: 712
+nID1: 329, nID2: 390, key value: 719
+nID1: 329, nID2: 490, key value: 819
+nID1: 270, nID2: 329, key value: 599
+nID1: 329, nID2: 355, key value: 684
+nID1: 329, nID2: 390, key value: 719
+nID1: 329, nID2: 536, key value: 865
+nID1: 329, nID2: 571, key value: 900
+nID1: 329, nID2: 473, key value: 802
+nID1: 211, nID2: 329, key value: 540
+nID1: 329, nID2: 477, key value: 806
+nID1: 329, nID2: 405, key value: 734
+
+
+
+ CH's ID: 334
+node: 334
+nID1: 245, nID2: 334, key value: 579
+nID1: 177, nID2: 334, key value: 511
+nID1: 334, nID2: 353, key value: 687
+nID1: 277, nID2: 334, key value: 611
+nID1: 334, nID2: 626, key value: 960
+nID1: 246, nID2: 334, key value: 580
+nID1: 334, nID2: 436, key value: 770
+nID1: 150, nID2: 334, key value: 484
+nID1: 334, nID2: 542, key value: 876
+
+
+
+ CH's ID: 338
+node: 338
+nID1: 250, nID2: 338, key value: 588
+
+
+
+ CH's ID: 341
+node: 341
+nID1: 341, nID2: 586, key value: 927
+nID1: 180, nID2: 341, key value: 521
+nID1: 341, nID2: 382, key value: 723
+nID1: 171, nID2: 341, key value: 512
+nID1: 117, nID2: 341, key value: 458
+nID1: 125, nID2: 341, key value: 466
+nID1: 27, nID2: 341, key value: 368
+nID1: 98, nID2: 341, key value: 439
+nID1: 50, nID2: 341, key value: 391
+nID1: 269, nID2: 341, key value: 610
+nID1: 335, nID2: 341, key value: 676
+nID1: 22, nID2: 341, key value: 363
+nID1: 213, nID2: 341, key value: 554
+nID1: 341, nID2: 390, key value: 731
+nID1: 191, nID2: 341, key value: 532
+nID1: 341, nID2: 383, key value: 724
+nID1: 341, nID2: 447, key value: 788
+nID1: 341, nID2: 470, key value: 811
+nID1: 341, nID2: 521, key value: 862
+nID1: 189, nID2: 341, key value: 530
+nID1: 211, nID2: 341, key value: 552
+nID1: 324, nID2: 341, key value: 665
+nID1: 341, nID2: 346, key value: 687
+nID1: 341, nID2: 488, key value: 829
+nID1: 341, nID2: 538, key value: 879
+nID1: 329, nID2: 341, key value: 670
+nID1: 341, nID2: 513, key value: 854
+nID1: 341, nID2: 637, key value: 978
+nID1: 341, nID2: 584, key value: 925
+nID1: 106, nID2: 341, key value: 447
+nID1: 341, nID2: 502, key value: 843
+nID1: 341, nID2: 489, key value: 830
+nID1: 261, nID2: 341, key value: 602
+nID1: 329, nID2: 341, key value: 670
+nID1: 341, nID2: 500, key value: 841
+nID1: 341, nID2: 545, key value: 886
+nID1: 341, nID2: 537, key value: 878
+nID1: 341, nID2: 537, key value: 878
+nID1: 341, nID2: 572, key value: 913
+nID1: 341, nID2: 645, key value: 986
+
+
+
+ CH's ID: 342
+node: 342
+nID1: 118, nID2: 342, key value: 460
+nID1: 143, nID2: 342, key value: 485
+nID1: 219, nID2: 342, key value: 561
+nID1: 342, nID2: 355, key value: 697
+nID1: 306, nID2: 342, key value: 648
+nID1: 342, nID2: 561, key value: 903
+nID1: 342, nID2: 450, key value: 792
+nID1: 342, nID2: 482, key value: 824
+
+node: 570
+nID1: 306, nID2: 570, key value: 876
+
+node: 642
+
+
+
+ CH's ID: 346
+node: 346
+nID1: 189, nID2: 346, key value: 535
+nID1: 346, nID2: 510, key value: 856
+nID1: 346, nID2: 538, key value: 884
+nID1: 346, nID2: 401, key value: 747
+nID1: 346, nID2: 488, key value: 834
+nID1: 346, nID2: 447, key value: 793
+nID1: 191, nID2: 346, key value: 537
+nID1: 341, nID2: 346, key value: 687
+nID1: 269, nID2: 346, key value: 615
+nID1: 346, nID2: 513, key value: 859
+nID1: 125, nID2: 346, key value: 471
+nID1: 300, nID2: 346, key value: 646
+nID1: 346, nID2: 513, key value: 859
+nID1: 264, nID2: 346, key value: 610
+nID1: 346, nID2: 574, key value: 920
+nID1: 290, nID2: 346, key value: 636
+nID1: 346, nID2: 477, key value: 823
+nID1: 234, nID2: 346, key value: 580
+nID1: 213, nID2: 346, key value: 559
+nID1: 117, nID2: 346, key value: 463
+nID1: 346, nID2: 383, key value: 729
+nID1: 125, nID2: 346, key value: 471
+nID1: 346, nID2: 390, key value: 736
+nID1: 346, nID2: 470, key value: 816
+nID1: 328, nID2: 346, key value: 674
+nID1: 346, nID2: 444, key value: 790
+nID1: 346, nID2: 513, key value: 859
+nID1: 346, nID2: 401, key value: 747
+nID1: 234, nID2: 346, key value: 580
+nID1: 346, nID2: 473, key value: 819
+nID1: 300, nID2: 346, key value: 646
+nID1: 346, nID2: 521, key value: 867
+nID1: 211, nID2: 346, key value: 557
+nID1: 203, nID2: 346, key value: 549
+
+
+
+ CH's ID: 347
+node: 347
+nID1: 339, nID2: 347, key value: 686
+nID1: 134, nID2: 347, key value: 481
+nID1: 38, nID2: 347, key value: 385
+nID1: 182, nID2: 347, key value: 529
+nID1: 239, nID2: 347, key value: 586
+nID1: 202, nID2: 347, key value: 549
+nID1: 170, nID2: 347, key value: 517
+nID1: 226, nID2: 347, key value: 573
+nID1: 38, nID2: 347, key value: 385
+nID1: 260, nID2: 347, key value: 607
+nID1: 224, nID2: 347, key value: 571
+nID1: 92, nID2: 347, key value: 439
+nID1: 151, nID2: 347, key value: 498
+nID1: 319, nID2: 347, key value: 666
+nID1: 248, nID2: 347, key value: 595
+nID1: 281, nID2: 347, key value: 628
+nID1: 239, nID2: 347, key value: 586
+nID1: 145, nID2: 347, key value: 492
+nID1: 182, nID2: 347, key value: 529
+nID1: 347, nID2: 449, key value: 796
+nID1: 122, nID2: 347, key value: 469
+nID1: 347, nID2: 549, key value: 896
+nID1: 347, nID2: 454, key value: 801
+nID1: 347, nID2: 518, key value: 865
+nID1: 130, nID2: 347, key value: 477
+nID1: 210, nID2: 347, key value: 557
+nID1: 347, nID2: 487, key value: 834
+nID1: 347, nID2: 537, key value: 884
+nID1: 182, nID2: 347, key value: 529
+nID1: 239, nID2: 347, key value: 586
+nID1: 347, nID2: 377, key value: 724
+nID1: 347, nID2: 454, key value: 801
+nID1: 347, nID2: 518, key value: 865
+nID1: 347, nID2: 537, key value: 884
+nID1: 318, nID2: 347, key value: 665
+nID1: 347, nID2: 357, key value: 704
+nID1: 347, nID2: 631, key value: 978
+nID1: 347, nID2: 567, key value: 914
+nID1: 239, nID2: 347, key value: 586
+nID1: 347, nID2: 377, key value: 724
+nID1: 347, nID2: 454, key value: 801
+nID1: 347, nID2: 518, key value: 865
+nID1: 347, nID2: 537, key value: 884
+nID1: 256, nID2: 347, key value: 603
+nID1: 347, nID2: 350, key value: 697
+nID1: 347, nID2: 377, key value: 724
+
+node: 459
+nID1: 224, nID2: 459, key value: 683
+nID1: 256, nID2: 459, key value: 715
+nID1: 449, nID2: 459, key value: 908
+
+node: 531
+nID1: 260, nID2: 531, key value: 791
+nID1: 281, nID2: 531, key value: 812
+nID1: 350, nID2: 531, key value: 881
+nID1: 531, nID2: 549, key value: 1080
+
+node: 591
+nID1: 239, nID2: 591, key value: 830
+nID1: 377, nID2: 591, key value: 968
+nID1: 454, nID2: 591, key value: 1045
+nID1: 518, nID2: 591, key value: 1109
+nID1: 537, nID2: 591, key value: 1128
+
+node: 619
+
+
+
+ CH's ID: 350
+node: 350
+nID1: 132, nID2: 350, key value: 482
+nID1: 314, nID2: 350, key value: 664
+nID1: 11, nID2: 350, key value: 361
+nID1: 132, nID2: 350, key value: 482
+nID1: 260, nID2: 350, key value: 610
+nID1: 94, nID2: 350, key value: 444
+nID1: 281, nID2: 350, key value: 631
+nID1: 350, nID2: 417, key value: 767
+nID1: 350, nID2: 429, key value: 779
+nID1: 145, nID2: 350, key value: 495
+nID1: 182, nID2: 350, key value: 532
+nID1: 350, nID2: 457, key value: 807
+nID1: 350, nID2: 449, key value: 799
+nID1: 350, nID2: 531, key value: 881
+nID1: 151, nID2: 350, key value: 501
+nID1: 319, nID2: 350, key value: 669
+nID1: 130, nID2: 350, key value: 480
+nID1: 210, nID2: 350, key value: 560
+nID1: 350, nID2: 618, key value: 968
+nID1: 350, nID2: 429, key value: 779
+nID1: 347, nID2: 350, key value: 697
+nID1: 130, nID2: 350, key value: 480
+nID1: 151, nID2: 350, key value: 501
+nID1: 210, nID2: 350, key value: 560
+nID1: 319, nID2: 350, key value: 669
+
+node: 475
+
+node: 554
+
+node: 599
+
+
+
+ CH's ID: 353
+node: 353
+nID1: 177, nID2: 353, key value: 530
+nID1: 334, nID2: 353, key value: 687
+nID1: 353, nID2: 583, key value: 936
+nID1: 277, nID2: 353, key value: 630
+nID1: 150, nID2: 353, key value: 503
+nID1: 353, nID2: 626, key value: 979
+nID1: 246, nID2: 353, key value: 599
+nID1: 353, nID2: 542, key value: 895
+
+node: 436
+nID1: 334, nID2: 436, key value: 770
+nID1: 436, nID2: 583, key value: 1019
+
+node: 463
+
+node: 467
+
+
+
+ CH's ID: 355
+node: 355
+nID1: 355, nID2: 482, key value: 837
+nID1: 329, nID2: 355, key value: 684
+nID1: 355, nID2: 536, key value: 891
+nID1: 118, nID2: 355, key value: 473
+nID1: 342, nID2: 355, key value: 697
+nID1: 173, nID2: 355, key value: 528
+nID1: 355, nID2: 490, key value: 845
+nID1: 270, nID2: 355, key value: 625
+nID1: 300, nID2: 355, key value: 655
+nID1: 329, nID2: 355, key value: 684
+nID1: 355, nID2: 536, key value: 891
+nID1: 355, nID2: 428, key value: 783
+nID1: 355, nID2: 604, key value: 959
+nID1: 244, nID2: 355, key value: 599
+nID1: 300, nID2: 355, key value: 655
+nID1: 355, nID2: 471, key value: 826
+nID1: 242, nID2: 355, key value: 597
+nID1: 143, nID2: 355, key value: 498
+nID1: 355, nID2: 450, key value: 805
+
+
+
+ CH's ID: 377
+node: 377
+nID1: 220, nID2: 377, key value: 597
+nID1: 377, nID2: 403, key value: 780
+nID1: 377, nID2: 454, key value: 831
+nID1: 377, nID2: 470, key value: 847
+nID1: 377, nID2: 479, key value: 856
+nID1: 347, nID2: 377, key value: 724
+nID1: 250, nID2: 377, key value: 627
+nID1: 377, nID2: 545, key value: 922
+nID1: 377, nID2: 553, key value: 930
+nID1: 377, nID2: 637, key value: 1014
+nID1: 377, nID2: 512, key value: 889
+nID1: 377, nID2: 549, key value: 926
+nID1: 377, nID2: 606, key value: 983
+nID1: 377, nID2: 586, key value: 963
+nID1: 347, nID2: 377, key value: 724
+nID1: 377, nID2: 591, key value: 968
+nID1: 377, nID2: 577, key value: 954
+nID1: 377, nID2: 540, key value: 917
+nID1: 377, nID2: 541, key value: 918
+nID1: 377, nID2: 588, key value: 965
+nID1: 125, nID2: 377, key value: 502
+nID1: 182, nID2: 377, key value: 559
+nID1: 239, nID2: 377, key value: 616
+nID1: 255, nID2: 377, key value: 632
+nID1: 281, nID2: 377, key value: 658
+nID1: 377, nID2: 424, key value: 801
+nID1: 377, nID2: 460, key value: 837
+nID1: 377, nID2: 518, key value: 895
+nID1: 377, nID2: 537, key value: 914
+nID1: 117, nID2: 377, key value: 494
+nID1: 132, nID2: 377, key value: 509
+nID1: 183, nID2: 377, key value: 560
+nID1: 256, nID2: 377, key value: 633
+nID1: 260, nID2: 377, key value: 637
+nID1: 377, nID2: 513, key value: 890
+nID1: 250, nID2: 377, key value: 627
+nID1: 347, nID2: 377, key value: 724
+nID1: 377, nID2: 470, key value: 847
+
+node: 598
+nID1: 454, nID2: 598, key value: 1052
+nID1: 545, nID2: 598, key value: 1143
+nID1: 586, nID2: 598, key value: 1184
+
+
+
+ CH's ID: 380
+node: 380
+nID1: 380, nID2: 403, key value: 783
+nID1: 300, nID2: 380, key value: 680
+nID1: 316, nID2: 380, key value: 696
+nID1: 380, nID2: 536, key value: 916
+
+
+
+ CH's ID: 383
+node: 383
+nID1: 290, nID2: 383, key value: 673
+nID1: 72, nID2: 383, key value: 455
+nID1: 383, nID2: 513, key value: 896
+nID1: 125, nID2: 383, key value: 508
+nID1: 323, nID2: 383, key value: 706
+nID1: 171, nID2: 383, key value: 554
+nID1: 213, nID2: 383, key value: 596
+nID1: 117, nID2: 383, key value: 500
+nID1: 315, nID2: 383, key value: 698
+nID1: 72, nID2: 383, key value: 455
+nID1: 99, nID2: 383, key value: 482
+nID1: 125, nID2: 383, key value: 508
+nID1: 383, nID2: 390, key value: 773
+nID1: 27, nID2: 383, key value: 410
+nID1: 98, nID2: 383, key value: 481
+nID1: 50, nID2: 383, key value: 433
+nID1: 300, nID2: 383, key value: 683
+nID1: 323, nID2: 383, key value: 706
+nID1: 22, nID2: 383, key value: 405
+nID1: 203, nID2: 383, key value: 586
+nID1: 191, nID2: 383, key value: 574
+nID1: 335, nID2: 383, key value: 718
+nID1: 341, nID2: 383, key value: 724
+nID1: 125, nID2: 383, key value: 508
+nID1: 383, nID2: 447, key value: 830
+nID1: 383, nID2: 513, key value: 896
+nID1: 383, nID2: 441, key value: 824
+nID1: 383, nID2: 488, key value: 871
+nID1: 211, nID2: 383, key value: 594
+nID1: 346, nID2: 383, key value: 729
+nID1: 383, nID2: 510, key value: 893
+nID1: 383, nID2: 538, key value: 921
+nID1: 189, nID2: 383, key value: 572
+nID1: 329, nID2: 383, key value: 712
+nID1: 383, nID2: 401, key value: 784
+nID1: 383, nID2: 488, key value: 871
+nID1: 383, nID2: 470, key value: 853
+nID1: 234, nID2: 383, key value: 617
+nID1: 264, nID2: 383, key value: 647
+nID1: 383, nID2: 477, key value: 860
+nID1: 383, nID2: 574, key value: 957
+nID1: 234, nID2: 383, key value: 617
+nID1: 383, nID2: 444, key value: 827
+nID1: 383, nID2: 510, key value: 893
+nID1: 383, nID2: 473, key value: 856
+nID1: 383, nID2: 513, key value: 896
+
+node: 576
+nID1: 390, nID2: 576, key value: 966
+
+node: 645
+nID1: 341, nID2: 645, key value: 986
+
+
+
+ CH's ID: 390
+node: 390
+nID1: 125, nID2: 390, key value: 515
+nID1: 300, nID2: 390, key value: 690
+nID1: 72, nID2: 390, key value: 462
+nID1: 125, nID2: 390, key value: 515
+nID1: 300, nID2: 390, key value: 690
+nID1: 323, nID2: 390, key value: 713
+nID1: 171, nID2: 390, key value: 561
+nID1: 213, nID2: 390, key value: 603
+nID1: 117, nID2: 390, key value: 507
+nID1: 315, nID2: 390, key value: 705
+nID1: 72, nID2: 390, key value: 462
+nID1: 125, nID2: 390, key value: 515
+nID1: 269, nID2: 390, key value: 659
+nID1: 383, nID2: 390, key value: 773
+nID1: 99, nID2: 390, key value: 489
+nID1: 27, nID2: 390, key value: 417
+nID1: 98, nID2: 390, key value: 488
+nID1: 50, nID2: 390, key value: 440
+nID1: 300, nID2: 390, key value: 690
+nID1: 323, nID2: 390, key value: 713
+nID1: 22, nID2: 390, key value: 412
+nID1: 203, nID2: 390, key value: 593
+nID1: 191, nID2: 390, key value: 581
+nID1: 335, nID2: 390, key value: 725
+nID1: 341, nID2: 390, key value: 731
+nID1: 390, nID2: 447, key value: 837
+nID1: 390, nID2: 513, key value: 903
+nID1: 390, nID2: 441, key value: 831
+nID1: 390, nID2: 637, key value: 1027
+nID1: 189, nID2: 390, key value: 579
+nID1: 346, nID2: 390, key value: 736
+nID1: 390, nID2: 521, key value: 911
+nID1: 390, nID2: 538, key value: 928
+nID1: 211, nID2: 390, key value: 601
+nID1: 390, nID2: 488, key value: 878
+nID1: 390, nID2: 510, key value: 900
+nID1: 329, nID2: 390, key value: 719
+nID1: 390, nID2: 470, key value: 860
+nID1: 261, nID2: 390, key value: 651
+nID1: 329, nID2: 390, key value: 719
+nID1: 390, nID2: 500, key value: 890
+nID1: 328, nID2: 390, key value: 718
+nID1: 390, nID2: 584, key value: 974
+nID1: 264, nID2: 390, key value: 654
+nID1: 390, nID2: 574, key value: 964
+nID1: 290, nID2: 390, key value: 680
+nID1: 390, nID2: 477, key value: 867
+nID1: 390, nID2: 477, key value: 867
+nID1: 390, nID2: 486, key value: 876
+nID1: 390, nID2: 510, key value: 900
+nID1: 290, nID2: 390, key value: 680
+nID1: 390, nID2: 637, key value: 1027
+nID1: 390, nID2: 576, key value: 966
+
+node: 502
+nID1: 191, nID2: 502, key value: 693
+nID1: 213, nID2: 502, key value: 715
+nID1: 341, nID2: 502, key value: 843
+nID1: 447, nID2: 502, key value: 949
+nID1: 470, nID2: 502, key value: 972
+
+node: 534
+nID1: 117, nID2: 534, key value: 651
+nID1: 203, nID2: 534, key value: 737
+nID1: 513, nID2: 534, key value: 1047
+
+
+
+ CH's ID: 403
+node: 403
+nID1: 255, nID2: 403, key value: 658
+nID1: 300, nID2: 403, key value: 703
+nID1: 316, nID2: 403, key value: 719
+nID1: 380, nID2: 403, key value: 783
+nID1: 403, nID2: 454, key value: 857
+nID1: 403, nID2: 518, key value: 921
+nID1: 403, nID2: 536, key value: 939
+nID1: 403, nID2: 586, key value: 989
+nID1: 239, nID2: 403, key value: 642
+nID1: 281, nID2: 403, key value: 684
+nID1: 377, nID2: 403, key value: 780
+nID1: 403, nID2: 537, key value: 940
+nID1: 403, nID2: 545, key value: 948
+nID1: 403, nID2: 553, key value: 956
+nID1: 403, nID2: 637, key value: 1040
+nID1: 256, nID2: 403, key value: 659
+nID1: 260, nID2: 403, key value: 663
+nID1: 403, nID2: 549, key value: 952
+nID1: 403, nID2: 549, key value: 952
+nID1: 260, nID2: 403, key value: 663
+nID1: 336, nID2: 403, key value: 739
+nID1: 256, nID2: 403, key value: 659
+nID1: 403, nID2: 566, key value: 969
+nID1: 403, nID2: 466, key value: 869
+nID1: 403, nID2: 479, key value: 882
+
+
+
+ CH's ID: 412
+node: 412
+nID1: 412, nID2: 504, key value: 916
+nID1: 412, nID2: 515, key value: 927
+nID1: 412, nID2: 618, key value: 1030
+nID1: 412, nID2: 525, key value: 937
+nID1: 412, nID2: 564, key value: 976
+nID1: 265, nID2: 412, key value: 677
+nID1: 412, nID2: 602, key value: 1014
+nID1: 284, nID2: 412, key value: 696
+nID1: 314, nID2: 412, key value: 726
+
+
+
+ CH's ID: 413
+node: 413
+nID1: 230, nID2: 413, key value: 643
+nID1: 329, nID2: 413, key value: 742
+nID1: 258, nID2: 413, key value: 671
+nID1: 242, nID2: 413, key value: 655
+nID1: 234, nID2: 413, key value: 647
+nID1: 413, nID2: 477, key value: 890
+nID1: 294, nID2: 413, key value: 707
+nID1: 360, nID2: 413, key value: 773
+
+
+
+ CH's ID: 424
+node: 424
+nID1: 182, nID2: 424, key value: 606
+nID1: 424, nID2: 513, key value: 937
+nID1: 183, nID2: 424, key value: 607
+nID1: 260, nID2: 424, key value: 684
+nID1: 224, nID2: 424, key value: 648
+nID1: 250, nID2: 424, key value: 674
+nID1: 256, nID2: 424, key value: 680
+nID1: 351, nID2: 424, key value: 775
+nID1: 424, nID2: 637, key value: 1061
+nID1: 424, nID2: 549, key value: 973
+nID1: 424, nID2: 449, key value: 873
+nID1: 424, nID2: 460, key value: 884
+nID1: 125, nID2: 424, key value: 549
+nID1: 424, nID2: 454, key value: 878
+nID1: 424, nID2: 518, key value: 942
+nID1: 424, nID2: 537, key value: 961
+nID1: 424, nID2: 481, key value: 905
+nID1: 424, nID2: 545, key value: 969
+nID1: 424, nID2: 553, key value: 977
+nID1: 424, nID2: 565, key value: 989
+nID1: 424, nID2: 586, key value: 1010
+nID1: 424, nID2: 550, key value: 974
+nID1: 281, nID2: 424, key value: 705
+nID1: 239, nID2: 424, key value: 663
+nID1: 377, nID2: 424, key value: 801
+nID1: 255, nID2: 424, key value: 679
+
+
+
+ CH's ID: 425
+node: 425
+
+node: 546
+
+node: 590
+
+node: 613
+
+
+
+ CH's ID: 428
+node: 428
+nID1: 355, nID2: 428, key value: 783
+nID1: 428, nID2: 604, key value: 1032
+nID1: 428, nID2: 490, key value: 918
+nID1: 244, nID2: 428, key value: 672
+
+
+
+ CH's ID: 449
+node: 449
+nID1: 260, nID2: 449, key value: 709
+nID1: 347, nID2: 449, key value: 796
+nID1: 130, nID2: 449, key value: 579
+nID1: 151, nID2: 449, key value: 600
+nID1: 210, nID2: 449, key value: 659
+nID1: 319, nID2: 449, key value: 768
+nID1: 449, nID2: 487, key value: 936
+nID1: 224, nID2: 449, key value: 673
+nID1: 142, nID2: 449, key value: 591
+nID1: 449, nID2: 637, key value: 1086
+nID1: 449, nID2: 549, key value: 998
+nID1: 424, nID2: 449, key value: 873
+nID1: 449, nID2: 631, key value: 1080
+nID1: 449, nID2: 459, key value: 908
+nID1: 226, nID2: 449, key value: 675
+nID1: 389, nID2: 449, key value: 838
+nID1: 449, nID2: 460, key value: 909
+nID1: 449, nID2: 568, key value: 1017
+nID1: 449, nID2: 460, key value: 909
+nID1: 449, nID2: 637, key value: 1086
+nID1: 449, nID2: 620, key value: 1069
+nID1: 449, nID2: 594, key value: 1043
+nID1: 256, nID2: 449, key value: 705
+nID1: 281, nID2: 449, key value: 730
+nID1: 350, nID2: 449, key value: 799
+
+node: 457
+nID1: 224, nID2: 457, key value: 681
+nID1: 256, nID2: 457, key value: 713
+nID1: 350, nID2: 457, key value: 807
+nID1: 457, nID2: 549, key value: 1006
+
+node: 565
+nID1: 260, nID2: 565, key value: 825
+nID1: 281, nID2: 565, key value: 846
+nID1: 424, nID2: 565, key value: 989
+
+node: 624
+nID1: 460, nID2: 624, key value: 1084
+nID1: 624, nID2: 637, key value: 1261
+
+
+
+ CH's ID: 454
+node: 454
+nID1: 213, nID2: 454, key value: 667
+nID1: 220, nID2: 454, key value: 674
+nID1: 324, nID2: 454, key value: 778
+nID1: 403, nID2: 454, key value: 857
+nID1: 117, nID2: 454, key value: 571
+nID1: 125, nID2: 454, key value: 579
+nID1: 182, nID2: 454, key value: 636
+nID1: 239, nID2: 454, key value: 693
+nID1: 255, nID2: 454, key value: 709
+nID1: 281, nID2: 454, key value: 735
+nID1: 377, nID2: 454, key value: 831
+nID1: 454, nID2: 518, key value: 972
+nID1: 454, nID2: 537, key value: 991
+nID1: 132, nID2: 454, key value: 586
+nID1: 256, nID2: 454, key value: 710
+nID1: 260, nID2: 454, key value: 714
+nID1: 424, nID2: 454, key value: 878
+nID1: 454, nID2: 460, key value: 914
+nID1: 454, nID2: 513, key value: 967
+nID1: 213, nID2: 454, key value: 667
+nID1: 324, nID2: 454, key value: 778
+nID1: 347, nID2: 454, key value: 801
+nID1: 454, nID2: 470, key value: 924
+nID1: 454, nID2: 479, key value: 933
+nID1: 454, nID2: 470, key value: 924
+nID1: 347, nID2: 454, key value: 801
+nID1: 454, nID2: 545, key value: 999
+nID1: 454, nID2: 553, key value: 1007
+nID1: 454, nID2: 637, key value: 1091
+nID1: 454, nID2: 549, key value: 1003
+nID1: 324, nID2: 454, key value: 778
+nID1: 454, nID2: 606, key value: 1060
+nID1: 454, nID2: 586, key value: 1040
+nID1: 347, nID2: 454, key value: 801
+nID1: 454, nID2: 591, key value: 1045
+nID1: 454, nID2: 577, key value: 1031
+nID1: 454, nID2: 540, key value: 994
+nID1: 454, nID2: 598, key value: 1052
+nID1: 454, nID2: 541, key value: 995
+nID1: 454, nID2: 644, key value: 1098
+nID1: 183, nID2: 454, key value: 637
+
+node: 466
+nID1: 403, nID2: 466, key value: 869
+nID1: 466, nID2: 545, key value: 1011
+nID1: 466, nID2: 586, key value: 1052
+
+
+
+ CH's ID: 460
+node: 460
+nID1: 460, nID2: 513, key value: 973
+nID1: 460, nID2: 637, key value: 1097
+nID1: 183, nID2: 460, key value: 643
+nID1: 424, nID2: 460, key value: 884
+nID1: 250, nID2: 460, key value: 710
+nID1: 260, nID2: 460, key value: 720
+nID1: 117, nID2: 460, key value: 577
+nID1: 125, nID2: 460, key value: 585
+nID1: 454, nID2: 460, key value: 914
+nID1: 324, nID2: 460, key value: 784
+nID1: 460, nID2: 549, key value: 1009
+nID1: 449, nID2: 460, key value: 909
+nID1: 460, nID2: 488, key value: 948
+nID1: 460, nID2: 545, key value: 1005
+nID1: 460, nID2: 537, key value: 997
+nID1: 460, nID2: 553, key value: 1013
+nID1: 460, nID2: 606, key value: 1066
+nID1: 449, nID2: 460, key value: 909
+nID1: 460, nID2: 624, key value: 1084
+nID1: 460, nID2: 512, key value: 972
+nID1: 460, nID2: 586, key value: 1046
+nID1: 460, nID2: 488, key value: 948
+nID1: 377, nID2: 460, key value: 837
+
+node: 588
+nID1: 377, nID2: 588, key value: 965
+nID1: 513, nID2: 588, key value: 1101
+nID1: 545, nID2: 588, key value: 1133
+nID1: 553, nID2: 588, key value: 1141
+nID1: 588, nID2: 637, key value: 1225
+
+node: 644
+nID1: 454, nID2: 644, key value: 1098
+nID1: 537, nID2: 644, key value: 1181
+nID1: 586, nID2: 644, key value: 1230
+
+
+
+ CH's ID: 477
+node: 360
+nID1: 230, nID2: 360, key value: 590
+nID1: 329, nID2: 360, key value: 689
+nID1: 264, nID2: 360, key value: 624
+nID1: 360, nID2: 413, key value: 773
+
+node: 444
+nID1: 211, nID2: 444, key value: 655
+nID1: 242, nID2: 444, key value: 686
+nID1: 294, nID2: 444, key value: 738
+nID1: 405, nID2: 444, key value: 849
+nID1: 258, nID2: 444, key value: 702
+nID1: 346, nID2: 444, key value: 790
+nID1: 383, nID2: 444, key value: 827
+
+node: 477
+nID1: 329, nID2: 477, key value: 806
+nID1: 234, nID2: 477, key value: 711
+nID1: 173, nID2: 477, key value: 650
+nID1: 477, nID2: 490, key value: 967
+nID1: 264, nID2: 477, key value: 741
+nID1: 269, nID2: 477, key value: 746
+nID1: 258, nID2: 477, key value: 735
+nID1: 346, nID2: 477, key value: 823
+nID1: 173, nID2: 477, key value: 650
+nID1: 477, nID2: 490, key value: 967
+nID1: 383, nID2: 477, key value: 860
+nID1: 390, nID2: 477, key value: 867
+nID1: 413, nID2: 477, key value: 890
+nID1: 269, nID2: 477, key value: 746
+nID1: 390, nID2: 477, key value: 867
+nID1: 242, nID2: 477, key value: 719
+nID1: 294, nID2: 477, key value: 771
+nID1: 211, nID2: 477, key value: 688
+nID1: 230, nID2: 477, key value: 707
+nID1: 405, nID2: 477, key value: 882
+
+node: 486
+nID1: 173, nID2: 486, key value: 659
+nID1: 486, nID2: 490, key value: 976
+nID1: 269, nID2: 486, key value: 755
+nID1: 390, nID2: 486, key value: 876
+
+node: 589
+
+
+
+ CH's ID: 487
+node: 487
+nID1: 210, nID2: 487, key value: 697
+nID1: 260, nID2: 487, key value: 747
+nID1: 449, nID2: 487, key value: 936
+nID1: 260, nID2: 487, key value: 747
+nID1: 281, nID2: 487, key value: 768
+nID1: 487, nID2: 631, key value: 1118
+nID1: 224, nID2: 487, key value: 711
+nID1: 347, nID2: 487, key value: 834
+nID1: 319, nID2: 487, key value: 806
+nID1: 151, nID2: 487, key value: 638
+nID1: 256, nID2: 487, key value: 743
+nID1: 281, nID2: 487, key value: 768
+nID1: 130, nID2: 487, key value: 617
+
+node: 567
+nID1: 347, nID2: 567, key value: 914
+nID1: 567, nID2: 631, key value: 1198
+
+node: 568
+nID1: 224, nID2: 568, key value: 792
+nID1: 256, nID2: 568, key value: 824
+nID1: 319, nID2: 568, key value: 887
+nID1: 449, nID2: 568, key value: 1017
+
+node: 585
+nID1: 260, nID2: 585, key value: 845
+nID1: 281, nID2: 585, key value: 866
+
+
+
+ CH's ID: 488
+node: 488
+nID1: 346, nID2: 488, key value: 834
+nID1: 191, nID2: 488, key value: 679
+nID1: 341, nID2: 488, key value: 829
+nID1: 269, nID2: 488, key value: 757
+nID1: 488, nID2: 538, key value: 1026
+nID1: 488, nID2: 513, key value: 1001
+nID1: 189, nID2: 488, key value: 677
+nID1: 324, nID2: 488, key value: 812
+nID1: 125, nID2: 488, key value: 613
+nID1: 191, nID2: 488, key value: 679
+nID1: 211, nID2: 488, key value: 699
+nID1: 383, nID2: 488, key value: 871
+nID1: 213, nID2: 488, key value: 701
+nID1: 488, nID2: 637, key value: 1125
+nID1: 488, nID2: 584, key value: 1072
+nID1: 117, nID2: 488, key value: 605
+nID1: 125, nID2: 488, key value: 613
+nID1: 383, nID2: 488, key value: 871
+nID1: 390, nID2: 488, key value: 878
+nID1: 470, nID2: 488, key value: 958
+nID1: 460, nID2: 488, key value: 948
+nID1: 488, nID2: 545, key value: 1033
+nID1: 488, nID2: 512, key value: 1000
+nID1: 488, nID2: 637, key value: 1125
+nID1: 460, nID2: 488, key value: 948
+nID1: 488, nID2: 545, key value: 1033
+nID1: 488, nID2: 521, key value: 1009
+nID1: 211, nID2: 488, key value: 699
+
+
+
+ CH's ID: 490
+node: 490
+nID1: 490, nID2: 536, key value: 1026
+nID1: 316, nID2: 490, key value: 806
+nID1: 477, nID2: 490, key value: 967
+nID1: 486, nID2: 490, key value: 976
+nID1: 173, nID2: 490, key value: 663
+nID1: 355, nID2: 490, key value: 845
+nID1: 405, nID2: 490, key value: 895
+nID1: 471, nID2: 490, key value: 961
+nID1: 230, nID2: 490, key value: 720
+nID1: 242, nID2: 490, key value: 732
+nID1: 258, nID2: 490, key value: 748
+nID1: 294, nID2: 490, key value: 784
+nID1: 329, nID2: 490, key value: 819
+nID1: 234, nID2: 490, key value: 724
+nID1: 477, nID2: 490, key value: 967
+nID1: 270, nID2: 490, key value: 760
+nID1: 234, nID2: 490, key value: 724
+nID1: 439, nID2: 490, key value: 929
+nID1: 428, nID2: 490, key value: 918
+nID1: 490, nID2: 604, key value: 1094
+nID1: 455, nID2: 490, key value: 945
+nID1: 300, nID2: 490, key value: 790
+
+node: 582
+
+
+
+ CH's ID: 493
+node: 493
+nID1: 322, nID2: 493, key value: 815
+nID1: 493, nID2: 525, key value: 1018
+nID1: 493, nID2: 564, key value: 1057
+nID1: 265, nID2: 493, key value: 758
+nID1: 359, nID2: 493, key value: 852
+nID1: 493, nID2: 555, key value: 1048
+nID1: 493, nID2: 535, key value: 1028
+nID1: 295, nID2: 493, key value: 788
+
+node: 609
+nID1: 525, nID2: 609, key value: 1134
+
+
+
+ CH's ID: 504
+node: 284
+nID1: 284, nID2: 412, key value: 696
+nID1: 284, nID2: 515, key value: 799
+nID1: 284, nID2: 525, key value: 809
+
+node: 492
+nID1: 492, nID2: 564, key value: 1056
+nID1: 492, nID2: 515, key value: 1007
+
+node: 504
+nID1: 412, nID2: 504, key value: 916
+nID1: 265, nID2: 504, key value: 769
+nID1: 504, nID2: 618, key value: 1122
+nID1: 504, nID2: 525, key value: 1029
+nID1: 504, nID2: 564, key value: 1068
+nID1: 504, nID2: 515, key value: 1019
+nID1: 429, nID2: 504, key value: 933
+
+node: 595
+
+node: 611
+
+
+
+ CH's ID: 512
+node: 512
+nID1: 512, nID2: 586, key value: 1098
+nID1: 512, nID2: 637, key value: 1149
+nID1: 512, nID2: 513, key value: 1025
+nID1: 512, nID2: 545, key value: 1057
+nID1: 324, nID2: 512, key value: 836
+nID1: 488, nID2: 512, key value: 1000
+nID1: 512, nID2: 553, key value: 1065
+nID1: 377, nID2: 512, key value: 889
+nID1: 512, nID2: 551, key value: 1063
+nID1: 460, nID2: 512, key value: 972
+
+
+
+ CH's ID: 513
+node: 513
+nID1: 383, nID2: 513, key value: 896
+nID1: 513, nID2: 538, key value: 1051
+nID1: 180, nID2: 513, key value: 693
+nID1: 383, nID2: 513, key value: 896
+nID1: 213, nID2: 513, key value: 726
+nID1: 324, nID2: 513, key value: 837
+nID1: 341, nID2: 513, key value: 854
+nID1: 460, nID2: 513, key value: 973
+nID1: 183, nID2: 513, key value: 696
+nID1: 189, nID2: 513, key value: 702
+nID1: 269, nID2: 513, key value: 782
+nID1: 390, nID2: 513, key value: 903
+nID1: 424, nID2: 513, key value: 937
+nID1: 447, nID2: 513, key value: 960
+nID1: 470, nID2: 513, key value: 983
+nID1: 488, nID2: 513, key value: 1001
+nID1: 513, nID2: 521, key value: 1034
+nID1: 211, nID2: 513, key value: 724
+nID1: 346, nID2: 513, key value: 859
+nID1: 383, nID2: 513, key value: 896
+nID1: 513, nID2: 538, key value: 1051
+nID1: 346, nID2: 513, key value: 859
+nID1: 346, nID2: 513, key value: 859
+nID1: 513, nID2: 637, key value: 1150
+nID1: 512, nID2: 513, key value: 1025
+nID1: 513, nID2: 549, key value: 1062
+nID1: 117, nID2: 513, key value: 630
+nID1: 454, nID2: 513, key value: 967
+nID1: 125, nID2: 513, key value: 638
+nID1: 513, nID2: 534, key value: 1047
+nID1: 211, nID2: 513, key value: 724
+nID1: 513, nID2: 538, key value: 1051
+nID1: 513, nID2: 545, key value: 1058
+nID1: 513, nID2: 537, key value: 1050
+nID1: 513, nID2: 549, key value: 1062
+nID1: 513, nID2: 551, key value: 1064
+nID1: 513, nID2: 586, key value: 1099
+nID1: 513, nID2: 588, key value: 1101
+nID1: 377, nID2: 513, key value: 890
+nID1: 191, nID2: 513, key value: 704
+
+
+
+ CH's ID: 515
+node: 314
+nID1: 94, nID2: 314, key value: 408
+nID1: 145, nID2: 314, key value: 459
+nID1: 314, nID2: 350, key value: 664
+nID1: 314, nID2: 412, key value: 726
+
+node: 515
+nID1: 515, nID2: 564, key value: 1079
+nID1: 412, nID2: 515, key value: 927
+nID1: 515, nID2: 525, key value: 1040
+nID1: 157, nID2: 515, key value: 672
+nID1: 504, nID2: 515, key value: 1019
+nID1: 515, nID2: 618, key value: 1133
+nID1: 265, nID2: 515, key value: 780
+nID1: 429, nID2: 515, key value: 944
+nID1: 284, nID2: 515, key value: 799
+nID1: 492, nID2: 515, key value: 1007
+
+
+
+ CH's ID: 518
+node: 479
+nID1: 403, nID2: 479, key value: 882
+nID1: 255, nID2: 479, key value: 734
+nID1: 377, nID2: 479, key value: 856
+nID1: 454, nID2: 479, key value: 933
+nID1: 479, nID2: 586, key value: 1065
+
+node: 518
+nID1: 403, nID2: 518, key value: 921
+nID1: 454, nID2: 518, key value: 972
+nID1: 132, nID2: 518, key value: 650
+nID1: 182, nID2: 518, key value: 700
+nID1: 239, nID2: 518, key value: 757
+nID1: 281, nID2: 518, key value: 799
+nID1: 518, nID2: 537, key value: 1055
+nID1: 256, nID2: 518, key value: 774
+nID1: 260, nID2: 518, key value: 778
+nID1: 424, nID2: 518, key value: 942
+nID1: 183, nID2: 518, key value: 701
+nID1: 347, nID2: 518, key value: 865
+nID1: 347, nID2: 518, key value: 865
+nID1: 183, nID2: 518, key value: 701
+nID1: 518, nID2: 545, key value: 1063
+nID1: 518, nID2: 549, key value: 1067
+nID1: 518, nID2: 553, key value: 1071
+nID1: 518, nID2: 637, key value: 1155
+nID1: 518, nID2: 606, key value: 1124
+nID1: 518, nID2: 586, key value: 1104
+nID1: 347, nID2: 518, key value: 865
+nID1: 518, nID2: 591, key value: 1109
+nID1: 518, nID2: 577, key value: 1095
+nID1: 518, nID2: 540, key value: 1058
+nID1: 377, nID2: 518, key value: 895
+nID1: 255, nID2: 518, key value: 773
+
+
+
+ CH's ID: 521
+node: 261
+nID1: 213, nID2: 261, key value: 474
+nID1: 261, nID2: 341, key value: 602
+nID1: 261, nID2: 390, key value: 651
+nID1: 261, nID2: 470, key value: 731
+
+node: 521
+nID1: 125, nID2: 521, key value: 646
+nID1: 447, nID2: 521, key value: 968
+nID1: 191, nID2: 521, key value: 712
+nID1: 341, nID2: 521, key value: 862
+nID1: 513, nID2: 521, key value: 1034
+nID1: 213, nID2: 521, key value: 734
+nID1: 521, nID2: 637, key value: 1158
+nID1: 117, nID2: 521, key value: 638
+nID1: 390, nID2: 521, key value: 911
+nID1: 470, nID2: 521, key value: 991
+nID1: 500, nID2: 521, key value: 1021
+nID1: 328, nID2: 521, key value: 849
+nID1: 521, nID2: 584, key value: 1105
+nID1: 521, nID2: 574, key value: 1095
+nID1: 290, nID2: 521, key value: 811
+nID1: 510, nID2: 521, key value: 1031
+nID1: 521, nID2: 637, key value: 1158
+nID1: 290, nID2: 521, key value: 811
+nID1: 189, nID2: 521, key value: 710
+nID1: 269, nID2: 521, key value: 790
+nID1: 488, nID2: 521, key value: 1009
+nID1: 521, nID2: 538, key value: 1059
+nID1: 346, nID2: 521, key value: 867
+nID1: 510, nID2: 521, key value: 1031
+
+
+
+ CH's ID: 525
+node: 221
+nID1: 221, nID2: 564, key value: 785
+
+node: 525
+nID1: 295, nID2: 525, key value: 820
+nID1: 515, nID2: 525, key value: 1040
+nID1: 265, nID2: 525, key value: 790
+nID1: 412, nID2: 525, key value: 937
+nID1: 493, nID2: 525, key value: 1018
+nID1: 504, nID2: 525, key value: 1029
+nID1: 525, nID2: 535, key value: 1060
+nID1: 525, nID2: 618, key value: 1143
+nID1: 525, nID2: 564, key value: 1089
+nID1: 525, nID2: 602, key value: 1127
+nID1: 284, nID2: 525, key value: 809
+nID1: 525, nID2: 609, key value: 1134
+nID1: 525, nID2: 556, key value: 1081
+
+
+
+ CH's ID: 535
+node: 535
+nID1: 535, nID2: 564, key value: 1099
+nID1: 525, nID2: 535, key value: 1060
+nID1: 163, nID2: 535, key value: 698
+nID1: 322, nID2: 535, key value: 857
+nID1: 306, nID2: 535, key value: 841
+nID1: 493, nID2: 535, key value: 1028
+nID1: 295, nID2: 535, key value: 830
+nID1: 450, nID2: 535, key value: 985
+nID1: 482, nID2: 535, key value: 1017
+
+node: 555
+nID1: 306, nID2: 555, key value: 861
+nID1: 493, nID2: 555, key value: 1048
+
+node: 556
+nID1: 525, nID2: 556, key value: 1081
+
+
+
+ CH's ID: 536
+node: 536
+nID1: 132, nID2: 536, key value: 668
+nID1: 173, nID2: 536, key value: 709
+nID1: 316, nID2: 536, key value: 852
+nID1: 270, nID2: 536, key value: 806
+nID1: 405, nID2: 536, key value: 941
+nID1: 490, nID2: 536, key value: 1026
+nID1: 230, nID2: 536, key value: 766
+nID1: 242, nID2: 536, key value: 778
+nID1: 258, nID2: 536, key value: 794
+nID1: 294, nID2: 536, key value: 830
+nID1: 329, nID2: 536, key value: 865
+nID1: 355, nID2: 536, key value: 891
+nID1: 471, nID2: 536, key value: 1007
+nID1: 258, nID2: 536, key value: 794
+nID1: 403, nID2: 536, key value: 939
+nID1: 355, nID2: 536, key value: 891
+nID1: 471, nID2: 536, key value: 1007
+nID1: 242, nID2: 536, key value: 778
+nID1: 294, nID2: 536, key value: 830
+nID1: 230, nID2: 536, key value: 766
+nID1: 329, nID2: 536, key value: 865
+nID1: 380, nID2: 536, key value: 916
+nID1: 300, nID2: 536, key value: 836
+
+
+
+ CH's ID: 537
+node: 537
+nID1: 351, nID2: 537, key value: 888
+nID1: 403, nID2: 537, key value: 940
+nID1: 454, nID2: 537, key value: 991
+nID1: 125, nID2: 537, key value: 662
+nID1: 518, nID2: 537, key value: 1055
+nID1: 182, nID2: 537, key value: 719
+nID1: 239, nID2: 537, key value: 776
+nID1: 260, nID2: 537, key value: 797
+nID1: 281, nID2: 537, key value: 818
+nID1: 424, nID2: 537, key value: 961
+nID1: 132, nID2: 537, key value: 669
+nID1: 183, nID2: 537, key value: 720
+nID1: 224, nID2: 537, key value: 761
+nID1: 256, nID2: 537, key value: 793
+nID1: 250, nID2: 537, key value: 787
+nID1: 347, nID2: 537, key value: 884
+nID1: 481, nID2: 537, key value: 1018
+nID1: 347, nID2: 537, key value: 884
+nID1: 250, nID2: 537, key value: 787
+nID1: 537, nID2: 545, key value: 1082
+nID1: 537, nID2: 553, key value: 1090
+nID1: 537, nID2: 637, key value: 1174
+nID1: 460, nID2: 537, key value: 997
+nID1: 513, nID2: 537, key value: 1050
+nID1: 537, nID2: 549, key value: 1086
+nID1: 324, nID2: 537, key value: 861
+nID1: 341, nID2: 537, key value: 878
+nID1: 341, nID2: 537, key value: 878
+nID1: 324, nID2: 537, key value: 861
+nID1: 537, nID2: 586, key value: 1123
+nID1: 537, nID2: 550, key value: 1087
+nID1: 347, nID2: 537, key value: 884
+nID1: 537, nID2: 591, key value: 1128
+nID1: 537, nID2: 577, key value: 1114
+nID1: 537, nID2: 540, key value: 1077
+nID1: 537, nID2: 541, key value: 1078
+nID1: 537, nID2: 644, key value: 1181
+nID1: 377, nID2: 537, key value: 914
+nID1: 255, nID2: 537, key value: 792
+
+
+
+ CH's ID: 538
+node: 538
+nID1: 346, nID2: 538, key value: 884
+nID1: 447, nID2: 538, key value: 985
+nID1: 191, nID2: 538, key value: 729
+nID1: 341, nID2: 538, key value: 879
+nID1: 269, nID2: 538, key value: 807
+nID1: 189, nID2: 538, key value: 727
+nID1: 510, nID2: 538, key value: 1048
+nID1: 401, nID2: 538, key value: 939
+nID1: 488, nID2: 538, key value: 1026
+nID1: 513, nID2: 538, key value: 1051
+nID1: 538, nID2: 574, key value: 1112
+nID1: 290, nID2: 538, key value: 828
+nID1: 213, nID2: 538, key value: 751
+nID1: 117, nID2: 538, key value: 655
+nID1: 383, nID2: 538, key value: 921
+nID1: 125, nID2: 538, key value: 663
+nID1: 390, nID2: 538, key value: 928
+nID1: 470, nID2: 538, key value: 1008
+nID1: 513, nID2: 538, key value: 1051
+nID1: 125, nID2: 538, key value: 663
+nID1: 300, nID2: 538, key value: 838
+nID1: 513, nID2: 538, key value: 1051
+nID1: 328, nID2: 538, key value: 866
+nID1: 401, nID2: 538, key value: 939
+nID1: 300, nID2: 538, key value: 838
+nID1: 521, nID2: 538, key value: 1059
+nID1: 211, nID2: 538, key value: 749
+nID1: 203, nID2: 538, key value: 741
+
+
+
+ CH's ID: 545
+node: 545
+nID1: 403, nID2: 545, key value: 948
+nID1: 377, nID2: 545, key value: 922
+nID1: 454, nID2: 545, key value: 999
+nID1: 460, nID2: 545, key value: 1005
+nID1: 513, nID2: 545, key value: 1058
+nID1: 545, nID2: 637, key value: 1182
+nID1: 255, nID2: 545, key value: 800
+nID1: 281, nID2: 545, key value: 826
+nID1: 324, nID2: 545, key value: 869
+nID1: 341, nID2: 545, key value: 886
+nID1: 424, nID2: 545, key value: 969
+nID1: 512, nID2: 545, key value: 1057
+nID1: 518, nID2: 545, key value: 1063
+nID1: 537, nID2: 545, key value: 1082
+nID1: 545, nID2: 553, key value: 1098
+nID1: 256, nID2: 545, key value: 801
+nID1: 488, nID2: 545, key value: 1033
+nID1: 545, nID2: 549, key value: 1094
+nID1: 545, nID2: 549, key value: 1094
+nID1: 545, nID2: 586, key value: 1131
+nID1: 239, nID2: 545, key value: 784
+nID1: 256, nID2: 545, key value: 801
+nID1: 545, nID2: 566, key value: 1111
+nID1: 545, nID2: 598, key value: 1143
+nID1: 541, nID2: 545, key value: 1086
+nID1: 488, nID2: 545, key value: 1033
+nID1: 545, nID2: 588, key value: 1133
+nID1: 466, nID2: 545, key value: 1011
+
+node: 622
+nID1: 586, nID2: 622, key value: 1208
+
+
+
+ CH's ID: 549
+node: 549
+nID1: 549, nID2: 637, key value: 1186
+nID1: 403, nID2: 549, key value: 952
+nID1: 224, nID2: 549, key value: 773
+nID1: 256, nID2: 549, key value: 805
+nID1: 449, nID2: 549, key value: 998
+nID1: 347, nID2: 549, key value: 896
+nID1: 513, nID2: 549, key value: 1062
+nID1: 424, nID2: 549, key value: 973
+nID1: 260, nID2: 549, key value: 809
+nID1: 460, nID2: 549, key value: 1009
+nID1: 545, nID2: 549, key value: 1094
+nID1: 454, nID2: 549, key value: 1003
+nID1: 518, nID2: 549, key value: 1067
+nID1: 537, nID2: 549, key value: 1086
+nID1: 549, nID2: 553, key value: 1102
+nID1: 281, nID2: 549, key value: 830
+nID1: 239, nID2: 549, key value: 788
+nID1: 377, nID2: 549, key value: 926
+nID1: 403, nID2: 549, key value: 952
+nID1: 513, nID2: 549, key value: 1062
+nID1: 545, nID2: 549, key value: 1094
+nID1: 457, nID2: 549, key value: 1006
+nID1: 481, nID2: 549, key value: 1030
+nID1: 531, nID2: 549, key value: 1080
+nID1: 549, nID2: 616, key value: 1165
+
+
+
+ CH's ID: 553
+node: 553
+nID1: 553, nID2: 637, key value: 1190
+nID1: 403, nID2: 553, key value: 956
+nID1: 545, nID2: 553, key value: 1098
+nID1: 454, nID2: 553, key value: 1007
+nID1: 518, nID2: 553, key value: 1071
+nID1: 537, nID2: 553, key value: 1090
+nID1: 260, nID2: 553, key value: 813
+nID1: 281, nID2: 553, key value: 834
+nID1: 424, nID2: 553, key value: 977
+nID1: 460, nID2: 553, key value: 1013
+nID1: 224, nID2: 553, key value: 777
+nID1: 256, nID2: 553, key value: 809
+nID1: 512, nID2: 553, key value: 1065
+nID1: 549, nID2: 553, key value: 1102
+nID1: 377, nID2: 553, key value: 930
+nID1: 255, nID2: 553, key value: 808
+nID1: 351, nID2: 553, key value: 904
+nID1: 553, nID2: 586, key value: 1139
+nID1: 550, nID2: 553, key value: 1103
+nID1: 553, nID2: 577, key value: 1130
+nID1: 553, nID2: 588, key value: 1141
+
+
+
+ CH's ID: 564
+node: 491
+nID1: 125, nID2: 491, key value: 616
+
+node: 560
+
+node: 564
+nID1: 515, nID2: 564, key value: 1079
+nID1: 535, nID2: 564, key value: 1099
+nID1: 525, nID2: 564, key value: 1089
+nID1: 265, nID2: 564, key value: 829
+nID1: 412, nID2: 564, key value: 976
+nID1: 493, nID2: 564, key value: 1057
+nID1: 504, nID2: 564, key value: 1068
+nID1: 564, nID2: 618, key value: 1182
+nID1: 564, nID2: 618, key value: 1182
+nID1: 564, nID2: 627, key value: 1191
+nID1: 492, nID2: 564, key value: 1056
+nID1: 221, nID2: 564, key value: 785
+
+
+
+ CH's ID: 574
+node: 401
+nID1: 346, nID2: 401, key value: 747
+nID1: 401, nID2: 510, key value: 911
+nID1: 191, nID2: 401, key value: 592
+nID1: 401, nID2: 538, key value: 939
+nID1: 191, nID2: 401, key value: 592
+nID1: 203, nID2: 401, key value: 604
+nID1: 383, nID2: 401, key value: 784
+nID1: 346, nID2: 401, key value: 747
+nID1: 401, nID2: 538, key value: 939
+nID1: 211, nID2: 401, key value: 612
+nID1: 203, nID2: 401, key value: 604
+
+node: 510
+nID1: 346, nID2: 510, key value: 856
+nID1: 401, nID2: 510, key value: 911
+nID1: 447, nID2: 510, key value: 957
+nID1: 191, nID2: 510, key value: 701
+nID1: 269, nID2: 510, key value: 779
+nID1: 510, nID2: 538, key value: 1048
+nID1: 117, nID2: 510, key value: 627
+nID1: 300, nID2: 510, key value: 810
+nID1: 117, nID2: 510, key value: 627
+nID1: 383, nID2: 510, key value: 893
+nID1: 390, nID2: 510, key value: 900
+nID1: 470, nID2: 510, key value: 980
+nID1: 269, nID2: 510, key value: 779
+nID1: 383, nID2: 510, key value: 893
+nID1: 390, nID2: 510, key value: 900
+nID1: 510, nID2: 521, key value: 1031
+nID1: 300, nID2: 510, key value: 810
+nID1: 510, nID2: 521, key value: 1031
+nID1: 211, nID2: 510, key value: 721
+nID1: 203, nID2: 510, key value: 713
+
+node: 558
+
+node: 574
+nID1: 269, nID2: 574, key value: 843
+nID1: 538, nID2: 574, key value: 1112
+nID1: 290, nID2: 574, key value: 864
+nID1: 346, nID2: 574, key value: 920
+nID1: 383, nID2: 574, key value: 957
+nID1: 390, nID2: 574, key value: 964
+nID1: 521, nID2: 574, key value: 1095
+
+
+
+ CH's ID: 583
+node: 583
+nID1: 353, nID2: 583, key value: 936
+nID1: 583, nID2: 626, key value: 1209
+nID1: 246, nID2: 583, key value: 829
+nID1: 542, nID2: 583, key value: 1125
+nID1: 436, nID2: 583, key value: 1019
+
+
+
+ CH's ID: 584
+node: 328
+nID1: 213, nID2: 328, key value: 541
+nID1: 269, nID2: 328, key value: 597
+nID1: 328, nID2: 346, key value: 674
+nID1: 328, nID2: 390, key value: 718
+nID1: 328, nID2: 521, key value: 849
+nID1: 328, nID2: 538, key value: 866
+
+node: 572
+nID1: 341, nID2: 572, key value: 913
+
+node: 584
+nID1: 341, nID2: 584, key value: 925
+nID1: 269, nID2: 584, key value: 853
+nID1: 488, nID2: 584, key value: 1072
+nID1: 390, nID2: 584, key value: 974
+nID1: 521, nID2: 584, key value: 1105
+
+
+
+ CH's ID: 586
+node: 586
+nID1: 512, nID2: 586, key value: 1098
+nID1: 341, nID2: 586, key value: 927
+nID1: 403, nID2: 586, key value: 989
+nID1: 586, nID2: 606, key value: 1192
+nID1: 255, nID2: 586, key value: 841
+nID1: 377, nID2: 586, key value: 963
+nID1: 454, nID2: 586, key value: 1040
+nID1: 518, nID2: 586, key value: 1104
+nID1: 537, nID2: 586, key value: 1123
+nID1: 545, nID2: 586, key value: 1131
+nID1: 553, nID2: 586, key value: 1139
+nID1: 586, nID2: 637, key value: 1223
+nID1: 239, nID2: 586, key value: 825
+nID1: 260, nID2: 586, key value: 846
+nID1: 281, nID2: 586, key value: 867
+nID1: 424, nID2: 586, key value: 1010
+nID1: 460, nID2: 586, key value: 1046
+nID1: 513, nID2: 586, key value: 1099
+nID1: 224, nID2: 586, key value: 810
+nID1: 256, nID2: 586, key value: 842
+nID1: 224, nID2: 586, key value: 810
+nID1: 586, nID2: 610, key value: 1196
+nID1: 256, nID2: 586, key value: 842
+nID1: 566, nID2: 586, key value: 1152
+nID1: 586, nID2: 598, key value: 1184
+nID1: 541, nID2: 586, key value: 1127
+nID1: 586, nID2: 644, key value: 1230
+nID1: 586, nID2: 622, key value: 1208
+nID1: 466, nID2: 586, key value: 1052
+nID1: 479, nID2: 586, key value: 1065
+
+
+
+ CH's ID: 604
+node: 244
+nID1: 244, nID2: 355, key value: 599
+nID1: 244, nID2: 428, key value: 672
+
+node: 455
+nID1: 455, nID2: 490, key value: 945
+
+node: 587
+
+node: 604
+nID1: 428, nID2: 604, key value: 1032
+nID1: 490, nID2: 604, key value: 1094
+nID1: 355, nID2: 604, key value: 959
+
+
+
+ CH's ID: 618
+node: 429
+nID1: 38, nID2: 429, key value: 467
+nID1: 132, nID2: 429, key value: 561
+nID1: 11, nID2: 429, key value: 440
+nID1: 132, nID2: 429, key value: 561
+nID1: 38, nID2: 429, key value: 467
+nID1: 260, nID2: 429, key value: 689
+nID1: 94, nID2: 429, key value: 523
+nID1: 281, nID2: 429, key value: 710
+nID1: 350, nID2: 429, key value: 779
+nID1: 145, nID2: 429, key value: 574
+nID1: 417, nID2: 429, key value: 846
+nID1: 350, nID2: 429, key value: 779
+nID1: 429, nID2: 504, key value: 933
+nID1: 429, nID2: 515, key value: 944
+
+node: 602
+nID1: 412, nID2: 602, key value: 1014
+nID1: 525, nID2: 602, key value: 1127
+
+node: 618
+nID1: 412, nID2: 618, key value: 1030
+nID1: 504, nID2: 618, key value: 1122
+nID1: 525, nID2: 618, key value: 1143
+nID1: 564, nID2: 618, key value: 1182
+nID1: 350, nID2: 618, key value: 968
+nID1: 515, nID2: 618, key value: 1133
+nID1: 564, nID2: 618, key value: 1182
+
+node: 627
+nID1: 564, nID2: 627, key value: 1191
+
+
+
+ CH's ID: 626
+node: 542
+nID1: 334, nID2: 542, key value: 876
+nID1: 353, nID2: 542, key value: 895
+nID1: 542, nID2: 583, key value: 1125
+
+node: 614
+
+node: 626
+nID1: 246, nID2: 626, key value: 872
+nID1: 334, nID2: 626, key value: 960
+nID1: 583, nID2: 626, key value: 1209
+nID1: 353, nID2: 626, key value: 979
+nID1: 418, nID2: 626, key value: 1044
+
+
+
+ CH's ID: 631
+node: 318
+nID1: 210, nID2: 318, key value: 528
+nID1: 318, nID2: 319, key value: 637
+nID1: 318, nID2: 347, key value: 665
+
+node: 594
+nID1: 224, nID2: 594, key value: 818
+nID1: 256, nID2: 594, key value: 850
+nID1: 449, nID2: 594, key value: 1043
+
+node: 631
+nID1: 487, nID2: 631, key value: 1118
+nID1: 449, nID2: 631, key value: 1080
+nID1: 224, nID2: 631, key value: 855
+nID1: 347, nID2: 631, key value: 978
+nID1: 319, nID2: 631, key value: 950
+nID1: 256, nID2: 631, key value: 887
+nID1: 281, nID2: 631, key value: 912
+nID1: 567, nID2: 631, key value: 1198
+nID1: 281, nID2: 631, key value: 912
+
+
+
+ CH's ID: 637
+node: 541
+nID1: 377, nID2: 541, key value: 918
+nID1: 454, nID2: 541, key value: 995
+nID1: 537, nID2: 541, key value: 1078
+nID1: 541, nID2: 545, key value: 1086
+nID1: 541, nID2: 586, key value: 1127
+
+node: 637
+nID1: 269, nID2: 637, key value: 906
+nID1: 390, nID2: 637, key value: 1027
+nID1: 424, nID2: 637, key value: 1061
+nID1: 260, nID2: 637, key value: 897
+nID1: 460, nID2: 637, key value: 1097
+nID1: 513, nID2: 637, key value: 1150
+nID1: 553, nID2: 637, key value: 1190
+nID1: 281, nID2: 637, key value: 918
+nID1: 324, nID2: 637, key value: 961
+nID1: 341, nID2: 637, key value: 978
+nID1: 512, nID2: 637, key value: 1149
+nID1: 549, nID2: 637, key value: 1186
+nID1: 269, nID2: 637, key value: 906
+nID1: 390, nID2: 637, key value: 1027
+nID1: 449, nID2: 637, key value: 1086
+nID1: 488, nID2: 637, key value: 1125
+nID1: 521, nID2: 637, key value: 1158
+nID1: 403, nID2: 637, key value: 1040
+nID1: 545, nID2: 637, key value: 1182
+nID1: 454, nID2: 637, key value: 1091
+nID1: 518, nID2: 637, key value: 1155
+nID1: 537, nID2: 637, key value: 1174
+nID1: 377, nID2: 637, key value: 1014
+nID1: 255, nID2: 637, key value: 892
+nID1: 606, nID2: 637, key value: 1243
+nID1: 449, nID2: 637, key value: 1086
+nID1: 624, nID2: 637, key value: 1261
+nID1: 586, nID2: 637, key value: 1223
+nID1: 521, nID2: 637, key value: 1158
+nID1: 488, nID2: 637, key value: 1125
+nID1: 588, nID2: 637, key value: 1225
+
+
+

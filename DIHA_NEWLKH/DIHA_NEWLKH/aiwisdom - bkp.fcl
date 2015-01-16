@@ -1,0 +1,92 @@
+(* FCL File Created From FFLL Model : Thu Sep 06 10:39:12 2001 *)
+FUNCTION_BLOCK
+
+VAR_INPUT
+	ECONSUMP	REAL; (* RANGE(0 .. 100) *) 
+	DIST	REAL; (* RANGE(0 .. 100) *) 
+        NUMPKEY             REAL; (* RANGE(0 .. 100) *)
+END_VAR
+
+VAR_OUTPUT
+	EVALRESULT	REAL; (* RANGE(0 .. 100) *) 
+END_VAR
+
+FUZZIFY ECONSUMP	
+	TERM Small := (0, 0) (0, 1) (50, 0) ;
+	TERM Medium := (0, 0) (50, 1) (100, 0);
+	TERM High := (50, 0) (100, 1) (100, 0) ;
+END_FUZZIFY
+
+FUZZIFY DIST
+	TERM Small := (0, 0) (0, 1) (50, 0) ;
+	TERM Medium := (0, 0) (50, 1) (100, 0);
+	TERM High := (50, 0) (100, 1) (100, 0) ;
+END_FUZZIFY
+
+FUZZIFY NUMPKEY
+	TERM Small := (0, 0) (0, 1) (50, 0) ;
+	TERM Medium := (0, 0) (50, 1) (100, 0);
+	TERM High := (50, 0) (100, 1) (100, 0) ;
+	
+END_FUZZIFY
+
+
+FUZZIFY EVALRESULT
+	TERM VS := (0, 0) (0,1) (25, 0) ;
+	TERM S := (0, 0) (25, 1) (50, 0)  ;
+	TERM M := (25, 0) (50, 1) (75,0)  ;
+        TERM H := (50, 0) (75,1) (100,0);
+        TERM VH := (75, 0) (100,1) (100,0);
+END_FUZZIFY
+
+DEFUZZIFY valve
+	METHOD: CoA;
+END_DEFUZZIFY
+
+RULEBLOCK first
+	AND:MIN;
+	ACCUM:MAX;
+	
+	RULE 0:  IF Small AND Small AND Small THEN H;
+	RULE 1:  IF Small AND Small AND  Medium THEN H;
+	RULE 2:  IF Small AND Small AND High  THEN VH;
+
+	RULE 3:  IF Small AND Medium AND Small  THEN M;
+	RULE 4:  IF Small AND Medium AND Medium  THEN M;
+	RULE 5:  IF Small AND Medium AND High  THEN H;
+
+	RULE 6:  IF Small AND High AND Small THEN S;
+	RULE 7:  IF Small AND High AND  Medium THEN S;
+	RULE 8:  IF Small AND High AND High  THEN M;
+	
+	RULE 9:  IF Medium AND Small AND Small THEN M;
+	RULE 10:  IF Medium AND Small AND  Medium THEN H;
+	RULE 11:  IF Medium AND Small AND High  THEN H;
+
+	RULE 12:  IF Medium AND Medium AND Small  THEN S;
+	RULE 13:  IF Medium AND Medium AND Medium  THEN M;
+	RULE 14:  IF Medium AND Medium AND High  THEN M;
+
+	RULE 15:  IF Medium AND High AND Small THEN VS;
+	RULE 16:  IF Medium AND High AND  Medium THEN S;
+	RULE 17:  IF Medium AND High AND High  THEN S;
+	
+	
+	RULE 18:  IF High AND Small AND Small THEN M;
+	RULE 19:  IF High AND Small AND  Medium THEN M;
+	RULE 20:  IF High AND Small AND High  THEN H;
+
+	RULE 21:  IF High AND Medium AND Small  THEN S;
+	RULE 22:  IF High AND Medium AND Medium  THEN S;
+	RULE 23:  IF High AND Medium AND High  THEN M;
+
+	RULE 24:  IF High AND High AND Small THEN VS;
+	RULE 25:  IF High AND High AND  Medium THEN VS;
+	RULE 26:  IF High AND High AND High  THEN S;     
+	
+	                                     
+       
+END_RULEBLOCK
+
+END_FUNCTION_BLOCK
+

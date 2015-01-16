@@ -1,0 +1,717 @@
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), (old key: 948 new key: 17), recipents: {1,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), (old key: 948 new key: 17), recipents: {18,  } 
+cluster Info. : 18
+lower assoc. nodes: {42, 45, 54, 79, 91, 98, 107, 279,  } 
+(old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 828 new key: 554), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {25,  } 
+(old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 1004 new key: 181), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {33,  } 
+cluster Info. : 265
+upper assoc. nodes: {147, 296,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 260 new key: 54), (old key: 382 new key: 321), recipents: {41,  } 
+cluster Info. : 229
+upper assoc. nodes: {31,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), (old key: 476 new key: 207), recipents: {45,  } 
+cluster Info. : 132
+upper assoc. nodes: {18, 217,  } 
+(old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 276 new key: 708), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {72,  } 
+cluster Info. : 227
+upper assoc. nodes: {166, 288,  } 
+(old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 1004 new key: 181), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {101,  } 
+cluster Info. : 265
+upper assoc. nodes: {68, 103, 290,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), (old key: 948 new key: 17), recipents: {106,  } 
+cluster Info. : 18
+upper assoc. nodes: {29, 32, 112, 211,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), (old key: 652 new key: 614), recipents: {116,  } 
+cluster Info. : 191
+upper assoc. nodes: {68,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 260 new key: 54), (old key: 382 new key: 321), recipents: {117,  } 
+cluster Info. : 229
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), (old key: 948 new key: 17), recipents: {128,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), (old key: 476 new key: 207), recipents: {132,  } 
+cluster Info. : 132
+upper assoc. nodes: {166,  } 
+lower assoc. nodes: {87, 120, 257,  } 
+(old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 828 new key: 554), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {139,  } 
+cluster Info. : 207
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), (old key: 476 new key: 207), recipents: {141,  } 
+cluster Info. : 132
+upper assoc. nodes: {29, 32, 112, 211,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), (old key: 476 new key: 207), recipents: {152,  } 
+cluster Info. : 132
+upper assoc. nodes: {166,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), (old key: 652 new key: 614), recipents: {159,  } 
+cluster Info. : 191
+upper assoc. nodes: {215, 290,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), (old key: 476 new key: 207), recipents: {168,  } 
+cluster Info. : 132
+(old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 276 new key: 708), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {171,  } 
+cluster Info. : 227
+upper assoc. nodes: {29, 32, 207,  } 
+(old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 828 new key: 554), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {175,  } 
+cluster Info. : 207
+(old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 612 new key: 581), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {182,  } 
+cluster Info. : 215
+upper assoc. nodes: {112,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), (old key: 652 new key: 614), recipents: {191,  } 
+cluster Info. : 191
+upper assoc. nodes: {103, 112,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), (old key: 652 new key: 614), recipents: {195,  } 
+cluster Info. : 191
+upper assoc. nodes: {103, 112,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), (old key: 652 new key: 614), recipents: {196,  } 
+cluster Info. : 191
+(old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 612 new key: 581), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {198,  } 
+cluster Info. : 215
+(old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 828 new key: 554), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {207,  } 
+cluster Info. : 207
+lower assoc. nodes: {5, 16, 20, 37, 80, 83, 89, 109, 171,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 260 new key: 54), (old key: 382 new key: 321), recipents: {213,  } 
+cluster Info. : 229
+(old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 612 new key: 581), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {215,  } 
+cluster Info. : 215
+lower assoc. nodes: {7, 10, 48, 58, 100, 121, 159, 234, 271,  } 
+(old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 1004 new key: 181), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {221,  } 
+cluster Info. : 265
+(old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 276 new key: 708), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {224,  } 
+cluster Info. : 227
+(old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 276 new key: 708), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {227,  } 
+cluster Info. : 227
+lower assoc. nodes: {2, 28,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 260 new key: 54), (old key: 382 new key: 321), recipents: {229,  } 
+cluster Info. : 229
+lower assoc. nodes: {13, 44, 46, 62, 99, 230, 281,  } 
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 260 new key: 54), (old key: 382 new key: 321), recipents: {233,  } 
+cluster Info. : 229
+(old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 1004 new key: 181), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {241,  } 
+cluster Info. : 265
+(old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 612 new key: 581), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {246,  } 
+cluster Info. : 215
+(old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), (old key: 948 new key: 17), recipents: {248,  } 
+(old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 1004 new key: 181), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {265,  } 
+cluster Info. : 265
+lower assoc. nodes: {51, 66, 88, 145, 162, 183, 247, 280,  } 
+(old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 612 new key: 581), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {266,  } 
+cluster Info. : 215
+(old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 828 new key: 554), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {284,  } 
+cluster Info. : 207
+(old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 276 new key: 708), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {287,  } 
+cluster Info. : 227
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 142 new key: 252), (old key: 382 new key: 321), recipents: {11,  } 
+cluster Info. : 51
+upper assoc. nodes: {162, 172,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 286 new key: 724), (old key: 38 new key: 806), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {13,  } 
+cluster Info. : 30
+upper assoc. nodes: {167, 229,  } 
+(old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 628 new key: 76), (old key: 382 new key: 321), recipents: {16,  } 
+cluster Info. : 16
+upper assoc. nodes: {29, 32, 207,  } 
+lower assoc. nodes: {8, 38, 59, 65,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 286 new key: 724), (old key: 38 new key: 806), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {17,  } 
+cluster Info. : 30
+upper assoc. nodes: {31, 217,  } 
+(old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 332 new key: 989), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {19,  } 
+cluster Info. : 19
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 508 new key: 465), (old key: 382 new key: 321), recipents: {22,  } 
+cluster Info. : 142
+upper assoc. nodes: {79, 256,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 286 new key: 724), (old key: 38 new key: 806), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {30,  } 
+cluster Info. : 30
+lower assoc. nodes: {44, 46,  } 
+(old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 628 new key: 76), (old key: 382 new key: 321), recipents: {34,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 142 new key: 252), (old key: 382 new key: 321), recipents: {36,  } 
+cluster Info. : 51
+upper assoc. nodes: {7, 177,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 980 new key: 35), (old key: 286 new key: 724), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {42,  } 
+cluster Info. : 42
+upper assoc. nodes: {18,  } 
+lower assoc. nodes: {44,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 698 new key: 328), (old key: 286 new key: 724), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {43,  } 
+cluster Info. : 79
+upper assoc. nodes: {102, 107, 256,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 980 new key: 35), (old key: 286 new key: 724), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {46,  } 
+cluster Info. : 42
+upper assoc. nodes: {30, 31, 167, 229,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 142 new key: 252), (old key: 382 new key: 321), recipents: {51,  } 
+cluster Info. : 51
+upper assoc. nodes: {156, 265, 296,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 418 new key: 910), (old key: 382 new key: 321), recipents: {55,  } 
+cluster Info. : 188
+upper assoc. nodes: {37, 239,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 584 new key: 77), (old key: 286 new key: 724), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {56,  } 
+cluster Info. : 107
+upper assoc. nodes: {102, 256,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 508 new key: 465), (old key: 382 new key: 321), recipents: {57,  } 
+cluster Info. : 142
+upper assoc. nodes: {82, 102, 107,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 292 new key: 496), (old key: 382 new key: 321), recipents: {59,  } 
+cluster Info. : 239
+upper assoc. nodes: {16, 37, 53,  } 
+(old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 628 new key: 76), (old key: 382 new key: 321), recipents: {64,  } 
+cluster Info. : 16
+upper assoc. nodes: {37, 53, 250, 262,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 418 new key: 910), (old key: 382 new key: 321), recipents: {65,  } 
+cluster Info. : 188
+upper assoc. nodes: {16, 53, 250,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 698 new key: 328), (old key: 286 new key: 724), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {79,  } 
+cluster Info. : 79
+upper assoc. nodes: {18,  } 
+lower assoc. nodes: {22,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 142 new key: 252), (old key: 382 new key: 321), recipents: {81,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 698 new key: 328), (old key: 286 new key: 724), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {87,  } 
+cluster Info. : 79
+upper assoc. nodes: {82, 132,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 698 new key: 328), (old key: 286 new key: 724), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {91,  } 
+cluster Info. : 79
+upper assoc. nodes: {18,  } 
+(old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 332 new key: 989), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {94,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 980 new key: 35), (old key: 286 new key: 724), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {95,  } 
+cluster Info. : 42
+upper assoc. nodes: {217,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 980 new key: 35), (old key: 286 new key: 724), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {98,  } 
+cluster Info. : 42
+upper assoc. nodes: {18,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 584 new key: 77), (old key: 286 new key: 724), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {107,  } 
+cluster Info. : 107
+upper assoc. nodes: {18,  } 
+lower assoc. nodes: {43, 57,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 292 new key: 496), (old key: 382 new key: 321), recipents: {115,  } 
+cluster Info. : 239
+upper assoc. nodes: {250, 262,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 752 new key: 43), (old key: 382 new key: 321), recipents: {118,  } 
+cluster Info. : 162
+upper assoc. nodes: {172, 177,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 584 new key: 77), (old key: 286 new key: 724), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {120,  } 
+cluster Info. : 107
+upper assoc. nodes: {82, 132,  } 
+(old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 332 new key: 989), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {135,  } 
+cluster Info. : 19
+upper assoc. nodes: {299,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 508 new key: 465), (old key: 382 new key: 321), recipents: {142,  } 
+cluster Info. : 142
+(old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 628 new key: 76), (old key: 382 new key: 321), recipents: {146,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 418 new key: 910), (old key: 382 new key: 321), recipents: {149,  } 
+cluster Info. : 188
+upper assoc. nodes: {166, 288,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 752 new key: 43), (old key: 382 new key: 321), recipents: {161,  } 
+cluster Info. : 162
+upper assoc. nodes: {7, 156,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 752 new key: 43), (old key: 382 new key: 321), recipents: {162,  } 
+cluster Info. : 162
+upper assoc. nodes: {103, 265,  } 
+lower assoc. nodes: {11,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 584 new key: 77), (old key: 286 new key: 724), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {173,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 292 new key: 496), (old key: 382 new key: 321), recipents: {187,  } 
+cluster Info. : 239
+upper assoc. nodes: {166, 288,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 418 new key: 910), (old key: 382 new key: 321), recipents: {188,  } 
+cluster Info. : 188
+upper assoc. nodes: {166, 288,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 418 new key: 910), (old key: 382 new key: 321), recipents: {200,  } 
+cluster Info. : 188
+(old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 332 new key: 989), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {202,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 584 new key: 77), (old key: 286 new key: 724), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {205,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 508 new key: 465), (old key: 382 new key: 321), recipents: {210,  } 
+cluster Info. : 142
+(old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 332 new key: 989), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {218,  } 
+(old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 628 new key: 76), (old key: 382 new key: 321), recipents: {223,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 980 new key: 35), (old key: 286 new key: 724), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {226,  } 
+cluster Info. : 42
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 286 new key: 724), (old key: 38 new key: 806), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {238,  } 
+cluster Info. : 30
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 292 new key: 496), (old key: 382 new key: 321), recipents: {239,  } 
+cluster Info. : 239
+upper assoc. nodes: {166, 288,  } 
+lower assoc. nodes: {38, 55, 260,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 752 new key: 43), (old key: 382 new key: 321), recipents: {247,  } 
+cluster Info. : 162
+upper assoc. nodes: {103, 265,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 698 new key: 328), (old key: 286 new key: 724), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {258,  } 
+cluster Info. : 79
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 752 new key: 43), (old key: 382 new key: 321), recipents: {261,  } 
+cluster Info. : 162
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 508 new key: 465), (old key: 382 new key: 321), recipents: {277,  } 
+cluster Info. : 142
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 512 new key: 442), (old key: 142 new key: 252), (old key: 382 new key: 321), recipents: {280,  } 
+cluster Info. : 51
+upper assoc. nodes: {156, 265, 296,  } 
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 286 new key: 724), (old key: 38 new key: 806), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {282,  } 
+cluster Info. : 30
+(old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 292 new key: 496), (old key: 382 new key: 321), recipents: {286,  } 
+cluster Info. : 239
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 684 new key: 416), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {21,  } 
+cluster Info. : 256
+upper assoc. nodes: {82,  } 
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 684 new key: 416), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {24,  } 
+cluster Info. : 256
+upper assoc. nodes: {180,  } 
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 188 new key: 958), (old key: 382 new key: 321), (old key: 210 new key: 265), recipents: {27,  } 
+cluster Info. : 27
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 188 new key: 958), (old key: 382 new key: 321), (old key: 210 new key: 265), recipents: {44,  } 
+cluster Info. : 27
+upper assoc. nodes: {30, 31, 42, 229, 298,  } 
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 188 new key: 958), (old key: 382 new key: 321), (old key: 210 new key: 265), recipents: {47,  } 
+cluster Info. : 27
+upper assoc. nodes: {167,  } 
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 684 new key: 416), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {60,  } 
+cluster Info. : 256
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 190 new key: 127), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {63,  } 
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 672 new key: 978), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {93,  } 
+cluster Info. : 93
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 188 new key: 958), (old key: 382 new key: 321), (old key: 210 new key: 265), recipents: {104,  } 
+cluster Info. : 27
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 190 new key: 127), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {111,  } 
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 684 new key: 416), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {125,  } 
+cluster Info. : 256
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 188 new key: 958), (old key: 382 new key: 321), (old key: 210 new key: 265), recipents: {151,  } 
+cluster Info. : 27
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 672 new key: 978), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {201,  } 
+cluster Info. : 93
+upper assoc. nodes: {272, 298,  } 
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 190 new key: 127), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {230,  } 
+cluster Info. : 230
+upper assoc. nodes: {31, 229,  } 
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 684 new key: 416), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {256,  } 
+cluster Info. : 256
+lower assoc. nodes: {22, 43, 56,  } 
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 190 new key: 127), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {267,  } 
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 672 new key: 978), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {270,  } 
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 672 new key: 978), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {281,  } 
+cluster Info. : 93
+upper assoc. nodes: {31, 229,  } 
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 190 new key: 127), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {283,  } 
+(old key: 12 new key: 5), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 672 new key: 978), (old key: 188 new key: 958), (old key: 382 new key: 321), recipents: {293,  } 
+cluster Info. : 93
+(old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 156 new key: 370), (old key: 382 new key: 321), recipents: {76,  } 
+cluster Info. : 156
+upper assoc. nodes: {103,  } 
+(old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 156 new key: 370), (old key: 382 new key: 321), recipents: {153,  } 
+cluster Info. : 156
+(old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 156 new key: 370), (old key: 382 new key: 321), recipents: {156,  } 
+cluster Info. : 156
+lower assoc. nodes: {39, 51, 121, 145, 161, 232, 234, 276, 280,  } 
+(old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 156 new key: 370), (old key: 382 new key: 321), recipents: {189,  } 
+cluster Info. : 156
+(old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 156 new key: 370), (old key: 382 new key: 321), recipents: {253,  } 
+cluster Info. : 156
+(old key: 502 new key: 143), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 382 new key: 321), recipents: {38,  } 
+cluster Info. : 86
+upper assoc. nodes: {16, 37, 53, 239,  } 
+(old key: 502 new key: 143), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 382 new key: 321), recipents: {85,  } 
+cluster Info. : 86
+upper assoc. nodes: {250, 262,  } 
+(old key: 502 new key: 143), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 382 new key: 321), recipents: {86,  } 
+cluster Info. : 86
+upper assoc. nodes: {166,  } 
+lower assoc. nodes: {8,  } 
+(old key: 502 new key: 143), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 382 new key: 321), recipents: {134,  } 
+cluster Info. : 86
+upper assoc. nodes: {166,  } 
+(old key: 502 new key: 143), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 382 new key: 321), recipents: {194,  } 
+cluster Info. : 86
+(old key: 152 new key: 162), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 382 new key: 321), recipents: {8,  } 
+cluster Info. : 169
+upper assoc. nodes: {16, 86, 197,  } 
+(old key: 152 new key: 162), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 382 new key: 321), recipents: {52,  } 
+(old key: 152 new key: 162), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 382 new key: 321), recipents: {164,  } 
+(old key: 152 new key: 162), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 382 new key: 321), recipents: {169,  } 
+cluster Info. : 169
+upper assoc. nodes: {166,  } 
+(old key: 152 new key: 162), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 382 new key: 321), recipents: {260,  } 
+cluster Info. : 169
+upper assoc. nodes: {37, 53, 239, 250, 262,  } 
+(old key: 394 new key: 921), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 382 new key: 321), recipents: {35,  } 
+cluster Info. : 299
+(old key: 394 new key: 921), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 382 new key: 321), recipents: {84,  } 
+cluster Info. : 299
+(old key: 394 new key: 921), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 382 new key: 321), recipents: {179,  } 
+cluster Info. : 299
+(old key: 394 new key: 921), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 382 new key: 321), recipents: {208,  } 
+cluster Info. : 299
+(old key: 394 new key: 921), (old key: 352 new key: 428), (old key: 660 new key: 283), (old key: 334 new key: 7), (old key: 818 new key: 405), (old key: 382 new key: 321), recipents: {299,  } 
+cluster Info. : 299
+lower assoc. nodes: {135,  } 
+(old key: 94 new key: 920), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {129,  } 
+cluster Info. : 172
+upper assoc. nodes: {7, 177,  } 
+(old key: 94 new key: 920), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {145,  } 
+cluster Info. : 172
+upper assoc. nodes: {156, 265, 296,  } 
+(old key: 94 new key: 920), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {172,  } 
+cluster Info. : 172
+upper assoc. nodes: {290,  } 
+lower assoc. nodes: {11, 118,  } 
+(old key: 94 new key: 920), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {269,  } 
+cluster Info. : 172
+upper assoc. nodes: {290,  } 
+(old key: 94 new key: 920), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {289,  } 
+cluster Info. : 172
+(old key: 832 new key: 535), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {26,  } 
+cluster Info. : 37
+upper assoc. nodes: {53, 250,  } 
+(old key: 832 new key: 535), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {37,  } 
+cluster Info. : 37
+upper assoc. nodes: {29, 32, 207,  } 
+lower assoc. nodes: {38, 55, 59, 64, 260,  } 
+(old key: 832 new key: 535), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {131,  } 
+(old key: 832 new key: 535), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {275,  } 
+(old key: 832 new key: 535), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {295,  } 
+(old key: 626 new key: 138), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {53,  } 
+cluster Info. : 53
+upper assoc. nodes: {29, 32,  } 
+lower assoc. nodes: {26, 38, 59, 64, 65, 260,  } 
+(old key: 626 new key: 138), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {73,  } 
+cluster Info. : 53
+upper assoc. nodes: {250, 262,  } 
+(old key: 626 new key: 138), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {160,  } 
+cluster Info. : 53
+upper assoc. nodes: {166, 288,  } 
+(old key: 626 new key: 138), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {185,  } 
+cluster Info. : 53
+upper assoc. nodes: {29, 32,  } 
+(old key: 626 new key: 138), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 308 new key: 246), (old key: 382 new key: 321), recipents: {209,  } 
+cluster Info. : 53
+(old key: 966 new key: 827), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 382 new key: 321), recipents: {69,  } 
+(old key: 966 new key: 827), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 382 new key: 321), recipents: {88,  } 
+cluster Info. : 276
+upper assoc. nodes: {7, 121, 265,  } 
+(old key: 966 new key: 827), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 382 new key: 321), recipents: {193,  } 
+(old key: 966 new key: 827), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 382 new key: 321), recipents: {264,  } 
+cluster Info. : 276
+upper assoc. nodes: {147, 177, 296,  } 
+(old key: 966 new key: 827), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 382 new key: 321), recipents: {276,  } 
+cluster Info. : 276
+upper assoc. nodes: {103, 156, 290,  } 
+(old key: 744 new key: 862), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 382 new key: 321), recipents: {7,  } 
+cluster Info. : 7
+upper assoc. nodes: {215,  } 
+lower assoc. nodes: {36, 66, 88, 129, 161,  } 
+(old key: 744 new key: 862), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 382 new key: 321), recipents: {108,  } 
+(old key: 744 new key: 862), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 382 new key: 321), recipents: {183,  } 
+cluster Info. : 7
+upper assoc. nodes: {177, 265, 296,  } 
+(old key: 744 new key: 862), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 382 new key: 321), recipents: {232,  } 
+cluster Info. : 7
+upper assoc. nodes: {103, 147, 156, 290,  } 
+(old key: 744 new key: 862), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 382 new key: 321), recipents: {271,  } 
+cluster Info. : 7
+upper assoc. nodes: {215,  } 
+(old key: 90 new key: 805), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 382 new key: 321), recipents: {39,  } 
+cluster Info. : 177
+upper assoc. nodes: {156,  } 
+(old key: 90 new key: 805), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 382 new key: 321), recipents: {130,  } 
+cluster Info. : 177
+upper assoc. nodes: {103,  } 
+(old key: 90 new key: 805), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 382 new key: 321), recipents: {154,  } 
+cluster Info. : 177
+(old key: 90 new key: 805), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 382 new key: 321), recipents: {170,  } 
+cluster Info. : 177
+(old key: 90 new key: 805), (old key: 352 new key: 428), (old key: 432 new key: 307), (old key: 230 new key: 36), (old key: 134 new key: 609), (old key: 382 new key: 321), recipents: {177,  } 
+cluster Info. : 177
+lower assoc. nodes: {36, 70, 118, 129, 183, 264,  } 
+(old key: 46 new key: 553), (old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 382 new key: 321), recipents: {75,  } 
+cluster Info. : 262
+upper assoc. nodes: {166, 288,  } 
+(old key: 46 new key: 553), (old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 382 new key: 321), recipents: {83,  } 
+cluster Info. : 262
+upper assoc. nodes: {29, 32, 207,  } 
+(old key: 46 new key: 553), (old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 382 new key: 321), recipents: {123,  } 
+cluster Info. : 262
+(old key: 46 new key: 553), (old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 382 new key: 321), recipents: {163,  } 
+cluster Info. : 262
+(old key: 46 new key: 553), (old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 382 new key: 321), recipents: {262,  } 
+cluster Info. : 262
+lower assoc. nodes: {64, 73, 74, 85, 115, 260,  } 
+(old key: 912 new key: 372), (old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 382 new key: 321), recipents: {74,  } 
+cluster Info. : 250
+upper assoc. nodes: {166, 262, 288,  } 
+(old key: 912 new key: 372), (old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 382 new key: 321), recipents: {109,  } 
+cluster Info. : 250
+upper assoc. nodes: {29, 32, 207,  } 
+(old key: 912 new key: 372), (old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 382 new key: 321), recipents: {158,  } 
+cluster Info. : 250
+(old key: 912 new key: 372), (old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 382 new key: 321), recipents: {250,  } 
+cluster Info. : 250
+lower assoc. nodes: {26, 64, 65, 73, 85, 115, 260,  } 
+(old key: 912 new key: 372), (old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 382 new key: 321), recipents: {297,  } 
+(old key: 834 new key: 579), (old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 382 new key: 321), recipents: {15,  } 
+(old key: 834 new key: 579), (old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 382 new key: 321), recipents: {197,  } 
+cluster Info. : 197
+lower assoc. nodes: {8,  } 
+(old key: 834 new key: 579), (old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 382 new key: 321), recipents: {204,  } 
+cluster Info. : 197
+(old key: 834 new key: 579), (old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 382 new key: 321), recipents: {212,  } 
+cluster Info. : 197
+(old key: 834 new key: 579), (old key: 424 new key: 159), (old key: 352 new key: 428), (old key: 230 new key: 36), (old key: 610 new key: 576), (old key: 382 new key: 321), recipents: {235,  } 
+(old key: 1022 new key: 656), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {4,  } 
+cluster Info. : 296
+upper assoc. nodes: {103, 290,  } 
+(old key: 1022 new key: 656), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {100,  } 
+cluster Info. : 296
+upper assoc. nodes: {215,  } 
+(old key: 1022 new key: 656), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {184,  } 
+cluster Info. : 296
+upper assoc. nodes: {112,  } 
+(old key: 1022 new key: 656), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {292,  } 
+cluster Info. : 296
+(old key: 1022 new key: 656), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {296,  } 
+cluster Info. : 296
+upper assoc. nodes: {112,  } 
+lower assoc. nodes: {33, 51, 66, 145, 183, 259, 264, 280,  } 
+(old key: 992 new key: 175), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {9,  } 
+(old key: 992 new key: 175), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {103,  } 
+cluster Info. : 103
+lower assoc. nodes: {4, 58, 61, 70, 76, 101, 130, 162, 191, 195, 232, 247, 276,  } 
+(old key: 992 new key: 175), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {110,  } 
+cluster Info. : 103
+(old key: 992 new key: 175), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {122,  } 
+cluster Info. : 103
+(old key: 992 new key: 175), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {186,  } 
+cluster Info. : 103
+(old key: 18 new key: 578), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {89,  } 
+cluster Info. : 288
+upper assoc. nodes: {29, 32, 166, 207,  } 
+(old key: 18 new key: 578), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {157,  } 
+cluster Info. : 288
+(old key: 18 new key: 578), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {192,  } 
+cluster Info. : 288
+(old key: 18 new key: 578), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {249,  } 
+cluster Info. : 288
+(old key: 18 new key: 578), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 860 new key: 814), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {288,  } 
+cluster Info. : 288
+lower assoc. nodes: {50, 72, 74, 75, 149, 160, 187, 188, 239, 244,  } 
+(old key: 870 new key: 851), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {2,  } 
+cluster Info. : 294
+upper assoc. nodes: {227, 236,  } 
+(old key: 870 new key: 851), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {50,  } 
+cluster Info. : 294
+upper assoc. nodes: {166, 254, 288,  } 
+(old key: 870 new key: 851), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {77,  } 
+cluster Info. : 294
+upper assoc. nodes: {29,  } 
+(old key: 870 new key: 851), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {206,  } 
+cluster Info. : 294
+(old key: 870 new key: 851), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {294,  } 
+cluster Info. : 294
+upper assoc. nodes: {29,  } 
+(old key: 904 new key: 150), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {97,  } 
+(old key: 904 new key: 150), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {113,  } 
+(old key: 904 new key: 150), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {147,  } 
+cluster Info. : 147
+upper assoc. nodes: {112,  } 
+lower assoc. nodes: {33, 66, 232, 264,  } 
+(old key: 904 new key: 150), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {259,  } 
+cluster Info. : 147
+upper assoc. nodes: {68, 290, 296,  } 
+(old key: 904 new key: 150), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {268,  } 
+(old key: 506 new key: 765), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {58,  } 
+cluster Info. : 290
+upper assoc. nodes: {103, 215,  } 
+(old key: 506 new key: 765), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {138,  } 
+cluster Info. : 290
+upper assoc. nodes: {112,  } 
+(old key: 506 new key: 765), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {178,  } 
+cluster Info. : 290
+(old key: 506 new key: 765), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {199,  } 
+cluster Info. : 290
+(old key: 506 new key: 765), (old key: 402 new key: 753), (old key: 996 new key: 587), (old key: 382 new key: 321), (old key: 264 new key: 924), (old key: 238 new key: 185), recipents: {290,  } 
+cluster Info. : 290
+lower assoc. nodes: {4, 48, 70, 101, 159, 172, 232, 259, 269, 276,  } 
+(old key: 974 new key: 897), (old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {0,  } 
+(old key: 974 new key: 897), (old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {5,  } 
+cluster Info. : 166
+upper assoc. nodes: {29, 207,  } 
+(old key: 974 new key: 897), (old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {78,  } 
+cluster Info. : 166
+(old key: 974 new key: 897), (old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {166,  } 
+cluster Info. : 166
+lower assoc. nodes: {50, 72, 74, 75, 80, 86, 89, 132, 134, 149, 152, 160, 169, 187, 188, 217, 222, 239, 244,  } 
+(old key: 974 new key: 897), (old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {174,  } 
+cluster Info. : 166
+(old key: 48 new key: 748), (old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {28,  } 
+cluster Info. : 236
+upper assoc. nodes: {227, 254,  } 
+(old key: 48 new key: 748), (old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {236,  } 
+cluster Info. : 236
+lower assoc. nodes: {2,  } 
+(old key: 48 new key: 748), (old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {244,  } 
+cluster Info. : 236
+upper assoc. nodes: {166, 288,  } 
+(old key: 48 new key: 748), (old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {251,  } 
+cluster Info. : 236
+(old key: 48 new key: 748), (old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {291,  } 
+(old key: 226 new key: 347), (old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {48,  } 
+cluster Info. : 68
+upper assoc. nodes: {215, 290,  } 
+(old key: 226 new key: 347), (old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {61,  } 
+cluster Info. : 68
+upper assoc. nodes: {103, 112,  } 
+(old key: 226 new key: 347), (old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {68,  } 
+cluster Info. : 68
+lower assoc. nodes: {70, 101, 116, 259,  } 
+(old key: 226 new key: 347), (old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {105,  } 
+cluster Info. : 68
+(old key: 226 new key: 347), (old key: 402 new key: 753), (old key: 592 new key: 567), (old key: 694 new key: 56), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {285,  } 
+cluster Info. : 68
+(old key: 310 new key: 736), (old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {20,  } 
+cluster Info. : 29
+upper assoc. nodes: {207,  } 
+(old key: 310 new key: 736), (old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {29,  } 
+cluster Info. : 29
+lower assoc. nodes: {5, 16, 37, 53, 77, 80, 83, 89, 102, 106, 109, 126, 141, 167, 171, 185, 294,  } 
+(old key: 310 new key: 736), (old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {181,  } 
+cluster Info. : 29
+(old key: 310 new key: 736), (old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {216,  } 
+cluster Info. : 29
+(old key: 310 new key: 736), (old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {228,  } 
+cluster Info. : 29
+(old key: 472 new key: 191), (old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {32,  } 
+cluster Info. : 32
+lower assoc. nodes: {16, 37, 53, 83, 89, 102, 106, 109, 126, 141, 167, 171, 185,  } 
+(old key: 472 new key: 191), (old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {80,  } 
+cluster Info. : 32
+upper assoc. nodes: {29, 166, 207,  } 
+(old key: 472 new key: 191), (old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {96,  } 
+cluster Info. : 32
+(old key: 472 new key: 191), (old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {119,  } 
+(old key: 472 new key: 191), (old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {143,  } 
+cluster Info. : 32
+(old key: 202 new key: 786), (old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {133,  } 
+cluster Info. : 254
+(old key: 202 new key: 786), (old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {136,  } 
+(old key: 202 new key: 786), (old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {242,  } 
+cluster Info. : 254
+(old key: 202 new key: 786), (old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {245,  } 
+cluster Info. : 254
+(old key: 202 new key: 786), (old key: 402 new key: 753), (old key: 694 new key: 56), (old key: 2 new key: 766), (old key: 382 new key: 321), (old key: 264 new key: 924), recipents: {254,  } 
+cluster Info. : 254
+lower assoc. nodes: {28, 50, 127,  } 
+(old key: 926 new key: 653), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), recipents: {10,  } 
+cluster Info. : 137
+upper assoc. nodes: {112, 215,  } 
+(old key: 926 new key: 653), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), recipents: {137,  } 
+cluster Info. : 137
+(old key: 926 new key: 653), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), recipents: {155,  } 
+(old key: 926 new key: 653), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), recipents: {165,  } 
+cluster Info. : 137
+(old key: 926 new key: 653), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), recipents: {203,  } 
+(old key: 128 new key: 648), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), recipents: {3,  } 
+cluster Info. : 112
+(old key: 128 new key: 648), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), recipents: {112,  } 
+cluster Info. : 112
+lower assoc. nodes: {10, 54, 61, 71, 102, 106, 138, 141, 147, 182, 184, 191, 195, 279, 296,  } 
+(old key: 128 new key: 648), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), recipents: {124,  } 
+cluster Info. : 112
+(old key: 128 new key: 648), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), recipents: {252,  } 
+cluster Info. : 112
+(old key: 128 new key: 648), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), recipents: {263,  } 
+cluster Info. : 112
+(old key: 434 new key: 71), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), recipents: {71,  } 
+cluster Info. : 211
+upper assoc. nodes: {112,  } 
+(old key: 434 new key: 71), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), recipents: {90,  } 
+cluster Info. : 211
+(old key: 434 new key: 71), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), recipents: {211,  } 
+cluster Info. : 211
+lower assoc. nodes: {54, 106, 141, 279,  } 
+(old key: 434 new key: 71), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), recipents: {214,  } 
+cluster Info. : 211
+(old key: 434 new key: 71), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 856 new key: 20), (old key: 644 new key: 99), (old key: 382 new key: 321), recipents: {278,  } 
+(old key: 774 new key: 572), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), recipents: {23,  } 
+(old key: 774 new key: 572), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), recipents: {127,  } 
+cluster Info. : 180
+upper assoc. nodes: {254,  } 
+(old key: 774 new key: 572), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), recipents: {140,  } 
+cluster Info. : 180
+(old key: 774 new key: 572), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), recipents: {180,  } 
+cluster Info. : 180
+lower assoc. nodes: {24, 150,  } 
+(old key: 774 new key: 572), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), recipents: {231,  } 
+cluster Info. : 180
+(old key: 40 new key: 107), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), recipents: {31,  } 
+cluster Info. : 31
+lower assoc. nodes: {17, 41, 44, 46, 62, 230, 279, 281,  } 
+(old key: 40 new key: 107), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), recipents: {40,  } 
+(old key: 40 new key: 107), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), recipents: {190,  } 
+(old key: 40 new key: 107), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), recipents: {225,  } 
+(old key: 40 new key: 107), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), recipents: {237,  } 
+(old key: 922 new key: 718), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), recipents: {54,  } 
+cluster Info. : 217
+upper assoc. nodes: {18, 112, 211,  } 
+(old key: 922 new key: 718), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), recipents: {126,  } 
+cluster Info. : 217
+upper assoc. nodes: {29, 32,  } 
+(old key: 922 new key: 718), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), recipents: {217,  } 
+cluster Info. : 217
+upper assoc. nodes: {166,  } 
+lower assoc. nodes: {17, 45, 95, 99,  } 
+(old key: 922 new key: 718), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), recipents: {222,  } 
+cluster Info. : 217
+upper assoc. nodes: {166,  } 
+(old key: 922 new key: 718), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 598 new key: 250), (old key: 856 new key: 20), (old key: 382 new key: 321), recipents: {274,  } 
+cluster Info. : 217
+(old key: 878 new key: 994), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {49,  } 
+(old key: 878 new key: 994), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {82,  } 
+cluster Info. : 82
+lower assoc. nodes: {21, 57, 87, 120,  } 
+(old key: 878 new key: 994), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {92,  } 
+(old key: 878 new key: 994), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {150,  } 
+cluster Info. : 82
+upper assoc. nodes: {180,  } 
+(old key: 878 new key: 994), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {220,  } 
+(old key: 208 new key: 473), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {12,  } 
+cluster Info. : 272
+(old key: 208 new key: 473), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {144,  } 
+cluster Info. : 272
+(old key: 208 new key: 473), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {148,  } 
+cluster Info. : 272
+(old key: 208 new key: 473), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {240,  } 
+cluster Info. : 272
+(old key: 208 new key: 473), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {272,  } 
+cluster Info. : 272
+lower assoc. nodes: {201,  } 
+(old key: 642 new key: 356), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {62,  } 
+cluster Info. : 298
+upper assoc. nodes: {31, 229,  } 
+(old key: 642 new key: 356), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {67,  } 
+(old key: 642 new key: 356), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {176,  } 
+(old key: 642 new key: 356), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {219,  } 
+(old key: 642 new key: 356), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1016 new key: 816), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {298,  } 
+cluster Info. : 298
+lower assoc. nodes: {44, 201,  } 
+(old key: 214 new key: 541), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {6,  } 
+(old key: 214 new key: 541), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {14,  } 
+(old key: 214 new key: 541), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {99,  } 
+cluster Info. : 167
+upper assoc. nodes: {217, 229,  } 
+(old key: 214 new key: 541), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {167,  } 
+cluster Info. : 167
+upper assoc. nodes: {29, 32,  } 
+lower assoc. nodes: {13, 46, 47,  } 
+(old key: 214 new key: 541), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {279,  } 
+cluster Info. : 167
+upper assoc. nodes: {18, 31, 112, 211,  } 
+(old key: 632 new key: 216), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {102,  } 
+cluster Info. : 102
+upper assoc. nodes: {29, 32, 112,  } 
+lower assoc. nodes: {43, 56, 57,  } 
+(old key: 632 new key: 216), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {114,  } 
+(old key: 632 new key: 216), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {243,  } 
+(old key: 632 new key: 216), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {255,  } 
+(old key: 632 new key: 216), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {257,  } 
+cluster Info. : 102
+upper assoc. nodes: {132,  } 
+(old key: 618 new key: 599), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {66,  } 
+cluster Info. : 121
+upper assoc. nodes: {7, 147, 265, 296,  } 
+(old key: 618 new key: 599), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {70,  } 
+cluster Info. : 121
+upper assoc. nodes: {68, 103, 177, 290,  } 
+(old key: 618 new key: 599), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {121,  } 
+cluster Info. : 121
+upper assoc. nodes: {156, 215,  } 
+lower assoc. nodes: {88,  } 
+(old key: 618 new key: 599), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {234,  } 
+cluster Info. : 121
+upper assoc. nodes: {156, 215,  } 
+(old key: 618 new key: 599), (old key: 402 new key: 753), (old key: 890 new key: 841), (old key: 1002 new key: 371), (old key: 586 new key: 981), (old key: 382 new key: 321), recipents: {273,  } 
+cluster Info. : 121

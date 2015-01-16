@@ -1,0 +1,107 @@
+
+
+
+
+
+
+
+
+
+
+
+
+node ID: 12, hc = 1 { } , hc = 2 { } , hc = 3 { } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 13, hc = 1 { } , hc = 2 { } , hc = 3 { } 
+	hc = 1 {11, 22, 25, 38,  } hc = 2 {14,  } hc = 3 {1, 6, 8, 15, 17, 27, 29, 32,  } 
+
+node ID: 23, hc = 1 { } , hc = 2 { } , hc = 3 { } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 24, hc = 1 { } , hc = 2 { } , hc = 3 { } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 30, hc = 1 { } , hc = 2 { } , hc = 3 { } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 36, hc = 1 { } , hc = 2 { } , hc = 3 { } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+
+
+
+
+node ID: 14, hc = 1 {22, 38,  } , hc = 2 {13,  } , hc = 3 { } 
+	hc = 1 {11,  } hc = 2 { } hc = 3 {1, 17,  } 
+
+node ID: 27, hc = 1 { } , hc = 2 { } , hc = 3 {22, 38,  } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 29, hc = 1 { } , hc = 2 { } , hc = 3 {13,  } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 34, hc = 1 { } , hc = 2 { } , hc = 3 { } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 37, hc = 1 { } , hc = 2 { } , hc = 3 { } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+
+
+
+
+node ID: 15, hc = 1 { } , hc = 2 { } , hc = 3 {13,  } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 16, hc = 1 { } , hc = 2 { } , hc = 3 { } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 21, hc = 1 { } , hc = 2 { } , hc = 3 { } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 22, hc = 1 {13,  } , hc = 2 { } , hc = 3 { } 
+	hc = 1 {14, 25, 38,  } hc = 2 {11,  } hc = 3 {2, 5, 6, 8, 17, 19, 27, 32,  } 
+
+node ID: 31, hc = 1 { } , hc = 2 { } , hc = 3 { } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+
+
+
+
+node ID: 25, hc = 1 {13, 22,  } , hc = 2 { } , hc = 3 { } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 32, hc = 1 { } , hc = 2 { } , hc = 3 {13, 22,  } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 33, hc = 1 { } , hc = 2 { } , hc = 3 { } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 35, hc = 1 { } , hc = 2 { } , hc = 3 { } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+
+
+
+
+node ID: 17, hc = 1 { } , hc = 2 { } , hc = 3 {13, 22,  } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 19, hc = 1 { } , hc = 2 { } , hc = 3 {22,  } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 20, hc = 1 { } , hc = 2 { } , hc = 3 { } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 28, hc = 1 { } , hc = 2 { } , hc = 3 { } 
+	hc = 1 { } hc = 2 { } hc = 3 { } 
+
+node ID: 38, hc = 1 {13, 22,  } , hc = 2 { } , hc = 3 { } 
+	hc = 1 {14,  } hc = 2 { } hc = 3 {27,  } 
+
+
+
+
+

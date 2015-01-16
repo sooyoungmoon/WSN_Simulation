@@ -1,0 +1,67 @@
+ CH's ID: 0
+node: 0
+nID1: 0, nID2: 8, key value: 8
+nID1: 0, nID2: 17, key value: 17
+
+node: 4
+nID1: 4, nID2: 8, key value: 12
+nID1: 4, nID2: 17, key value: 21
+
+node: 16
+
+
+
+ CH's ID: 8
+node: 5
+
+node: 8
+nID1: 4, nID2: 8, key value: 12
+nID1: 3, nID2: 8, key value: 11
+nID1: 8, nID2: 15, key value: 23
+nID1: 0, nID2: 8, key value: 8
+nID1: 8, nID2: 9, key value: 17
+nID1: 8, nID2: 25, key value: 33
+
+node: 20
+
+
+
+ CH's ID: 9
+node: 9
+nID1: 8, nID2: 9, key value: 17
+
+node: 15
+nID1: 8, nID2: 15, key value: 23
+
+node: 18
+
+node: 19
+
+
+
+ CH's ID: 17
+node: 12
+
+node: 17
+nID1: 4, nID2: 17, key value: 21
+nID1: 0, nID2: 17, key value: 17
+
+node: 22
+
+
+
+ CH's ID: 25
+node: 3
+nID1: 3, nID2: 8, key value: 11
+
+node: 6
+
+node: 10
+
+node: 25
+nID1: 8, nID2: 25, key value: 33
+
+node: 26
+
+
+

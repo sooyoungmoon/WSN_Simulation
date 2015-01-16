@@ -1,0 +1,300 @@
+node 75: , 89, 249
+node 76: 
+node 77: 
+node 78: , 80, 166, 228, 319, 360, 370
+node 79: 
+node 80: , 166, 319, 360
+node 81: 
+node 82: 
+node 83: 
+node 84: 
+node 85: 
+node 86: , 158, 185
+node 87: 
+node 88: 
+node 89: , 166, 249
+node 90: , 78, 80, 211, 216, 228, 360, 370
+node 91: 
+node 92: 
+node 93: 
+node 94: 
+node 95: 
+node 96: 
+node 97: 
+node 98: 
+node 99: 
+node 100: 
+node 101: 
+node 102: 
+node 103: , 249, 266
+node 104: 
+node 105: 
+node 106: 
+node 107: 
+node 108: 
+node 109: 
+node 110: 
+node 111: 
+node 112: , 182, 246, 266, 319
+node 113: 
+node 114: 
+node 115: 
+node 116: 
+node 117: 
+node 118: 
+node 119: , 78, 370
+node 120: 
+node 121: 
+node 122: 
+node 123: 
+node 124: , 112, 182, 211, 215, 246, 340
+node 125: 
+node 126: , 112, 124, 165, 211, 340
+node 127: 
+node 128: 
+node 129: 
+node 130: 
+node 131: 
+node 132: 
+node 133: , 119, 236
+node 134: 
+node 135: 
+node 136: 
+node 137: 
+node 138: 
+node 139: 
+node 140: 
+node 141: 
+node 142: 
+node 143: 
+node 144: 
+node 145: , 184, 271
+node 146: 
+node 147: 
+node 148: 
+node 149: 
+node 150: 
+node 151: 
+node 152: 
+node 153: , 156, 184, 253
+node 154: 
+node 155: 
+node 156: , 75, 103, 249
+node 157: 
+node 158: , 75, 89, 250, 262
+node 159: 
+node 160: 
+node 161: 
+node 162: , 145, 153, 373
+node 163: 
+node 164: 
+node 165: , 112, 124, 182, 211, 215, 246, 340
+node 166: , 319, 360
+node 167: , 126, 220
+node 168: 
+node 169: 
+node 170: 
+node 171: 
+node 172: 
+node 173: 
+node 174: 
+node 175: 
+node 176: 
+node 177: 
+node 178: , 103, 290
+node 179: 
+node 180: 
+node 181: 
+node 182: , 246, 266, 319
+node 183: , 145, 241, 271
+node 184: , 103, 178, 253
+node 185: , 75, 89, 158, 250, 262
+node 186: 
+node 187: , 86, 185
+node 188: 
+node 189: 
+node 190: 
+node 191: 
+node 192: 
+node 193: 
+node 194: 
+node 195: 
+node 196: 
+node 197: , 158
+node 198: 
+node 199: 
+node 200: 
+node 201: 
+node 202: 
+node 203: 
+node 204: 
+node 205: 
+node 206: 
+node 207: 
+node 208: 
+node 209: 
+node 210: 
+node 211: , 112, 182, 246, 266, 319, 360
+node 212: 
+node 213: 
+node 214: 
+node 215: , 112, 182, 246, 266, 340
+node 216: , 78, 80, 211, 228, 360, 370
+node 217: 
+node 218: 
+node 219: 
+node 220: 
+node 221: 
+node 222: 
+node 223: 
+node 224: 
+node 225: 
+node 226: 
+node 227: 
+node 228: , 80, 166, 319, 360, 370
+node 229: 
+node 230: 
+node 231: 
+node 232: 
+node 233: 
+node 234: 
+node 235: 
+node 236: , 119, 309
+node 237: 
+node 238: , 167
+node 239: 
+node 240: 
+node 241: , 178, 184, 265
+node 242: 
+node 243: 
+node 244: 
+node 245: 
+node 246: , 266, 319
+node 247: 
+node 248: 
+node 249: , 166
+node 250: , 75, 89, 166, 249, 262
+node 251: 
+node 252: 
+node 253: , 103, 156
+node 254: 
+node 255: 
+node 256: 
+node 257: 
+node 258: 
+node 259: 
+node 260: 
+node 261: 
+node 262: , 75, 89, 166, 249
+node 263: 
+node 264: 
+node 265: , 178, 184
+node 266: , 319
+node 267: 
+node 268: 
+node 269: 
+node 270: 
+node 271: , 184, 265
+node 272: 
+node 273: 
+node 274: 
+node 275: 
+node 276: 
+node 277: 
+node 278: 
+node 279: 
+node 280: 
+node 281: 
+node 282: 
+node 283: 
+node 284: 
+node 285: 
+node 286: 
+node 287: 
+node 288: 
+node 289: , 145, 162, 183, 271
+node 290: , 103, 215
+node 291: 
+node 292: 
+node 293: 
+node 294: 
+node 295: 
+node 296: 
+node 297: 
+node 298: 
+node 299: 
+node 300: 
+node 301: , 82
+node 302: 
+node 303: 
+node 304: 
+node 305: 
+node 306: 
+node 307: 
+node 308: 
+node 309: , 78, 119
+node 310: 
+node 311: 
+node 312: 
+node 313: 
+node 314: 
+node 315: 
+node 316: 
+node 317: 
+node 318: 
+node 319: 
+node 320: 
+node 321: 
+node 322: 
+node 323: 
+node 324: 
+node 325: 
+node 326: 
+node 327: 
+node 328: 
+node 329: 
+node 330: 
+node 331: 
+node 332: 
+node 333: 
+node 334: 
+node 335: 
+node 336: 
+node 337: 
+node 338: 
+node 339: 
+node 340: , 112, 182, 211, 246, 266
+node 341: 
+node 342: 
+node 343: 
+node 344: 
+node 345: 
+node 346: 
+node 347: 
+node 348: 
+node 349: 
+node 350: 
+node 351: 
+node 352: 
+node 353: 
+node 354: , 203
+node 355: 
+node 356: 
+node 357: 
+node 358: 
+node 359: 
+node 360: , 246, 266, 319
+node 361: 
+node 362: 
+node 363: 
+node 364: 
+node 365: 
+node 366: 
+node 367: 
+node 368: 
+node 369: 
+node 370: , 80, 166, 319, 360
+node 371: 
+node 372: 
+node 373: , 153
+node 374: 

@@ -1,0 +1,432 @@
+node 0: , 12, 146, 302
+node 1: 
+node 2: 
+node 3: 
+node 4: , 15, 17, 27
+node 5: 
+node 6: 
+node 7: 
+node 8: 
+node 9: , 164
+node 10: 
+node 11: 
+node 12: , 26, 37, 168, 302
+node 13: 
+node 14: 
+node 15: , 17, 27, 173, 183
+node 16: 
+node 17: , 19, 173
+node 18: 
+node 19: , 174, 176
+node 20: 
+node 21: 
+node 22: , 34, 191
+node 23: 
+node 24: 
+node 25: 
+node 26: , 15, 27, 37, 183, 193
+node 27: , 173, 183, 328
+node 28: 
+node 29: 
+node 30: 
+node 31: 
+node 32: 
+node 33: 
+node 34: , 57, 164, 176, 189
+node 35: 
+node 36: 
+node 37: , 50, 183, 193
+node 38: 
+node 39: 
+node 40: 
+node 41: 
+node 42: 
+node 43: 
+node 44: 
+node 45: 
+node 46: 
+node 47: 
+node 48: 
+node 49: 
+node 50: , 340, 352
+node 51: 
+node 52: 
+node 53: 
+node 54: , 77, 209, 211
+node 55: 
+node 56: 
+node 57: , 187, 199, 357
+node 58: 
+node 59: , 57, 189, 358
+node 60: , 50, 62, 193, 218
+node 61: 
+node 62: , 50, 75, 352
+node 63: 
+node 64: 
+node 65: 
+node 66: 
+node 67: 
+node 68: 
+node 69: 
+node 70: 
+node 71: 
+node 72: 
+node 73: 
+node 74: 
+node 75: , 77, 220, 352
+node 76: 
+node 77: , 209
+node 78: 
+node 79: , 89, 209, 211
+node 80: 
+node 81: 
+node 82: 
+node 83: 
+node 84: 
+node 85: 
+node 86: , 75, 87, 111, 218, 387
+node 87: , 75, 101, 220
+node 88: 
+node 89: , 77, 209
+node 90: 
+node 91: , 79, 89, 211
+node 92: 
+node 93: 
+node 94: 
+node 95: 
+node 96: 
+node 97: 
+node 98: 
+node 99: 
+node 100: 
+node 101: , 89, 220
+node 102: 
+node 103: 
+node 104: 
+node 105: , 248, 381
+node 106: 
+node 107: , 105, 226, 238, 261
+node 108: 
+node 109: 
+node 110: 
+node 111: , 87, 112, 387
+node 112: , 87, 101, 246, 402
+node 113: 
+node 114: 
+node 115: 
+node 116: 
+node 117: 
+node 118: 
+node 119: 
+node 120: 
+node 121: , 122, 384, 385, 397, 422
+node 122: , 111, 112, 268, 385, 387
+node 123: 
+node 124: 
+node 125: 
+node 126: 
+node 127: 
+node 128: 
+node 129: 
+node 130: 
+node 131: 
+node 132: 
+node 133: 
+node 134: 
+node 135: 
+node 136: 
+node 137: 
+node 138: 
+node 139: 
+node 140: 
+node 141: 
+node 142: , 261, 263, 275, 285, 417
+node 143: , 142, 275, 417
+node 144: 
+node 145: 
+node 146: , 4, 15, 26, 27, 302
+node 147: 
+node 148: 
+node 149: , 4, 17, 19, 151
+node 150: 
+node 151: , 17, 19, 164, 176
+node 152: 
+node 153: 
+node 154: , 9, 22, 34
+node 155: 
+node 156: 
+node 157: 
+node 158: 
+node 159: 
+node 160: 
+node 161: 
+node 162: 
+node 163: 
+node 164: , 19, 176, 187
+node 165: 
+node 166: 
+node 167: 
+node 168: , 26, 37, 193
+node 169: 
+node 170: 
+node 171: 
+node 172: 
+node 173: , 174, 328, 330, 340
+node 174: , 54, 187, 199, 330
+node 175: 
+node 176: , 174, 187, 189, 199
+node 177: 
+node 178: 
+node 179: , 22, 34, 154, 191
+node 180: 
+node 181: 
+node 182: 
+node 183: , 50, 173, 328, 340
+node 184: 
+node 185: 
+node 186: 
+node 187: , 54, 199, 211, 330
+node 188: 
+node 189: , 57, 187, 199, 357
+node 190: 
+node 191: , 34, 57, 59, 189
+node 192: 
+node 193: , 50, 62
+node 194: 
+node 195: 
+node 196: 
+node 197: 
+node 198: 
+node 199: , 54, 211, 330
+node 200: 
+node 201: 
+node 202: 
+node 203: 
+node 204: 
+node 205: 
+node 206: 
+node 207: 
+node 208: 
+node 209: 
+node 210: 
+node 211: , 77, 209
+node 212: 
+node 213: 
+node 214: 
+node 215: 
+node 216: , 60, 218
+node 217: 
+node 218: , 50, 62, 75, 220
+node 219: 
+node 220: , 77, 89, 352
+node 221: 
+node 222: 
+node 223: 
+node 224: 
+node 225: 
+node 226: , 105, 238, 358, 369
+node 227: 
+node 228: , 86, 216
+node 229: 
+node 230: 
+node 231: 
+node 232: 
+node 233: 
+node 234: 
+node 235: 
+node 236: 
+node 237: 
+node 238: , 105, 358, 369, 381
+node 239: 
+node 240: 
+node 241: 
+node 242: 
+node 243: 
+node 244: 
+node 245: 
+node 246: , 89, 91, 101
+node 247: 
+node 248: , 91, 246
+node 249: 
+node 250: 
+node 251: 
+node 252: 
+node 253: 
+node 254: 
+node 255: 
+node 256: 
+node 257: 
+node 258: 
+node 259: 
+node 260: 
+node 261: , 105, 248, 404
+node 262: 
+node 263: , 105, 107, 261, 417
+node 264: 
+node 265: 
+node 266: 
+node 267: 
+node 268: , 111, 112, 270, 387
+node 269: 
+node 270: , 112, 246, 402
+node 271: , 246, 248, 270, 402, 404
+node 272: 
+node 273: 
+node 274: 
+node 275: , 261, 263, 417
+node 276: 
+node 277: 
+node 278: 
+node 279: 
+node 280: , 122, 268, 270, 281
+node 281: , 268, 270, 283
+node 282: 
+node 283: , 270, 271, 402, 404
+node 284: 
+node 285: , 271, 283, 417
+node 286: 
+node 287: 
+node 288: 
+node 289: 
+node 290: 
+node 291: 
+node 292: 
+node 293: 
+node 294: 
+node 295: 
+node 296: 
+node 297: 
+node 298: 
+node 299: 
+node 300: 
+node 301: 
+node 302: , 15, 26, 27, 37, 183
+node 303: 
+node 304: 
+node 305: 
+node 306: 
+node 307: 
+node 308: 
+node 309: 
+node 310: 
+node 311: 
+node 312: 
+node 313: 
+node 314: 
+node 315: 
+node 316: 
+node 317: 
+node 318: 
+node 319: 
+node 320: 
+node 321: 
+node 322: 
+node 323: 
+node 324: 
+node 325: 
+node 326: 
+node 327: 
+node 328: , 330, 340
+node 329: 
+node 330: , 54, 211
+node 331: 
+node 332: 
+node 333: 
+node 334: 
+node 335: 
+node 336: 
+node 337: 
+node 338: 
+node 339: 
+node 340: , 54, 209, 352
+node 341: 
+node 342: 
+node 343: 
+node 344: 
+node 345: 
+node 346: 
+node 347: 
+node 348: 
+node 349: 
+node 350: 
+node 351: 
+node 352: , 77, 209
+node 353: 
+node 354: 
+node 355: 
+node 356: 
+node 357: , 79, 199, 369
+node 358: , 57, 189, 357, 369
+node 359: 
+node 360: 
+node 361: 
+node 362: 
+node 363: 
+node 364: 
+node 365: 
+node 366: 
+node 367: 
+node 368: 
+node 369: , 79
+node 370: 
+node 371: 
+node 372: 
+node 373: 
+node 374: 
+node 375: 
+node 376: 
+node 377: 
+node 378: 
+node 379: 
+node 380: 
+node 381: , 248, 369
+node 382: 
+node 383: 
+node 384: , 86, 216, 228, 385, 397
+node 385: , 86, 111, 387
+node 386: 
+node 387: , 87, 101, 112
+node 388: 
+node 389: 
+node 390: 
+node 391: 
+node 392: 
+node 393: 
+node 394: 
+node 395: 
+node 396: 
+node 397: , 86, 122, 385
+node 398: 
+node 399: 
+node 400: 
+node 401: 
+node 402: , 101, 246
+node 403: 
+node 404: , 246, 248, 402
+node 405: 
+node 406: 
+node 407: 
+node 408: 
+node 409: 
+node 410: 
+node 411: 
+node 412: 
+node 413: 
+node 414: 
+node 415: 
+node 416: 
+node 417: , 261, 271
+node 418: 
+node 419: 
+node 420: 
+node 421: , 121, 422
+node 422: , 122, 268, 280
+node 423: 
+node 424: 
+node 425: 
+node 426: 
+node 427: 
+node 428: 
+node 429: 
+node 430: 
+node 431: 

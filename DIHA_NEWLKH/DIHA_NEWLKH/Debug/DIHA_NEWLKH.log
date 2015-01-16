@@ -1,0 +1,104 @@
+﻿Build started 2015-01-01 오후 3:45:36.
+     1>Project "D:\DaumCloud\Working_Space\수영\정리\연구\Publication\2014년\SCI (WSN 보안을 위한 키 재분배)\실험\wsnsecsimNew(20140912)\branches\DIHA_NEWLKH\DIHA_NEWLKH\DIHA_NEWLKH.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\DIHA_NEWLKH.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Atk.cpp Atk_FRA.cpp BS.cpp EVAL.cpp GA.cpp Kmr.cpp Kmr_IHA.cpp Kmr_NEWLKH.cpp Node.cpp RAND.cpp Rtn.cpp Rtn_DIHA.cpp Rtn_IHA.cpp Rtn_SEF.cpp Sec.cpp Sec_DIHA.cpp Sec_IHA.cpp Sec_SEF.cpp SrchNode_KTS.cpp main.cpp
+         Atk.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+         Generating Code...
+         Compiling...
+         main.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\main.cpp(374): warning C4018: '<' : signed/unsigned mismatch
+         SrchNode_KTS.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\srchnode_kts.cpp(22): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\srchnode_kts.cpp(47): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\srchnode_kts.cpp(114): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\srchnode_kts.cpp(164): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\srchnode_kts.cpp(279): warning C4018: '<' : signed/unsigned mismatch
+         Sec_SEF.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+         Sec_IHA.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+         Sec_DIHA.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\sec_diha.cpp(486): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+         Sec.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+         Rtn_SEF.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\rtn_sef.cpp(501): warning C4101: 'CHID' : unreferenced local variable
+         Rtn_IHA.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+         Rtn_DIHA.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\rtn_diha.cpp(677): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\rtn_diha.cpp(677): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\rtn_diha.cpp(677): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+         Rtn.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+         RAND.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+         Node.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+         Kmr_NEWLKH.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+         Kmr_IHA.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\kmr_iha.cpp(134): warning C4018: '<' : signed/unsigned mismatch
+         Kmr.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+         GA.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\ga.cpp(178): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\ga.cpp(1975): warning C4018: '<' : signed/unsigned mismatch
+         EVAL.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+         BS.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+         Atk_FRA.cpp
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\params.h(134): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+         Generating Code...
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\kmr.cpp(612): warning C4715: 'Kmr::getUNode' : not all control paths return a value
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\kmr_iha.cpp(389): warning C4700: uninitialized local variable 'height' used
+     1>d:\daumcloud\working_space\수영\정리\연구\publication\2014년\sci (wsn 보안을 위한 키 재분배)\실험\wsnsecsimnew(20140912)\branches\diha_newlkh\diha_newlkh\kmr_iha.cpp(398): warning C4700: uninitialized local variable 'height' used
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DaumCloud\Working_Space\수영\정리\연구\Publication\2014년\SCI (WSN 보안을 위한 키 재분배)\실험\wsnsecsimNew(20140912)\branches\DIHA_NEWLKH\Debug\DIHA_NEWLKH.exe" /INCREMENTAL:NO /NOLOGO ffllapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DIHA_NEWLKH.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\DaumCloud\Working_Space\수영\정리\연구\Publication\2014년\SCI (WSN 보안을 위한 키 재분배)\실험\wsnsecsimNew(20140912)\branches\DIHA_NEWLKH\Debug\DIHA_NEWLKH.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DaumCloud\Working_Space\수영\정리\연구\Publication\2014년\SCI (WSN 보안을 위한 키 재분배)\실험\wsnsecsimNew(20140912)\branches\DIHA_NEWLKH\Debug\DIHA_NEWLKH.lib" /MACHINE:X86 Debug\AStar.obj
+         Debug\Atk.obj
+         Debug\Atk_FRA.obj
+         Debug\BS.obj
+         Debug\EVAL.obj
+         Debug\Fuzzy.obj
+         Debug\GA.obj
+         Debug\Kmr.obj
+         Debug\Kmr_IHA.obj
+         Debug\Kmr_NEWLKH.obj
+         Debug\main.obj
+         Debug\Node.obj
+         Debug\RAND.obj
+         Debug\Rtn.obj
+         Debug\Rtn_DIHA.obj
+         Debug\Rtn_IHA.obj
+         Debug\Rtn_SEF.obj
+         Debug\Sec.obj
+         Debug\Sec_DIHA.obj
+         Debug\Sec_IHA.obj
+         Debug\Sec_SEF.obj
+         Debug\SrchGrph.obj
+         Debug\SrchNode.obj
+         Debug\SrchNode_KTS.obj
+         Debug\tst_main_keyTreeTest.obj
+     1>AStar.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         DIHA_NEWLKH.vcxproj -> D:\DaumCloud\Working_Space\수영\정리\연구\Publication\2014년\SCI (WSN 보안을 위한 키 재분배)\실험\wsnsecsimNew(20140912)\branches\DIHA_NEWLKH\Debug\DIHA_NEWLKH.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\DaumCloud\Working_Space\수영\정리\연구\Publication\2014년\SCI (WSN 보안을 위한 키 재분배)\실험\wsnsecsimNew(20140912)\branches\DIHA_NEWLKH\Debug\DIHA_NEWLKH.exe;#1" /manifest Debug\DIHA_NEWLKH.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\DIHA_NEWLKH.unsuccessfulbuild".
+         Touching "Debug\DIHA_NEWLKH.lastbuildstate".
+     1>Done Building Project "D:\DaumCloud\Working_Space\수영\정리\연구\Publication\2014년\SCI (WSN 보안을 위한 키 재분배)\실험\wsnsecsimNew(20140912)\branches\DIHA_NEWLKH\DIHA_NEWLKH\DIHA_NEWLKH.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:16.24

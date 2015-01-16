@@ -1,0 +1,2 @@
+level: 1, index = 0 {  } level: 1, index = 1 {  } level: 1, index = 2 {  } level: 1, index = 3 { 10(52, 3) 22(91, 61) 32(103, 62) 19(53, 11) 30(44, 87)  } , COG: ( 68.6, 44.8), avg_dist: 0, std_deviation: 0
+level: 1, index = 4 {  } 

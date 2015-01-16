@@ -1,0 +1,91 @@
+ CH's ID: 17
+node: 13
+nID1: 13, nID2: 18, key value: 31
+
+node: 16
+
+node: 17
+nID1: 17, nID2: 20, key value: 37
+nID1: 17, nID2: 26, key value: 43
+nID1: 4, nID2: 17, key value: 21
+nID1: 0, nID2: 17, key value: 17
+
+node: 18
+nID1: 18, nID2: 26, key value: 44
+nID1: 13, nID2: 18, key value: 31
+nID1: 18, nID2: 20, key value: 38
+nID1: 18, nID2: 29, key value: 47
+
+node: 36
+
+
+
+ CH's ID: 20
+node: 14
+
+node: 20
+nID1: 19, nID2: 20, key value: 39
+nID1: 20, nID2: 23, key value: 43
+nID1: 20, nID2: 33, key value: 53
+nID1: 8, nID2: 20, key value: 28
+nID1: 11, nID2: 20, key value: 31
+nID1: 7, nID2: 20, key value: 27
+nID1: 17, nID2: 20, key value: 37
+nID1: 20, nID2: 29, key value: 49
+nID1: 18, nID2: 20, key value: 38
+nID1: 20, nID2: 24, key value: 44
+nID1: 20, nID2: 26, key value: 46
+
+node: 30
+
+node: 34
+
+
+
+ CH's ID: 21
+node: 21
+
+node: 38
+
+
+
+ CH's ID: 26
+node: 23
+nID1: 20, nID2: 23, key value: 43
+
+node: 24
+nID1: 24, nID2: 26, key value: 50
+nID1: 20, nID2: 24, key value: 44
+
+node: 26
+nID1: 19, nID2: 26, key value: 45
+nID1: 26, nID2: 33, key value: 59
+nID1: 11, nID2: 26, key value: 37
+nID1: 7, nID2: 26, key value: 33
+nID1: 26, nID2: 29, key value: 55
+nID1: 18, nID2: 26, key value: 44
+nID1: 17, nID2: 26, key value: 43
+nID1: 24, nID2: 26, key value: 50
+nID1: 20, nID2: 26, key value: 46
+
+node: 28
+
+node: 31
+
+node: 37
+
+
+
+ CH's ID: 33
+node: 19
+nID1: 19, nID2: 20, key value: 39
+nID1: 19, nID2: 26, key value: 45
+
+node: 27
+
+node: 33
+nID1: 20, nID2: 33, key value: 53
+nID1: 26, nID2: 33, key value: 59
+
+
+

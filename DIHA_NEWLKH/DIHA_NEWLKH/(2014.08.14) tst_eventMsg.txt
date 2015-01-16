@@ -1,0 +1,165 @@
+
+event_no: 1
+	 (x, y) = (126, 59),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 14
+
+	prev nodes: { }
+
+	 MACs: 
+
+	numVer: 0
+
+event_no: 2
+	 (x, y) = (118, 39),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 11
+
+	prev nodes: { }
+
+	 MACs: 
+
+	numVer: 0
+
+event_no: 3
+	 (x, y) = (126, 59),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 14
+
+	prev nodes: { }
+
+	 MACs: 
+
+	numVer: 0
+
+event_no: 4
+	 (x, y) = (52, 73),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 13
+
+	prev nodes: { }
+
+	 MACs: 
+
+	numVer: 0
+
+event_no: 5
+	 (x, y) = (126, 59),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 14
+
+	prev nodes: { }
+
+	 MACs: 
+
+	numVer: 0
+
+event_no: 6
+	 (x, y) = (118, 39),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 11
+
+	prev nodes: { }
+
+	 MACs: 
+
+	numVer: 0
+
+event_no: 7
+	 (x, y) = (62, 97),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 22
+
+	prev nodes: { }
+
+	 MACs: 
+
+	numVer: 0
+
+event_no: 8
+	 (x, y) = (68, 135),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 25
+
+	prev nodes: { }
+
+	 MACs: 
+
+	numVer: 0
+
+event_no: 9
+	 (x, y) = (52, 73),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 13
+
+	prev nodes: { }
+
+	 MACs: 
+
+	numVer: 0
+
+event_no: 10
+	 (x, y) = (62, 97),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 22
+
+	prev nodes: { }
+
+	 MACs: 
+
+	numVer: 0
+
+event_no: 11
+	 (x, y) = (68, 135),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 25
+
+	prev nodes: { }
+
+	 MACs: 
+
+	numVer: 0
+
+event_no: 12
+	 (x, y) = (52, 73),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 13
+
+	prev nodes: { }
+
+	 MACs: 
+
+	numVer: 0
+
+event_no: 13
+	 (x, y) = (106, 59),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 38
+
+	prev nodes: { }
+
+	 MACs: 
+
+	numVer: 0
+
+event_no: 14
+	 (x, y) = (52, 73),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 13
+
+	prev nodes: { }
+
+	 MACs: 
+
+	numVer: 0
+
+event_no: 15
+	 (x, y) = (126, 59),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 14
+
+	prev nodes: { }
+
+	 MACs: 
+
+	numVer: 0

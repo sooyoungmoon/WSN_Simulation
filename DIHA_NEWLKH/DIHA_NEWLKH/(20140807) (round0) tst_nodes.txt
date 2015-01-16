@@ -1,0 +1,54 @@
+node ID: 0cell ID: 0
+	 (  34, 0) , distance: 85
+node ID: 1cell ID: 1
+	 (  69, 24) , distance: 51
+node ID: 2cell ID: 2
+	 (  128, 8) , distance: 85
+node ID: 3cell ID: 3
+	 (  12, 64) , distance: 63
+node ID: 4cell ID: 4
+	 (  55, 95) , distance: 28
+node ID: 5cell ID: 5
+	 (  131, 77) , distance: 56
+node ID: 6cell ID: 6
+	 (  11, 141) , distance: 91
+node ID: 7cell ID: 7
+	 (  95, 142) , distance: 69
+node ID: 8cell ID: 8
+	 (  127, 136) , distance: 80
+node ID: 9cell ID: 0
+	 (  41, 4) , distance: 78
+node ID: 10cell ID: 1
+	 (  52, 3) , distance: 75
+node ID: 11cell ID: 2
+	 (  142, 32) , distance: 79
+node ID: 12cell ID: 3
+	 (  21, 66) , distance: 54
+node ID: 13cell ID: 4
+	 (  68, 95) , distance: 21
+node ID: 14cell ID: 5
+	 (  147, 76) , distance: 72
+node ID: 15cell ID: 6
+	 (  21, 138) , distance: 82
+node ID: 16cell ID: 7
+	 (  69, 112) , distance: 37
+node ID: 17cell ID: 8
+	 (  117, 149) , distance: 85
+node ID: 18cell ID: 0
+	 (  35, 44) , distance: 50
+node ID: 19cell ID: 1
+	 (  53, 11) , distance: 67
+node ID: 20cell ID: 2
+	 (  122, 33) , distance: 63
+node ID: 21cell ID: 3
+	 (  23, 64) , distance: 53
+node ID: 22cell ID: 4
+	 (  91, 61) , distance: 21
+node ID: 23cell ID: 5
+	 (  103, 68) , distance: 28
+node ID: 24cell ID: 6
+	 (  47, 144) , distance: 74
+node ID: 25cell ID: 7
+	 (  62, 107) , distance: 34
+node ID: 26cell ID: 8
+	 (  137, 109) , distance: 70

@@ -1,0 +1,50 @@
+(old key: 352 new key: 38), (old key: 382 new key: 291), recipents: {0,  } 
+cluster Info. : 0
+(old key: 352 new key: 38), (old key: 382 new key: 291), recipents: {4,  } 
+cluster Info. : 0
+upper assoc. nodes: {8, 17,  } 
+(old key: 352 new key: 38), (old key: 382 new key: 291), recipents: {16,  } 
+cluster Info. : 0
+(old key: 352 new key: 38), (old key: 382 new key: 291), recipents: {24,  } 
+(old key: 402 new key: 333), (old key: 382 new key: 291), recipents: {3,  } 
+cluster Info. : 25
+upper assoc. nodes: {8,  } 
+(old key: 402 new key: 333), (old key: 382 new key: 291), recipents: {6,  } 
+cluster Info. : 25
+(old key: 402 new key: 333), (old key: 382 new key: 291), recipents: {10,  } 
+cluster Info. : 25
+(old key: 402 new key: 333), (old key: 382 new key: 291), recipents: {25,  } 
+cluster Info. : 25
+(old key: 402 new key: 333), (old key: 382 new key: 291), recipents: {26,  } 
+cluster Info. : 25
+(old key: 660 new key: 584), (old key: 382 new key: 291), recipents: {9,  } 
+cluster Info. : 9
+(old key: 660 new key: 584), (old key: 382 new key: 291), recipents: {11,  } 
+(old key: 660 new key: 584), (old key: 382 new key: 291), recipents: {15,  } 
+cluster Info. : 9
+upper assoc. nodes: {8,  } 
+(old key: 660 new key: 584), (old key: 382 new key: 291), recipents: {18,  } 
+cluster Info. : 9
+(old key: 660 new key: 584), (old key: 382 new key: 291), recipents: {19,  } 
+cluster Info. : 9
+(old key: 660 new key: 584), (old key: 382 new key: 291), recipents: {23,  } 
+(old key: 230 new key: 263), (old key: 382 new key: 291), recipents: {5,  } 
+cluster Info. : 8
+(old key: 230 new key: 263), (old key: 382 new key: 291), recipents: {7,  } 
+(old key: 230 new key: 263), (old key: 382 new key: 291), recipents: {8,  } 
+cluster Info. : 8
+lower assoc. nodes: {3, 4, 15,  } 
+(old key: 230 new key: 263), (old key: 382 new key: 291), recipents: {13,  } 
+(old key: 230 new key: 263), (old key: 382 new key: 291), recipents: {20,  } 
+cluster Info. : 8
+(old key: 230 new key: 263), (old key: 382 new key: 291), recipents: {21,  } 
+(old key: 264 new key: 698), (old key: 382 new key: 291), recipents: {1,  } 
+(old key: 264 new key: 698), (old key: 382 new key: 291), recipents: {2,  } 
+(old key: 264 new key: 698), (old key: 382 new key: 291), recipents: {12,  } 
+cluster Info. : 17
+(old key: 264 new key: 698), (old key: 382 new key: 291), recipents: {14,  } 
+(old key: 264 new key: 698), (old key: 382 new key: 291), recipents: {17,  } 
+cluster Info. : 17
+lower assoc. nodes: {4,  } 
+(old key: 264 new key: 698), (old key: 382 new key: 291), recipents: {22,  } 
+cluster Info. : 17

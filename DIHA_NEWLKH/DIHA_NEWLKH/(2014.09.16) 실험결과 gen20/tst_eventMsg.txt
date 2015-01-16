@@ -1,0 +1,4800 @@
+
+event_no: 1
+	 (x, y) = (312, 589),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 430, receiver: 321
+
+	prev nodes: { 46, 98, 135, 273, 430, }
+
+	 MACs: 
+
+	(0)
+	origin = 46
+	nID = 46
+	nID2 = 321
+	code = -1
+	numVer: 0
+
+event_no: 2
+	 (x, y) = (90, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 223, receiver: 290
+
+	prev nodes: { 191, 287, 358, 374, 422, 223, }
+
+	 MACs: 
+
+	(0)
+	origin = 191
+	nID = 191
+	nID2 = 290
+	code = 481
+	numVer: 0
+
+event_no: 3
+	 (x, y) = (556, 281),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 381, receiver: 227
+
+	prev nodes: { 61, 77, 221, 301, 413, 381, }
+
+	 MACs: 
+
+	(0)
+	origin = 61
+	nID = 61
+	nID2 = 227
+	code = 288
+	numVer: 0
+
+event_no: 4
+	 (x, y) = (90, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 223, receiver: 290
+
+	prev nodes: { 191, 287, 358, 374, 422, 223, }
+
+	 MACs: 
+
+	(0)
+	origin = 191
+	nID = 191
+	nID2 = 290
+	code = 481
+	numVer: 0
+
+event_no: 5
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 136
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 136
+	code = -1
+	numVer: 0
+
+event_no: 6
+	 (x, y) = (74, 577),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 403, receiver: 222
+
+	prev nodes: { 56, 131, 200, 250, 419, 403, }
+
+	 MACs: 
+
+	(0)
+	origin = 56
+	nID = 56
+	nID2 = 222
+	code = -1
+	numVer: 0
+
+event_no: 7
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 8
+	 (x, y) = (38, 287),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 128, receiver: 322
+
+	prev nodes: { 187, 251, 288, 300, 336, 128, }
+
+	 MACs: 
+
+	(0)
+	origin = 187
+	nID = 187
+	nID2 = 322
+	code = 509
+	numVer: 0
+
+event_no: 9
+	 (x, y) = (36, 415),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 36, receiver: 424
+
+	prev nodes: { 31, 111, 212, 372, 420, 36, }
+
+	 MACs: 
+
+	(0)
+	origin = 31
+	nID = 31
+	nID2 = 424
+	code = -1
+	numVer: 0
+
+event_no: 10
+	 (x, y) = (556, 281),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 381, receiver: 227
+
+	prev nodes: { 61, 77, 221, 301, 413, 381, }
+
+	 MACs: 
+
+	(0)
+	origin = 61
+	nID = 61
+	nID2 = 227
+	code = 288
+	numVer: 0
+
+event_no: 11
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 12
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 411
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 411
+	code = 588
+	numVer: 0
+
+event_no: 13
+	 (x, y) = (34, 367),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 424, receiver: 119
+
+	prev nodes: { 28, 307, 344, 412, 428, 424, }
+
+	 MACs: 
+
+	(0)
+	origin = 28
+	nID = 28
+	nID2 = 119
+	code = 147
+	numVer: 0
+
+event_no: 14
+	 (x, y) = (364, 29),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 397, receiver: 361
+
+	prev nodes: { 60, 90, 252, 365, 380, 397, }
+
+	 MACs: 
+
+	(0)
+	origin = 60
+	nID = 60
+	nID2 = 361
+	code = -1
+	numVer: 0
+
+event_no: 15
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 223
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 223
+	code = 261
+	numVer: 0
+
+event_no: 16
+	 (x, y) = (588, 181),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 165, receiver: 194
+
+	prev nodes: { 213, 261, 293, 373, 165, }
+
+	 MACs: 
+
+	(0)
+	origin = 213
+	nID = 194
+	nID2 = 213
+	code = -1
+	numVer: 0
+
+event_no: 17
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 165
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 165
+	nID2 = 294
+	code = 459
+	numVer: 0
+
+event_no: 18
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 136
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 136
+	code = -1
+	numVer: 0
+
+event_no: 19
+	 (x, y) = (488, 45),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 103, receiver: 408
+
+	prev nodes: { 87, 151, 318, 348, 103, }
+
+	 MACs: 
+
+	(0)
+	origin = 87
+	nID = 87
+	nID2 = 408
+	code = -1
+	numVer: 0
+
+event_no: 20
+	 (x, y) = (34, 367),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 424, receiver: 119
+
+	prev nodes: { 28, 307, 344, 412, 428, 424, }
+
+	 MACs: 
+
+	(0)
+	origin = 28
+	nID = 28
+	nID2 = 119
+	code = 147
+	numVer: 0
+
+event_no: 21
+	 (x, y) = (496, 559),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 267, receiver: 271
+
+	prev nodes: { 27, 149, 226, 331, 431, 267, }
+
+	 MACs: 
+
+	(0)
+	origin = 27
+	nID = 27
+	nID2 = 271
+	code = -1
+	numVer: 0
+
+event_no: 22
+	 (x, y) = (36, 415),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 36, receiver: 424
+
+	prev nodes: { 31, 111, 212, 372, 420, 36, }
+
+	 MACs: 
+
+	(0)
+	origin = 31
+	nID = 31
+	nID2 = 424
+	code = -1
+	numVer: 0
+
+event_no: 23
+	 (x, y) = (588, 181),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 165, receiver: 14
+
+	prev nodes: { 213, 261, 293, 373, 165, }
+
+	 MACs: 
+
+	(0)
+	origin = 213
+	nID = 14
+	nID2 = 213
+	code = -1
+	numVer: 0
+
+event_no: 24
+	 (x, y) = (538, 19),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 414, receiver: 103
+
+	prev nodes: { 30, 129, 314, 346, 398, 414, }
+
+	 MACs: 
+
+	(0)
+	origin = 30
+	nID = 30
+	nID2 = 103
+	code = -1
+	numVer: 0
+
+event_no: 25
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 136
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 136
+	code = -1
+	numVer: 0
+
+event_no: 26
+	 (x, y) = (558, 515),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 409, receiver: 271
+
+	prev nodes: { 185, 329, 342, 345, 409, }
+
+	 MACs: 
+
+	(0)
+	origin = 185
+	nID = 185
+	nID2 = 271
+	code = 456
+	numVer: 0
+
+event_no: 27
+	 (x, y) = (560, 459),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 349, receiver: 146
+
+	prev nodes: { 58, 157, 174, 366, 349, }
+
+	 MACs: 
+
+	(0)
+	origin = 58
+	nID = 58
+	nID2 = 146
+	code = 204
+	numVer: 0
+
+event_no: 28
+	 (x, y) = (496, 559),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 267, receiver: 271
+
+	prev nodes: { 27, 149, 226, 331, 431, 267, }
+
+	 MACs: 
+
+	(0)
+	origin = 27
+	nID = 27
+	nID2 = 271
+	code = -1
+	numVer: 0
+
+event_no: 29
+	 (x, y) = (90, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 223, receiver: 290
+
+	prev nodes: { 191, 287, 358, 374, 422, 223, }
+
+	 MACs: 
+
+	(0)
+	origin = 191
+	nID = 191
+	nID2 = 290
+	code = 481
+	numVer: 0
+
+event_no: 30
+	 (x, y) = (496, 559),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 267, receiver: 271
+
+	prev nodes: { 27, 149, 226, 331, 431, 267, }
+
+	 MACs: 
+
+	(0)
+	origin = 27
+	nID = 27
+	nID2 = 271
+	code = -1
+	numVer: 0
+
+event_no: 31
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 32
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 36
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 36
+	code = 52
+	numVer: 0
+
+event_no: 33
+	 (x, y) = (488, 45),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 103, receiver: 408
+
+	prev nodes: { 87, 151, 318, 348, 103, }
+
+	 MACs: 
+
+	(0)
+	origin = 87
+	nID = 87
+	nID2 = 408
+	code = -1
+	numVer: 0
+
+event_no: 34
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 35
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 165
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 165
+	nID2 = 294
+	code = 459
+	numVer: 0
+
+event_no: 36
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 194
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 194
+	nID2 = 294
+	code = 488
+	numVer: 0
+
+event_no: 37
+	 (x, y) = (560, 459),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 349, receiver: 146
+
+	prev nodes: { 58, 157, 174, 366, 349, }
+
+	 MACs: 
+
+	(0)
+	origin = 58
+	nID = 58
+	nID2 = 146
+	code = 204
+	numVer: 0
+
+event_no: 38
+	 (x, y) = (160, 581),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 109, receiver: 222
+
+	prev nodes: { 29, 45, 93, 173, 317, 109, }
+
+	 MACs: 
+
+	(0)
+	origin = 29
+	nID = 29
+	nID2 = 222
+	code = 251
+	numVer: 0
+
+event_no: 39
+	 (x, y) = (558, 515),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 409, receiver: 271
+
+	prev nodes: { 185, 329, 342, 345, 409, }
+
+	 MACs: 
+
+	(0)
+	origin = 185
+	nID = 185
+	nID2 = 271
+	code = 456
+	numVer: 0
+
+event_no: 40
+	 (x, y) = (364, 29),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 397, receiver: 361
+
+	prev nodes: { 60, 90, 252, 365, 380, 397, }
+
+	 MACs: 
+
+	(0)
+	origin = 60
+	nID = 60
+	nID2 = 361
+	code = -1
+	numVer: 0
+
+event_no: 41
+	 (x, y) = (230, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 136, receiver: 347
+
+	prev nodes: { 72, 73, 184, 278, 136, }
+
+	 MACs: 
+
+	(0)
+	origin = 72
+	nID = 72
+	nID2 = 347
+	code = 419
+	numVer: 0
+
+event_no: 42
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 165
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 165
+	nID2 = 294
+	code = 459
+	numVer: 0
+
+event_no: 43
+	 (x, y) = (312, 589),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 430, receiver: 321
+
+	prev nodes: { 46, 98, 135, 273, 430, }
+
+	 MACs: 
+
+	(0)
+	origin = 46
+	nID = 46
+	nID2 = 321
+	code = -1
+	numVer: 0
+
+event_no: 44
+	 (x, y) = (312, 589),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 430, receiver: 321
+
+	prev nodes: { 46, 98, 135, 273, 430, }
+
+	 MACs: 
+
+	(0)
+	origin = 46
+	nID = 46
+	nID2 = 321
+	code = -1
+	numVer: 0
+
+event_no: 45
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 46
+	 (x, y) = (160, 581),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 109, receiver: 222
+
+	prev nodes: { 29, 45, 93, 173, 317, 109, }
+
+	 MACs: 
+
+	(0)
+	origin = 29
+	nID = 29
+	nID2 = 222
+	code = 251
+	numVer: 0
+
+event_no: 47
+	 (x, y) = (588, 181),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 165, receiver: 194
+
+	prev nodes: { 213, 261, 293, 373, 165, }
+
+	 MACs: 
+
+	(0)
+	origin = 213
+	nID = 194
+	nID2 = 213
+	code = -1
+	numVer: 0
+
+event_no: 48
+	 (x, y) = (488, 45),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 103, receiver: 408
+
+	prev nodes: { 87, 151, 318, 348, 103, }
+
+	 MACs: 
+
+	(0)
+	origin = 87
+	nID = 87
+	nID2 = 408
+	code = -1
+	numVer: 0
+
+event_no: 49
+	 (x, y) = (364, 29),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 397, receiver: 361
+
+	prev nodes: { 60, 90, 252, 365, 380, 397, }
+
+	 MACs: 
+
+	(0)
+	origin = 60
+	nID = 60
+	nID2 = 361
+	code = -1
+	numVer: 0
+
+event_no: 50
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 148
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 148
+	code = -1
+	numVer: 0
+
+event_no: 51
+	 (x, y) = (38, 287),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 128, receiver: 322
+
+	prev nodes: { 187, 251, 288, 300, 336, 128, }
+
+	 MACs: 
+
+	(0)
+	origin = 187
+	nID = 187
+	nID2 = 322
+	code = 509
+	numVer: 0
+
+event_no: 52
+	 (x, y) = (160, 581),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 109, receiver: 222
+
+	prev nodes: { 29, 45, 93, 173, 317, 109, }
+
+	 MACs: 
+
+	(0)
+	origin = 29
+	nID = 29
+	nID2 = 222
+	code = 251
+	numVer: 0
+
+event_no: 53
+	 (x, y) = (34, 367),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 424, receiver: 119
+
+	prev nodes: { 28, 307, 344, 412, 428, 424, }
+
+	 MACs: 
+
+	(0)
+	origin = 28
+	nID = 28
+	nID2 = 119
+	code = 147
+	numVer: 0
+
+event_no: 54
+	 (x, y) = (30, 71),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 416, receiver: 223
+
+	prev nodes: { 160, 219, 224, 283, 352, 416, }
+
+	 MACs: 
+
+	(0)
+	origin = 160
+	nID = 160
+	nID2 = 223
+	code = 383
+	numVer: 0
+
+event_no: 55
+	 (x, y) = (230, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 136, receiver: 347
+
+	prev nodes: { 72, 73, 184, 278, 136, }
+
+	 MACs: 
+
+	(0)
+	origin = 72
+	nID = 72
+	nID2 = 347
+	code = 419
+	numVer: 0
+
+event_no: 56
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 57
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 36
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 36
+	code = 52
+	numVer: 0
+
+event_no: 58
+	 (x, y) = (230, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 136, receiver: 347
+
+	prev nodes: { 72, 73, 184, 278, 136, }
+
+	 MACs: 
+
+	(0)
+	origin = 72
+	nID = 72
+	nID2 = 347
+	code = 419
+	numVer: 0
+
+event_no: 59
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 223
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 223
+	code = 261
+	numVer: 0
+
+event_no: 60
+	 (x, y) = (74, 577),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 403, receiver: 222
+
+	prev nodes: { 56, 131, 200, 250, 419, 403, }
+
+	 MACs: 
+
+	(0)
+	origin = 56
+	nID = 56
+	nID2 = 222
+	code = -1
+	numVer: 0
+
+event_no: 61
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 411
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 411
+	code = 588
+	numVer: 0
+
+event_no: 62
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 148
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 148
+	code = -1
+	numVer: 0
+
+event_no: 63
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 295
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 295
+	code = 333
+	numVer: 0
+
+event_no: 64
+	 (x, y) = (560, 459),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 349, receiver: 146
+
+	prev nodes: { 58, 157, 174, 366, 349, }
+
+	 MACs: 
+
+	(0)
+	origin = 58
+	nID = 58
+	nID2 = 146
+	code = 204
+	numVer: 0
+
+event_no: 65
+	 (x, y) = (34, 367),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 424, receiver: 119
+
+	prev nodes: { 28, 307, 344, 412, 428, 424, }
+
+	 MACs: 
+
+	(0)
+	origin = 28
+	nID = 28
+	nID2 = 119
+	code = 147
+	numVer: 0
+
+event_no: 66
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 194
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 194
+	nID2 = 294
+	code = 488
+	numVer: 0
+
+event_no: 67
+	 (x, y) = (30, 71),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 416, receiver: 223
+
+	prev nodes: { 160, 219, 224, 283, 352, 416, }
+
+	 MACs: 
+
+	(0)
+	origin = 160
+	nID = 160
+	nID2 = 223
+	code = 383
+	numVer: 0
+
+event_no: 68
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 36
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 36
+	code = 52
+	numVer: 0
+
+event_no: 69
+	 (x, y) = (30, 71),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 416, receiver: 295
+
+	prev nodes: { 160, 219, 224, 283, 352, 416, }
+
+	 MACs: 
+
+	(0)
+	origin = 160
+	nID = 160
+	nID2 = 295
+	code = 455
+	numVer: 0
+
+event_no: 70
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 71
+	 (x, y) = (38, 287),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 128, receiver: 322
+
+	prev nodes: { 187, 251, 288, 300, 336, 128, }
+
+	 MACs: 
+
+	(0)
+	origin = 187
+	nID = 187
+	nID2 = 322
+	code = 509
+	numVer: 0
+
+event_no: 72
+	 (x, y) = (538, 19),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 414, receiver: 103
+
+	prev nodes: { 30, 129, 314, 346, 398, 414, }
+
+	 MACs: 
+
+	(0)
+	origin = 30
+	nID = 30
+	nID2 = 103
+	code = -1
+	numVer: 0
+
+event_no: 73
+	 (x, y) = (230, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 136, receiver: 347
+
+	prev nodes: { 72, 73, 184, 278, 136, }
+
+	 MACs: 
+
+	(0)
+	origin = 72
+	nID = 72
+	nID2 = 347
+	code = 419
+	numVer: 0
+
+event_no: 74
+	 (x, y) = (160, 581),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 109, receiver: 222
+
+	prev nodes: { 29, 45, 93, 173, 317, 109, }
+
+	 MACs: 
+
+	(0)
+	origin = 29
+	nID = 29
+	nID2 = 222
+	code = 251
+	numVer: 0
+
+event_no: 75
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 148
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 148
+	code = -1
+	numVer: 0
+
+event_no: 76
+	 (x, y) = (556, 281),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 381, receiver: 227
+
+	prev nodes: { 61, 77, 221, 301, 413, 381, }
+
+	 MACs: 
+
+	(0)
+	origin = 61
+	nID = 61
+	nID2 = 227
+	code = 288
+	numVer: 0
+
+event_no: 77
+	 (x, y) = (560, 459),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 349, receiver: 146
+
+	prev nodes: { 58, 157, 174, 366, 349, }
+
+	 MACs: 
+
+	(0)
+	origin = 58
+	nID = 58
+	nID2 = 146
+	code = 204
+	numVer: 0
+
+event_no: 78
+	 (x, y) = (488, 45),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 103, receiver: 408
+
+	prev nodes: { 87, 151, 318, 348, 103, }
+
+	 MACs: 
+
+	(0)
+	origin = 87
+	nID = 87
+	nID2 = 408
+	code = -1
+	numVer: 0
+
+event_no: 79
+	 (x, y) = (556, 281),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 381, receiver: 227
+
+	prev nodes: { 61, 77, 221, 301, 413, 381, }
+
+	 MACs: 
+
+	(0)
+	origin = 61
+	nID = 61
+	nID2 = 227
+	code = 288
+	numVer: 0
+
+event_no: 80
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 229
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 229
+	code = 406
+	numVer: 0
+
+event_no: 81
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 148
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 148
+	code = -1
+	numVer: 0
+
+event_no: 82
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 148
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 148
+	code = -1
+	numVer: 0
+
+event_no: 83
+	 (x, y) = (488, 45),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 103, receiver: 408
+
+	prev nodes: { 87, 151, 318, 348, 103, }
+
+	 MACs: 
+
+	(0)
+	origin = 87
+	nID = 87
+	nID2 = 408
+	code = -1
+	numVer: 0
+
+event_no: 84
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 411
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 411
+	code = 588
+	numVer: 0
+
+event_no: 85
+	 (x, y) = (74, 577),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 403, receiver: 222
+
+	prev nodes: { 56, 131, 200, 250, 419, 403, }
+
+	 MACs: 
+
+	(0)
+	origin = 56
+	nID = 56
+	nID2 = 222
+	code = -1
+	numVer: 0
+
+event_no: 86
+	 (x, y) = (496, 559),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 267, receiver: 271
+
+	prev nodes: { 27, 149, 226, 331, 431, 267, }
+
+	 MACs: 
+
+	(0)
+	origin = 27
+	nID = 27
+	nID2 = 271
+	code = -1
+	numVer: 0
+
+event_no: 87
+	 (x, y) = (556, 281),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 381, receiver: 227
+
+	prev nodes: { 61, 77, 221, 301, 413, 381, }
+
+	 MACs: 
+
+	(0)
+	origin = 61
+	nID = 61
+	nID2 = 227
+	code = 288
+	numVer: 0
+
+event_no: 88
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 148
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 148
+	code = -1
+	numVer: 0
+
+event_no: 89
+	 (x, y) = (488, 45),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 103, receiver: 408
+
+	prev nodes: { 87, 151, 318, 348, 103, }
+
+	 MACs: 
+
+	(0)
+	origin = 87
+	nID = 87
+	nID2 = 408
+	code = -1
+	numVer: 0
+
+event_no: 90
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 165
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 165
+	nID2 = 294
+	code = 459
+	numVer: 0
+
+event_no: 91
+	 (x, y) = (230, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 136, receiver: 347
+
+	prev nodes: { 72, 73, 184, 278, 136, }
+
+	 MACs: 
+
+	(0)
+	origin = 72
+	nID = 72
+	nID2 = 347
+	code = 419
+	numVer: 0
+
+event_no: 92
+	 (x, y) = (488, 45),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 103, receiver: 408
+
+	prev nodes: { 87, 151, 318, 348, 103, }
+
+	 MACs: 
+
+	(0)
+	origin = 87
+	nID = 87
+	nID2 = 408
+	code = -1
+	numVer: 0
+
+event_no: 93
+	 (x, y) = (556, 281),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 381, receiver: 227
+
+	prev nodes: { 61, 77, 221, 301, 413, 381, }
+
+	 MACs: 
+
+	(0)
+	origin = 61
+	nID = 61
+	nID2 = 227
+	code = 288
+	numVer: 0
+
+event_no: 94
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 295
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 295
+	code = 333
+	numVer: 0
+
+event_no: 95
+	 (x, y) = (538, 19),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 414, receiver: 153
+
+	prev nodes: { 30, 129, 314, 346, 398, 414, }
+
+	 MACs: 
+
+	(0)
+	origin = 30
+	nID = 30
+	nID2 = 153
+	code = -1
+	numVer: 0
+
+event_no: 96
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 36
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 36
+	code = 52
+	numVer: 0
+
+event_no: 97
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 229
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 229
+	code = 406
+	numVer: 0
+
+event_no: 98
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 99
+	 (x, y) = (560, 459),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 349, receiver: 215
+
+	prev nodes: { 58, 157, 174, 366, 349, }
+
+	 MACs: 
+
+	(0)
+	origin = 58
+	nID = 58
+	nID2 = 215
+	code = 273
+	numVer: 0
+
+event_no: 100
+	 (x, y) = (560, 459),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 349, receiver: 215
+
+	prev nodes: { 58, 157, 174, 366, 349, }
+
+	 MACs: 
+
+	(0)
+	origin = 58
+	nID = 58
+	nID2 = 215
+	code = 273
+	numVer: 0
+
+event_no: 101
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 36
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 36
+	code = 52
+	numVer: 0
+
+event_no: 102
+	 (x, y) = (538, 19),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 414, receiver: 153
+
+	prev nodes: { 30, 129, 314, 346, 398, 414, }
+
+	 MACs: 
+
+	(0)
+	origin = 30
+	nID = 30
+	nID2 = 153
+	code = -1
+	numVer: 0
+
+event_no: 103
+	 (x, y) = (364, 29),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 397, receiver: 361
+
+	prev nodes: { 60, 90, 252, 365, 380, 397, }
+
+	 MACs: 
+
+	(0)
+	origin = 60
+	nID = 60
+	nID2 = 361
+	code = -1
+	numVer: 0
+
+event_no: 104
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 165
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 165
+	nID2 = 294
+	code = 459
+	numVer: 0
+
+event_no: 105
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 411
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 411
+	code = 588
+	numVer: 0
+
+event_no: 106
+	 (x, y) = (364, 29),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 397, receiver: 361
+
+	prev nodes: { 60, 90, 252, 365, 380, 397, }
+
+	 MACs: 
+
+	(0)
+	origin = 60
+	nID = 60
+	nID2 = 361
+	code = -1
+	numVer: 0
+
+event_no: 107
+	 (x, y) = (30, 71),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 416, receiver: 223
+
+	prev nodes: { 160, 219, 224, 283, 352, 416, }
+
+	 MACs: 
+
+	(0)
+	origin = 160
+	nID = 160
+	nID2 = 223
+	code = 383
+	numVer: 0
+
+event_no: 108
+	 (x, y) = (36, 415),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 36, receiver: 424
+
+	prev nodes: { 31, 111, 212, 372, 420, 36, }
+
+	 MACs: 
+
+	(0)
+	origin = 31
+	nID = 31
+	nID2 = 424
+	code = -1
+	numVer: 0
+
+event_no: 109
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 194
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 194
+	nID2 = 294
+	code = 488
+	numVer: 0
+
+event_no: 110
+	 (x, y) = (38, 287),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 128, receiver: 322
+
+	prev nodes: { 187, 251, 288, 300, 336, 128, }
+
+	 MACs: 
+
+	(0)
+	origin = 187
+	nID = 187
+	nID2 = 322
+	code = 509
+	numVer: 0
+
+event_no: 111
+	 (x, y) = (38, 287),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 128, receiver: 322
+
+	prev nodes: { 187, 251, 288, 300, 336, 128, }
+
+	 MACs: 
+
+	(0)
+	origin = 187
+	nID = 187
+	nID2 = 322
+	code = 509
+	numVer: 0
+
+event_no: 112
+	 (x, y) = (488, 45),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 103, receiver: 408
+
+	prev nodes: { 87, 151, 318, 348, 103, }
+
+	 MACs: 
+
+	(0)
+	origin = 87
+	nID = 87
+	nID2 = 408
+	code = -1
+	numVer: 0
+
+event_no: 113
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 295
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 295
+	code = 333
+	numVer: 0
+
+event_no: 114
+	 (x, y) = (312, 589),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 430, receiver: 411
+
+	prev nodes: { 46, 98, 135, 273, 430, }
+
+	 MACs: 
+
+	(0)
+	origin = 46
+	nID = 46
+	nID2 = 411
+	code = -1
+	numVer: 0
+
+event_no: 115
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 229
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 229
+	code = 406
+	numVer: 0
+
+event_no: 116
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 223
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 223
+	code = 261
+	numVer: 0
+
+event_no: 117
+	 (x, y) = (556, 281),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 381, receiver: 227
+
+	prev nodes: { 61, 77, 221, 301, 413, 381, }
+
+	 MACs: 
+
+	(0)
+	origin = 61
+	nID = 61
+	nID2 = 227
+	code = 288
+	numVer: 0
+
+event_no: 118
+	 (x, y) = (312, 589),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 430, receiver: 411
+
+	prev nodes: { 46, 98, 135, 273, 430, }
+
+	 MACs: 
+
+	(0)
+	origin = 46
+	nID = 46
+	nID2 = 411
+	code = -1
+	numVer: 0
+
+event_no: 119
+	 (x, y) = (74, 577),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 403, receiver: 222
+
+	prev nodes: { 56, 131, 200, 250, 419, 403, }
+
+	 MACs: 
+
+	(0)
+	origin = 56
+	nID = 56
+	nID2 = 222
+	code = -1
+	numVer: 0
+
+event_no: 120
+	 (x, y) = (74, 577),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 403, receiver: 222
+
+	prev nodes: { 56, 131, 200, 250, 419, 403, }
+
+	 MACs: 
+
+	(0)
+	origin = 56
+	nID = 56
+	nID2 = 222
+	code = -1
+	numVer: 0
+
+event_no: 121
+	 (x, y) = (74, 577),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 403, receiver: 222
+
+	prev nodes: { 56, 131, 200, 250, 419, 403, }
+
+	 MACs: 
+
+	(0)
+	origin = 56
+	nID = 56
+	nID2 = 222
+	code = -1
+	numVer: 0
+
+event_no: 122
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 229
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 229
+	code = 406
+	numVer: 0
+
+event_no: 123
+	 (x, y) = (556, 281),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 381, receiver: 227
+
+	prev nodes: { 61, 77, 221, 301, 413, 381, }
+
+	 MACs: 
+
+	(0)
+	origin = 61
+	nID = 61
+	nID2 = 227
+	code = 288
+	numVer: 0
+
+event_no: 124
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 125
+	 (x, y) = (496, 559),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 267, receiver: 271
+
+	prev nodes: { 27, 149, 226, 331, 431, 267, }
+
+	 MACs: 
+
+	(0)
+	origin = 27
+	nID = 27
+	nID2 = 271
+	code = -1
+	numVer: 0
+
+event_no: 126
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 36
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 36
+	code = 52
+	numVer: 0
+
+event_no: 127
+	 (x, y) = (30, 71),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 416, receiver: 223
+
+	prev nodes: { 160, 219, 224, 283, 352, 416, }
+
+	 MACs: 
+
+	(0)
+	origin = 160
+	nID = 160
+	nID2 = 223
+	code = 383
+	numVer: 0
+
+event_no: 128
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 222
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 222
+	code = 238
+	numVer: 0
+
+event_no: 129
+	 (x, y) = (90, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 223, receiver: 290
+
+	prev nodes: { 191, 287, 358, 374, 422, 223, }
+
+	 MACs: 
+
+	(0)
+	origin = 191
+	nID = 191
+	nID2 = 290
+	code = 481
+	numVer: 0
+
+event_no: 130
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 131
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 295
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 295
+	code = 333
+	numVer: 0
+
+event_no: 132
+	 (x, y) = (34, 367),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 424, receiver: 119
+
+	prev nodes: { 28, 307, 344, 412, 428, 424, }
+
+	 MACs: 
+
+	(0)
+	origin = 28
+	nID = 28
+	nID2 = 119
+	code = 147
+	numVer: 0
+
+event_no: 133
+	 (x, y) = (364, 29),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 397, receiver: 361
+
+	prev nodes: { 60, 90, 252, 365, 380, 397, }
+
+	 MACs: 
+
+	(0)
+	origin = 60
+	nID = 60
+	nID2 = 361
+	code = -1
+	numVer: 0
+
+event_no: 134
+	 (x, y) = (560, 459),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 349, receiver: 215
+
+	prev nodes: { 58, 157, 174, 366, 349, }
+
+	 MACs: 
+
+	(0)
+	origin = 58
+	nID = 58
+	nID2 = 215
+	code = 273
+	numVer: 0
+
+event_no: 135
+	 (x, y) = (36, 415),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 36, receiver: 291
+
+	prev nodes: { 31, 111, 212, 372, 420, 36, }
+
+	 MACs: 
+
+	(0)
+	origin = 31
+	nID = 31
+	nID2 = 291
+	code = -1
+	numVer: 0
+
+event_no: 136
+	 (x, y) = (74, 577),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 403, receiver: 222
+
+	prev nodes: { 56, 131, 200, 250, 419, 403, }
+
+	 MACs: 
+
+	(0)
+	origin = 56
+	nID = 56
+	nID2 = 222
+	code = -1
+	numVer: 0
+
+event_no: 137
+	 (x, y) = (230, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 136, receiver: 347
+
+	prev nodes: { 72, 73, 184, 278, 136, }
+
+	 MACs: 
+
+	(0)
+	origin = 72
+	nID = 72
+	nID2 = 347
+	code = 419
+	numVer: 0
+
+event_no: 138
+	 (x, y) = (538, 19),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 414, receiver: 103
+
+	prev nodes: { 30, 129, 314, 346, 398, 414, }
+
+	 MACs: 
+
+	(0)
+	origin = 30
+	nID = 30
+	nID2 = 103
+	code = -1
+	numVer: 0
+
+event_no: 139
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 165
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 165
+	nID2 = 294
+	code = 459
+	numVer: 0
+
+event_no: 140
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 411
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 411
+	code = 588
+	numVer: 0
+
+event_no: 141
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 165
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 165
+	nID2 = 294
+	code = 459
+	numVer: 0
+
+event_no: 142
+	 (x, y) = (558, 515),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 409, receiver: 271
+
+	prev nodes: { 185, 329, 342, 345, 409, }
+
+	 MACs: 
+
+	(0)
+	origin = 185
+	nID = 185
+	nID2 = 271
+	code = 456
+	numVer: 0
+
+event_no: 143
+	 (x, y) = (30, 71),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 416, receiver: 295
+
+	prev nodes: { 160, 219, 224, 283, 352, 416, }
+
+	 MACs: 
+
+	(0)
+	origin = 160
+	nID = 160
+	nID2 = 295
+	code = 455
+	numVer: 0
+
+event_no: 144
+	 (x, y) = (556, 281),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 381, receiver: 227
+
+	prev nodes: { 61, 77, 221, 301, 413, 381, }
+
+	 MACs: 
+
+	(0)
+	origin = 61
+	nID = 61
+	nID2 = 227
+	code = 288
+	numVer: 0
+
+event_no: 145
+	 (x, y) = (312, 589),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 430, receiver: 411
+
+	prev nodes: { 46, 98, 135, 273, 430, }
+
+	 MACs: 
+
+	(0)
+	origin = 46
+	nID = 46
+	nID2 = 411
+	code = -1
+	numVer: 0
+
+event_no: 146
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 295
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 295
+	code = 333
+	numVer: 0
+
+event_no: 147
+	 (x, y) = (556, 281),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 381, receiver: 227
+
+	prev nodes: { 61, 77, 221, 301, 413, 381, }
+
+	 MACs: 
+
+	(0)
+	origin = 61
+	nID = 61
+	nID2 = 227
+	code = 288
+	numVer: 0
+
+event_no: 148
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 229
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 229
+	code = 406
+	numVer: 0
+
+event_no: 149
+	 (x, y) = (560, 459),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 349, receiver: 146
+
+	prev nodes: { 58, 157, 174, 366, 349, }
+
+	 MACs: 
+
+	(0)
+	origin = 58
+	nID = 58
+	nID2 = 146
+	code = 204
+	numVer: 0
+
+event_no: 150
+	 (x, y) = (312, 589),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 430, receiver: 411
+
+	prev nodes: { 46, 98, 135, 273, 430, }
+
+	 MACs: 
+
+	(0)
+	origin = 46
+	nID = 46
+	nID2 = 411
+	code = -1
+	numVer: 0
+
+event_no: 151
+	 (x, y) = (496, 559),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 267, receiver: 271
+
+	prev nodes: { 27, 149, 226, 331, 431, 267, }
+
+	 MACs: 
+
+	(0)
+	origin = 27
+	nID = 27
+	nID2 = 271
+	code = -1
+	numVer: 0
+
+event_no: 152
+	 (x, y) = (74, 577),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 403, receiver: 222
+
+	prev nodes: { 56, 131, 200, 250, 419, 403, }
+
+	 MACs: 
+
+	(0)
+	origin = 56
+	nID = 56
+	nID2 = 222
+	code = -1
+	numVer: 0
+
+event_no: 153
+	 (x, y) = (36, 415),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 36, receiver: 291
+
+	prev nodes: { 31, 111, 212, 372, 420, 36, }
+
+	 MACs: 
+
+	(0)
+	origin = 31
+	nID = 31
+	nID2 = 291
+	code = -1
+	numVer: 0
+
+event_no: 154
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 155
+	 (x, y) = (588, 181),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 165, receiver: 194
+
+	prev nodes: { 213, 261, 293, 373, 165, }
+
+	 MACs: 
+
+	(0)
+	origin = 213
+	nID = 194
+	nID2 = 213
+	code = -1
+	numVer: 0
+
+event_no: 156
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 229
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 229
+	code = 406
+	numVer: 0
+
+event_no: 157
+	 (x, y) = (90, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 223, receiver: 290
+
+	prev nodes: { 191, 287, 358, 374, 422, 223, }
+
+	 MACs: 
+
+	(0)
+	origin = 191
+	nID = 191
+	nID2 = 290
+	code = 481
+	numVer: 0
+
+event_no: 158
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 194
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 194
+	nID2 = 294
+	code = 488
+	numVer: 0
+
+event_no: 159
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 295
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 295
+	code = 333
+	numVer: 0
+
+event_no: 160
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 223
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 223
+	code = 261
+	numVer: 0
+
+event_no: 161
+	 (x, y) = (160, 581),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 109, receiver: 222
+
+	prev nodes: { 29, 45, 93, 173, 317, 109, }
+
+	 MACs: 
+
+	(0)
+	origin = 29
+	nID = 29
+	nID2 = 222
+	code = 251
+	numVer: 0
+
+event_no: 162
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 148
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 148
+	code = -1
+	numVer: 0
+
+event_no: 163
+	 (x, y) = (90, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 223, receiver: 290
+
+	prev nodes: { 191, 287, 358, 374, 422, 223, }
+
+	 MACs: 
+
+	(0)
+	origin = 191
+	nID = 191
+	nID2 = 290
+	code = 481
+	numVer: 0
+
+event_no: 164
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 386
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 386
+	code = 402
+	numVer: 0
+
+event_no: 165
+	 (x, y) = (36, 415),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 36, receiver: 291
+
+	prev nodes: { 31, 111, 212, 372, 420, 36, }
+
+	 MACs: 
+
+	(0)
+	origin = 31
+	nID = 31
+	nID2 = 291
+	code = -1
+	numVer: 0
+
+event_no: 166
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 148
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 148
+	code = -1
+	numVer: 0
+
+event_no: 167
+	 (x, y) = (74, 577),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 403, receiver: 222
+
+	prev nodes: { 56, 131, 200, 250, 419, 403, }
+
+	 MACs: 
+
+	(0)
+	origin = 56
+	nID = 56
+	nID2 = 222
+	code = -1
+	numVer: 0
+
+event_no: 168
+	 (x, y) = (488, 45),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 103, receiver: 408
+
+	prev nodes: { 87, 151, 318, 348, 103, }
+
+	 MACs: 
+
+	(0)
+	origin = 87
+	nID = 87
+	nID2 = 408
+	code = -1
+	numVer: 0
+
+event_no: 169
+	 (x, y) = (160, 581),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 109, receiver: 222
+
+	prev nodes: { 29, 45, 93, 173, 317, 109, }
+
+	 MACs: 
+
+	(0)
+	origin = 29
+	nID = 29
+	nID2 = 222
+	code = 251
+	numVer: 0
+
+event_no: 170
+	 (x, y) = (90, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 223, receiver: 290
+
+	prev nodes: { 191, 287, 358, 374, 422, 223, }
+
+	 MACs: 
+
+	(0)
+	origin = 191
+	nID = 191
+	nID2 = 290
+	code = 481
+	numVer: 0
+
+event_no: 171
+	 (x, y) = (560, 459),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 349, receiver: 215
+
+	prev nodes: { 58, 157, 174, 366, 349, }
+
+	 MACs: 
+
+	(0)
+	origin = 58
+	nID = 58
+	nID2 = 215
+	code = 273
+	numVer: 0
+
+event_no: 172
+	 (x, y) = (560, 459),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 349, receiver: 146
+
+	prev nodes: { 58, 157, 174, 366, 349, }
+
+	 MACs: 
+
+	(0)
+	origin = 58
+	nID = 58
+	nID2 = 146
+	code = 204
+	numVer: 0
+
+event_no: 173
+	 (x, y) = (560, 459),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 349, receiver: 215
+
+	prev nodes: { 58, 157, 174, 366, 349, }
+
+	 MACs: 
+
+	(0)
+	origin = 58
+	nID = 58
+	nID2 = 215
+	code = 273
+	numVer: 0
+
+event_no: 174
+	 (x, y) = (364, 29),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 397, receiver: 361
+
+	prev nodes: { 60, 90, 252, 365, 380, 397, }
+
+	 MACs: 
+
+	(0)
+	origin = 60
+	nID = 60
+	nID2 = 361
+	code = -1
+	numVer: 0
+
+event_no: 175
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 194
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 194
+	nID2 = 294
+	code = 488
+	numVer: 0
+
+event_no: 176
+	 (x, y) = (30, 71),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 416, receiver: 295
+
+	prev nodes: { 160, 219, 224, 283, 352, 416, }
+
+	 MACs: 
+
+	(0)
+	origin = 160
+	nID = 160
+	nID2 = 295
+	code = 455
+	numVer: 0
+
+event_no: 177
+	 (x, y) = (558, 515),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 409, receiver: 271
+
+	prev nodes: { 185, 329, 342, 345, 409, }
+
+	 MACs: 
+
+	(0)
+	origin = 185
+	nID = 185
+	nID2 = 271
+	code = 456
+	numVer: 0
+
+event_no: 178
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 411
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 411
+	code = 588
+	numVer: 0
+
+event_no: 179
+	 (x, y) = (230, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 136, receiver: 347
+
+	prev nodes: { 72, 73, 184, 278, 136, }
+
+	 MACs: 
+
+	(0)
+	origin = 72
+	nID = 72
+	nID2 = 347
+	code = 419
+	numVer: 0
+
+event_no: 180
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 295
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 295
+	code = 333
+	numVer: 0
+
+event_no: 181
+	 (x, y) = (496, 559),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 267, receiver: 271
+
+	prev nodes: { 27, 149, 226, 331, 431, 267, }
+
+	 MACs: 
+
+	(0)
+	origin = 27
+	nID = 27
+	nID2 = 271
+	code = -1
+	numVer: 0
+
+event_no: 182
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 183
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 165
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 165
+	nID2 = 294
+	code = 459
+	numVer: 0
+
+event_no: 184
+	 (x, y) = (38, 287),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 128, receiver: 322
+
+	prev nodes: { 187, 251, 288, 300, 336, 128, }
+
+	 MACs: 
+
+	(0)
+	origin = 187
+	nID = 187
+	nID2 = 322
+	code = 509
+	numVer: 0
+
+event_no: 185
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 229
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 229
+	code = 406
+	numVer: 0
+
+event_no: 186
+	 (x, y) = (538, 19),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 414, receiver: 103
+
+	prev nodes: { 30, 129, 314, 346, 398, 414, }
+
+	 MACs: 
+
+	(0)
+	origin = 30
+	nID = 30
+	nID2 = 103
+	code = -1
+	numVer: 0
+
+event_no: 187
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 148
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 148
+	code = -1
+	numVer: 0
+
+event_no: 188
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 165
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 165
+	nID2 = 294
+	code = 459
+	numVer: 0
+
+event_no: 189
+	 (x, y) = (90, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 223, receiver: 290
+
+	prev nodes: { 191, 287, 358, 374, 422, 223, }
+
+	 MACs: 
+
+	(0)
+	origin = 191
+	nID = 191
+	nID2 = 290
+	code = 481
+	numVer: 0
+
+event_no: 190
+	 (x, y) = (230, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 136, receiver: 347
+
+	prev nodes: { 72, 73, 184, 278, 136, }
+
+	 MACs: 
+
+	(0)
+	origin = 72
+	nID = 72
+	nID2 = 347
+	code = 419
+	numVer: 0
+
+event_no: 191
+	 (x, y) = (588, 181),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 165, receiver: 194
+
+	prev nodes: { 213, 261, 293, 373, 165, }
+
+	 MACs: 
+
+	(0)
+	origin = 213
+	nID = 194
+	nID2 = 213
+	code = -1
+	numVer: 0
+
+event_no: 192
+	 (x, y) = (160, 581),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 109, receiver: 222
+
+	prev nodes: { 29, 45, 93, 173, 317, 109, }
+
+	 MACs: 
+
+	(0)
+	origin = 29
+	nID = 29
+	nID2 = 222
+	code = 251
+	numVer: 0
+
+event_no: 193
+	 (x, y) = (496, 559),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 267, receiver: 271
+
+	prev nodes: { 27, 149, 226, 331, 431, 267, }
+
+	 MACs: 
+
+	(0)
+	origin = 27
+	nID = 27
+	nID2 = 271
+	code = -1
+	numVer: 0
+
+event_no: 194
+	 (x, y) = (556, 281),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 381, receiver: 227
+
+	prev nodes: { 61, 77, 221, 301, 413, 381, }
+
+	 MACs: 
+
+	(0)
+	origin = 61
+	nID = 61
+	nID2 = 227
+	code = 288
+	numVer: 0
+
+event_no: 195
+	 (x, y) = (312, 589),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 430, receiver: 411
+
+	prev nodes: { 46, 98, 135, 273, 430, }
+
+	 MACs: 
+
+	(0)
+	origin = 46
+	nID = 46
+	nID2 = 411
+	code = -1
+	numVer: 0
+
+event_no: 196
+	 (x, y) = (364, 29),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 397, receiver: 361
+
+	prev nodes: { 60, 90, 252, 365, 380, 397, }
+
+	 MACs: 
+
+	(0)
+	origin = 60
+	nID = 60
+	nID2 = 361
+	code = -1
+	numVer: 0
+
+event_no: 197
+	 (x, y) = (34, 367),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 424, receiver: 119
+
+	prev nodes: { 28, 307, 344, 412, 428, 424, }
+
+	 MACs: 
+
+	(0)
+	origin = 28
+	nID = 28
+	nID2 = 119
+	code = 147
+	numVer: 0
+
+event_no: 198
+	 (x, y) = (560, 459),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 349, receiver: 146
+
+	prev nodes: { 58, 157, 174, 366, 349, }
+
+	 MACs: 
+
+	(0)
+	origin = 58
+	nID = 58
+	nID2 = 146
+	code = 204
+	numVer: 0
+
+event_no: 199
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 194
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 194
+	nID2 = 294
+	code = 488
+	numVer: 0
+
+event_no: 200
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 201
+	 (x, y) = (364, 29),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 397, receiver: 361
+
+	prev nodes: { 60, 90, 252, 365, 380, 397, }
+
+	 MACs: 
+
+	(0)
+	origin = 60
+	nID = 60
+	nID2 = 361
+	code = -1
+	numVer: 0
+
+event_no: 202
+	 (x, y) = (364, 29),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 397, receiver: 361
+
+	prev nodes: { 60, 90, 252, 365, 380, 397, }
+
+	 MACs: 
+
+	(0)
+	origin = 60
+	nID = 60
+	nID2 = 361
+	code = -1
+	numVer: 0
+
+event_no: 203
+	 (x, y) = (230, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 136, receiver: 347
+
+	prev nodes: { 72, 73, 184, 278, 136, }
+
+	 MACs: 
+
+	(0)
+	origin = 72
+	nID = 72
+	nID2 = 347
+	code = 419
+	numVer: 0
+
+event_no: 204
+	 (x, y) = (560, 459),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 349, receiver: 215
+
+	prev nodes: { 58, 157, 174, 366, 349, }
+
+	 MACs: 
+
+	(0)
+	origin = 58
+	nID = 58
+	nID2 = 215
+	code = 273
+	numVer: 0
+
+event_no: 205
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 148
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 148
+	code = -1
+	numVer: 0
+
+event_no: 206
+	 (x, y) = (496, 559),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 267, receiver: 271
+
+	prev nodes: { 27, 149, 226, 331, 431, 267, }
+
+	 MACs: 
+
+	(0)
+	origin = 27
+	nID = 27
+	nID2 = 271
+	code = -1
+	numVer: 0
+
+event_no: 207
+	 (x, y) = (74, 577),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 403, receiver: 222
+
+	prev nodes: { 56, 131, 200, 250, 419, 403, }
+
+	 MACs: 
+
+	(0)
+	origin = 56
+	nID = 56
+	nID2 = 222
+	code = -1
+	numVer: 0
+
+event_no: 208
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 36
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 36
+	code = 52
+	numVer: 0
+
+event_no: 209
+	 (x, y) = (538, 19),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 414, receiver: 103
+
+	prev nodes: { 30, 129, 314, 346, 398, 414, }
+
+	 MACs: 
+
+	(0)
+	origin = 30
+	nID = 30
+	nID2 = 103
+	code = -1
+	numVer: 0
+
+event_no: 210
+	 (x, y) = (34, 367),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 424, receiver: 119
+
+	prev nodes: { 28, 307, 344, 412, 428, 424, }
+
+	 MACs: 
+
+	(0)
+	origin = 28
+	nID = 28
+	nID2 = 119
+	code = 147
+	numVer: 0
+
+event_no: 211
+	 (x, y) = (588, 181),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 165, receiver: 194
+
+	prev nodes: { 213, 261, 293, 373, 165, }
+
+	 MACs: 
+
+	(0)
+	origin = 213
+	nID = 194
+	nID2 = 213
+	code = -1
+	numVer: 0
+
+event_no: 212
+	 (x, y) = (312, 589),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 430, receiver: 411
+
+	prev nodes: { 46, 98, 135, 273, 430, }
+
+	 MACs: 
+
+	(0)
+	origin = 46
+	nID = 46
+	nID2 = 411
+	code = -1
+	numVer: 0
+
+event_no: 213
+	 (x, y) = (90, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 223, receiver: 290
+
+	prev nodes: { 191, 287, 358, 374, 422, 223, }
+
+	 MACs: 
+
+	(0)
+	origin = 191
+	nID = 191
+	nID2 = 290
+	code = 481
+	numVer: 0
+
+event_no: 214
+	 (x, y) = (160, 581),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 109, receiver: 222
+
+	prev nodes: { 29, 45, 93, 173, 317, 109, }
+
+	 MACs: 
+
+	(0)
+	origin = 29
+	nID = 29
+	nID2 = 222
+	code = 251
+	numVer: 0
+
+event_no: 215
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 295
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 295
+	code = 333
+	numVer: 0
+
+event_no: 216
+	 (x, y) = (74, 577),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 403, receiver: 222
+
+	prev nodes: { 56, 131, 200, 250, 419, 403, }
+
+	 MACs: 
+
+	(0)
+	origin = 56
+	nID = 56
+	nID2 = 222
+	code = -1
+	numVer: 0
+
+event_no: 217
+	 (x, y) = (588, 181),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 165, receiver: 14
+
+	prev nodes: { 213, 261, 293, 373, 165, }
+
+	 MACs: 
+
+	(0)
+	origin = 213
+	nID = 14
+	nID2 = 213
+	code = -1
+	numVer: 0
+
+event_no: 218
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 148
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 148
+	code = -1
+	numVer: 0
+
+event_no: 219
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 148
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 148
+	code = -1
+	numVer: 0
+
+event_no: 220
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 194
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 194
+	nID2 = 294
+	code = 488
+	numVer: 0
+
+event_no: 221
+	 (x, y) = (488, 45),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 103, receiver: 408
+
+	prev nodes: { 87, 151, 318, 348, 103, }
+
+	 MACs: 
+
+	(0)
+	origin = 87
+	nID = 87
+	nID2 = 408
+	code = -1
+	numVer: 0
+
+event_no: 222
+	 (x, y) = (538, 19),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 414, receiver: 103
+
+	prev nodes: { 30, 129, 314, 346, 398, 414, }
+
+	 MACs: 
+
+	(0)
+	origin = 30
+	nID = 30
+	nID2 = 103
+	code = -1
+	numVer: 0
+
+event_no: 223
+	 (x, y) = (36, 415),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 36, receiver: 291
+
+	prev nodes: { 31, 111, 212, 372, 420, 36, }
+
+	 MACs: 
+
+	(0)
+	origin = 31
+	nID = 31
+	nID2 = 291
+	code = -1
+	numVer: 0
+
+event_no: 224
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 386
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 386
+	code = 402
+	numVer: 0
+
+event_no: 225
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 295
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 295
+	code = 333
+	numVer: 0
+
+event_no: 226
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 223
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 223
+	code = 261
+	numVer: 0
+
+event_no: 227
+	 (x, y) = (312, 589),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 430, receiver: 411
+
+	prev nodes: { 46, 98, 135, 273, 430, }
+
+	 MACs: 
+
+	(0)
+	origin = 46
+	nID = 46
+	nID2 = 411
+	code = -1
+	numVer: 0
+
+event_no: 228
+	 (x, y) = (488, 45),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 103, receiver: 408
+
+	prev nodes: { 87, 151, 318, 348, 103, }
+
+	 MACs: 
+
+	(0)
+	origin = 87
+	nID = 87
+	nID2 = 408
+	code = -1
+	numVer: 0
+
+event_no: 229
+	 (x, y) = (36, 415),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 36, receiver: 291
+
+	prev nodes: { 31, 111, 212, 372, 420, 36, }
+
+	 MACs: 
+
+	(0)
+	origin = 31
+	nID = 31
+	nID2 = 291
+	code = -1
+	numVer: 0
+
+event_no: 230
+	 (x, y) = (230, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 136, receiver: 347
+
+	prev nodes: { 72, 73, 184, 278, 136, }
+
+	 MACs: 
+
+	(0)
+	origin = 72
+	nID = 72
+	nID2 = 347
+	code = 419
+	numVer: 0
+
+event_no: 231
+	 (x, y) = (556, 281),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 381, receiver: 227
+
+	prev nodes: { 61, 77, 221, 301, 413, 381, }
+
+	 MACs: 
+
+	(0)
+	origin = 61
+	nID = 61
+	nID2 = 227
+	code = 288
+	numVer: 0
+
+event_no: 232
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 386
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 386
+	code = 402
+	numVer: 0
+
+event_no: 233
+	 (x, y) = (538, 19),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 414, receiver: 103
+
+	prev nodes: { 30, 129, 314, 346, 398, 414, }
+
+	 MACs: 
+
+	(0)
+	origin = 30
+	nID = 30
+	nID2 = 103
+	code = -1
+	numVer: 0
+
+event_no: 234
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 36
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 36
+	code = 52
+	numVer: 0
+
+event_no: 235
+	 (x, y) = (38, 287),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 128, receiver: 119
+
+	prev nodes: { 187, 251, 288, 300, 336, 128, }
+
+	 MACs: 
+
+	(0)
+	origin = 187
+	nID = 119
+	nID2 = 187
+	code = 306
+	numVer: 0
+
+event_no: 236
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 295
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 295
+	code = 333
+	numVer: 0
+
+event_no: 237
+	 (x, y) = (30, 71),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 416, receiver: 223
+
+	prev nodes: { 160, 219, 224, 283, 352, 416, }
+
+	 MACs: 
+
+	(0)
+	origin = 160
+	nID = 160
+	nID2 = 223
+	code = 383
+	numVer: 0
+
+event_no: 238
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 295
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 295
+	code = 333
+	numVer: 0
+
+event_no: 239
+	 (x, y) = (488, 45),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 103, receiver: 408
+
+	prev nodes: { 87, 151, 318, 348, 103, }
+
+	 MACs: 
+
+	(0)
+	origin = 87
+	nID = 87
+	nID2 = 408
+	code = -1
+	numVer: 0
+
+event_no: 240
+	 (x, y) = (34, 367),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 424, receiver: 119
+
+	prev nodes: { 28, 307, 344, 412, 428, 424, }
+
+	 MACs: 
+
+	(0)
+	origin = 28
+	nID = 28
+	nID2 = 119
+	code = 147
+	numVer: 0
+
+event_no: 241
+	 (x, y) = (160, 581),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 109, receiver: 222
+
+	prev nodes: { 29, 45, 93, 173, 317, 109, }
+
+	 MACs: 
+
+	(0)
+	origin = 29
+	nID = 29
+	nID2 = 222
+	code = 251
+	numVer: 0
+
+event_no: 242
+	 (x, y) = (250, 23),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 211, receiver: 148
+
+	prev nodes: { 24, 83, 88, 179, 410, 211, }
+
+	 MACs: 
+
+	(0)
+	origin = 24
+	nID = 24
+	nID2 = 148
+	code = -1
+	numVer: 0
+
+event_no: 243
+	 (x, y) = (312, 589),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 430, receiver: 411
+
+	prev nodes: { 46, 98, 135, 273, 430, }
+
+	 MACs: 
+
+	(0)
+	origin = 46
+	nID = 46
+	nID2 = 411
+	code = -1
+	numVer: 0
+
+event_no: 244
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 245
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 229
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 229
+	code = 406
+	numVer: 0
+
+event_no: 246
+	 (x, y) = (312, 589),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 430, receiver: 411
+
+	prev nodes: { 46, 98, 135, 273, 430, }
+
+	 MACs: 
+
+	(0)
+	origin = 46
+	nID = 46
+	nID2 = 411
+	code = -1
+	numVer: 0
+
+event_no: 247
+	 (x, y) = (30, 71),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 416, receiver: 223
+
+	prev nodes: { 160, 219, 224, 283, 352, 416, }
+
+	 MACs: 
+
+	(0)
+	origin = 160
+	nID = 160
+	nID2 = 223
+	code = 383
+	numVer: 0
+
+event_no: 248
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 295
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 295
+	code = 333
+	numVer: 0
+
+event_no: 249
+	 (x, y) = (30, 71),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 416, receiver: 223
+
+	prev nodes: { 160, 219, 224, 283, 352, 416, }
+
+	 MACs: 
+
+	(0)
+	origin = 160
+	nID = 160
+	nID2 = 223
+	code = 383
+	numVer: 0
+
+event_no: 250
+	 (x, y) = (558, 515),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 409, receiver: 349
+
+	prev nodes: { 185, 329, 342, 345, 409, }
+
+	 MACs: 
+
+	(0)
+	origin = 185
+	nID = 185
+	nID2 = 349
+	code = 534
+	numVer: 0
+
+event_no: 251
+	 (x, y) = (496, 559),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 267, receiver: 26
+
+	prev nodes: { 27, 149, 226, 331, 431, 267, }
+
+	 MACs: 
+
+	(0)
+	origin = 27
+	nID = 26
+	nID2 = 27
+	code = -1
+	numVer: 0
+
+event_no: 252
+	 (x, y) = (588, 181),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 165, receiver: 194
+
+	prev nodes: { 213, 261, 293, 373, 165, }
+
+	 MACs: 
+
+	(0)
+	origin = 213
+	nID = 194
+	nID2 = 213
+	code = -1
+	numVer: 0
+
+event_no: 253
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 229
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 229
+	code = 406
+	numVer: 0
+
+event_no: 254
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 411
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 411
+	code = 588
+	numVer: 0
+
+event_no: 255
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 36
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 36
+	code = 52
+	numVer: 0
+
+event_no: 256
+	 (x, y) = (90, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 223, receiver: 290
+
+	prev nodes: { 191, 287, 358, 374, 422, 223, }
+
+	 MACs: 
+
+	(0)
+	origin = 191
+	nID = 191
+	nID2 = 290
+	code = 481
+	numVer: 0
+
+event_no: 257
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 229
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 229
+	code = 406
+	numVer: 0
+
+event_no: 258
+	 (x, y) = (34, 367),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 424, receiver: 119
+
+	prev nodes: { 28, 307, 344, 412, 428, 424, }
+
+	 MACs: 
+
+	(0)
+	origin = 28
+	nID = 28
+	nID2 = 119
+	code = 147
+	numVer: 0
+
+event_no: 259
+	 (x, y) = (556, 281),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 381, receiver: 227
+
+	prev nodes: { 61, 77, 221, 301, 413, 381, }
+
+	 MACs: 
+
+	(0)
+	origin = 61
+	nID = 61
+	nID2 = 227
+	code = 288
+	numVer: 0
+
+event_no: 260
+	 (x, y) = (36, 415),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 36, receiver: 291
+
+	prev nodes: { 31, 111, 212, 372, 420, 36, }
+
+	 MACs: 
+
+	(0)
+	origin = 31
+	nID = 31
+	nID2 = 291
+	code = -1
+	numVer: 0
+
+event_no: 261
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 411
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 411
+	code = 588
+	numVer: 0
+
+event_no: 262
+	 (x, y) = (74, 577),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 403, receiver: 222
+
+	prev nodes: { 56, 131, 200, 250, 419, 403, }
+
+	 MACs: 
+
+	(0)
+	origin = 56
+	nID = 56
+	nID2 = 222
+	code = -1
+	numVer: 0
+
+event_no: 263
+	 (x, y) = (488, 45),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 103, receiver: 408
+
+	prev nodes: { 87, 151, 318, 348, 103, }
+
+	 MACs: 
+
+	(0)
+	origin = 87
+	nID = 87
+	nID2 = 408
+	code = -1
+	numVer: 0
+
+event_no: 264
+	 (x, y) = (34, 367),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 424, receiver: 119
+
+	prev nodes: { 28, 307, 344, 412, 428, 424, }
+
+	 MACs: 
+
+	(0)
+	origin = 28
+	nID = 28
+	nID2 = 119
+	code = 147
+	numVer: 0
+
+event_no: 265
+	 (x, y) = (34, 367),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 424, receiver: 291
+
+	prev nodes: { 28, 307, 344, 412, 428, 424, }
+
+	 MACs: 
+
+	(0)
+	origin = 28
+	nID = 28
+	nID2 = 291
+	code = 319
+	numVer: 0
+
+event_no: 266
+	 (x, y) = (588, 181),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 165, receiver: 14
+
+	prev nodes: { 213, 261, 293, 373, 165, }
+
+	 MACs: 
+
+	(0)
+	origin = 213
+	nID = 14
+	nID2 = 213
+	code = -1
+	numVer: 0
+
+event_no: 267
+	 (x, y) = (496, 559),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 267, receiver: 271
+
+	prev nodes: { 27, 149, 226, 331, 431, 267, }
+
+	 MACs: 
+
+	(0)
+	origin = 27
+	nID = 27
+	nID2 = 271
+	code = -1
+	numVer: 0
+
+event_no: 268
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 269
+	 (x, y) = (34, 367),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 424, receiver: 119
+
+	prev nodes: { 28, 307, 344, 412, 428, 424, }
+
+	 MACs: 
+
+	(0)
+	origin = 28
+	nID = 28
+	nID2 = 119
+	code = 147
+	numVer: 0
+
+event_no: 270
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 295
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 295
+	code = 333
+	numVer: 0
+
+event_no: 271
+	 (x, y) = (90, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 223, receiver: 290
+
+	prev nodes: { 191, 287, 358, 374, 422, 223, }
+
+	 MACs: 
+
+	(0)
+	origin = 191
+	nID = 191
+	nID2 = 290
+	code = 481
+	numVer: 0
+
+event_no: 272
+	 (x, y) = (160, 581),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 109, receiver: 222
+
+	prev nodes: { 29, 45, 93, 173, 317, 109, }
+
+	 MACs: 
+
+	(0)
+	origin = 29
+	nID = 29
+	nID2 = 222
+	code = 251
+	numVer: 0
+
+event_no: 273
+	 (x, y) = (496, 559),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 267, receiver: 26
+
+	prev nodes: { 27, 149, 226, 331, 431, 267, }
+
+	 MACs: 
+
+	(0)
+	origin = 27
+	nID = 26
+	nID2 = 27
+	code = -1
+	numVer: 0
+
+event_no: 274
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 275
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 276
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 386
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 386
+	code = 402
+	numVer: 0
+
+event_no: 277
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 278
+	 (x, y) = (38, 287),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 128, receiver: 322
+
+	prev nodes: { 187, 251, 288, 300, 336, 128, }
+
+	 MACs: 
+
+	(0)
+	origin = 187
+	nID = 187
+	nID2 = 322
+	code = 509
+	numVer: 0
+
+event_no: 279
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 36
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 36
+	code = 52
+	numVer: 0
+
+event_no: 280
+	 (x, y) = (312, 589),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 430, receiver: 411
+
+	prev nodes: { 46, 98, 135, 273, 430, }
+
+	 MACs: 
+
+	(0)
+	origin = 46
+	nID = 46
+	nID2 = 411
+	code = -1
+	numVer: 0
+
+event_no: 281
+	 (x, y) = (160, 581),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 109, receiver: 222
+
+	prev nodes: { 29, 45, 93, 173, 317, 109, }
+
+	 MACs: 
+
+	(0)
+	origin = 29
+	nID = 29
+	nID2 = 222
+	code = 251
+	numVer: 0
+
+event_no: 282
+	 (x, y) = (48, 61),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 272, receiver: 295
+
+	prev nodes: { 38, 64, 156, 276, 351, 272, }
+
+	 MACs: 
+
+	(0)
+	origin = 38
+	nID = 38
+	nID2 = 295
+	code = 333
+	numVer: 0
+
+event_no: 283
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 194
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 194
+	nID2 = 294
+	code = 488
+	numVer: 0
+
+event_no: 284
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 285
+	 (x, y) = (560, 459),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 349, receiver: 146
+
+	prev nodes: { 58, 157, 174, 366, 349, }
+
+	 MACs: 
+
+	(0)
+	origin = 58
+	nID = 58
+	nID2 = 146
+	code = 204
+	numVer: 0
+
+event_no: 286
+	 (x, y) = (364, 29),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 397, receiver: 361
+
+	prev nodes: { 60, 90, 252, 365, 380, 397, }
+
+	 MACs: 
+
+	(0)
+	origin = 60
+	nID = 60
+	nID2 = 361
+	code = -1
+	numVer: 0
+
+event_no: 287
+	 (x, y) = (74, 577),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 403, receiver: 222
+
+	prev nodes: { 56, 131, 200, 250, 419, 403, }
+
+	 MACs: 
+
+	(0)
+	origin = 56
+	nID = 56
+	nID2 = 222
+	code = -1
+	numVer: 0
+
+event_no: 288
+	 (x, y) = (90, 31),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 223, receiver: 290
+
+	prev nodes: { 191, 287, 358, 374, 422, 223, }
+
+	 MACs: 
+
+	(0)
+	origin = 191
+	nID = 191
+	nID2 = 290
+	code = 481
+	numVer: 0
+
+event_no: 289
+	 (x, y) = (160, 581),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 109, receiver: 222
+
+	prev nodes: { 29, 45, 93, 173, 317, 109, }
+
+	 MACs: 
+
+	(0)
+	origin = 29
+	nID = 29
+	nID2 = 222
+	code = 251
+	numVer: 0
+
+event_no: 290
+	 (x, y) = (38, 287),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 128, receiver: 119
+
+	prev nodes: { 187, 251, 288, 300, 336, 128, }
+
+	 MACs: 
+
+	(0)
+	origin = 187
+	nID = 119
+	nID2 = 187
+	code = 306
+	numVer: 0
+
+event_no: 291
+	 (x, y) = (48, 467),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 0, receiver: 386
+
+	prev nodes: { 16, 167, 320, 340, 343, 0, }
+
+	 MACs: 
+
+	(0)
+	origin = 16
+	nID = 16
+	nID2 = 386
+	code = 402
+	numVer: 0
+
+event_no: 292
+	 (x, y) = (160, 581),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 109, receiver: 222
+
+	prev nodes: { 29, 45, 93, 173, 317, 109, }
+
+	 MACs: 
+
+	(0)
+	origin = 29
+	nID = 29
+	nID2 = 222
+	code = 251
+	numVer: 0
+
+event_no: 293
+	 (x, y) = (34, 367),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 424, receiver: 291
+
+	prev nodes: { 28, 307, 344, 412, 428, 424, }
+
+	 MACs: 
+
+	(0)
+	origin = 28
+	nID = 28
+	nID2 = 291
+	code = 319
+	numVer: 0
+
+event_no: 294
+	 (x, y) = (582, 101),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 153, receiver: 165
+
+	prev nodes: { 294, 297, 313, 385, 406, 153, }
+
+	 MACs: 
+
+	(0)
+	origin = 294
+	nID = 165
+	nID2 = 294
+	code = 459
+	numVer: 0
+
+event_no: 295
+	 (x, y) = (588, 181),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 165, receiver: 14
+
+	prev nodes: { 213, 261, 293, 373, 165, }
+
+	 MACs: 
+
+	(0)
+	origin = 213
+	nID = 14
+	nID2 = 213
+	code = -1
+	numVer: 0
+
+event_no: 296
+	 (x, y) = (364, 575),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 321, receiver: 229
+
+	prev nodes: { 177, 225, 369, 417, 321, }
+
+	 MACs: 
+
+	(0)
+	origin = 177
+	nID = 177
+	nID2 = 229
+	code = 406
+	numVer: 0
+
+event_no: 297
+	 (x, y) = (594, 289),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 141, receiver: 106
+
+	prev nodes: { 41, 113, 201, 285, 393, 141, }
+
+	 MACs: 
+
+	(0)
+	origin = 41
+	nID = 41
+	nID2 = 106
+	code = -1
+	numVer: 0
+
+event_no: 298
+	 (x, y) = (36, 415),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 36, receiver: 291
+
+	prev nodes: { 31, 111, 212, 372, 420, 36, }
+
+	 MACs: 
+
+	(0)
+	origin = 31
+	nID = 31
+	nID2 = 291
+	code = -1
+	numVer: 0
+
+event_no: 299
+	 (x, y) = (364, 29),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 397, receiver: 361
+
+	prev nodes: { 60, 90, 252, 365, 380, 397, }
+
+	 MACs: 
+
+	(0)
+	origin = 60
+	nID = 60
+	nID2 = 361
+	code = -1
+	numVer: 0
+
+event_no: 300
+	 (x, y) = (558, 515),  value = 0
+	 ÁøÇà È© ¼ö = 0
+	sender: 409, receiver: 271
+
+	prev nodes: { 185, 329, 342, 345, 409, }
+
+	 MACs: 
+
+	(0)
+	origin = 185
+	nID = 185
+	nID2 = 271
+	code = 456
+	numVer: 0
